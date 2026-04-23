@@ -1,0 +1,334 @@
+﻿"session","exam","year","question_id","subquestion_id","type","marks","AO","spec_reference","question_text","mark_scheme","extra_notes","question_page_start","question_page_end","mark_scheme_start_page","mark_scheme_end_page","has_figure","figure_labels_joined","has_table","table_labels_joined","source_qp","source_ms"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","1","Q01.1","multiple choice","1","AO2","5.1.2.2","Figure 1 shows part of Mendeleev’s version of the periodic table.
+Figure 1
+Which group of elements had not been discovered when Mendeleev’s version of the periodic table was published?
+[1 mark]
+A □
+B □
+C □
+D □","(Group) 0 or noble gases","","2","2","10","10","true","Figure 1","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","1","Q01.2","multiple choice","1","AO2","5.1.1.3","Figure 2 represents different models of the atom.
+Figure 2
+Which model represents the plum pudding model?
+[1 mark]
+Tick (✓) one box.
+A □
+B □
+C □
+D □","B","","3","3","10","10","true","Figure 2","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","1","Q01.3","multiple choice","1","AO3","5.1.1.3","Which model resulted from Chadwick’s experimental work?
+[1 mark]
+Tick (✓) one box.
+A □
+B □
+C □
+D □","A","","3","3","10","10","true","Figure 2","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","1","Q01.4","short answer","2","AO1","5.1.1.5","Potassium has different isotopes.
+What is meant by ‘isotopes’?
+You should refer to subatomic particles.
+[2 marks]","(atoms with the) same number of protons
+(but with) different numbers of neutrons","allow atoms with the same 
+atomic number
+allow atoms of the same 
+element
+ignore the same number of 
+electrons
+ignore (but with) different mass 
+numbers
+do not accept (but with) different 
+relative atomic mass","4","4","10","10","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","1","Q01.5","calculation","3","AO2","5.1.1.6","Table 1 shows the mass numbers and the percentage abundance of two isotopes of potassium.
+
+Table 1
+| Mass number | Percentage abundance |
+|-------------|---------------------|
+| 39          | 93.1                |
+| 41          | 6.9                 |
+
+Calculate the relative atomic mass (Ar) of potassium.
+Give your answer to 1 decimal place.
+[3 marks]
+Relative atomic mass (1 decimal place) = ____","(39 × 93.1) + (41 × 6.9)
+100
+= 39.138
+= 39.1","allow correctly rounded answer 
+to 1 decimal place from an 
+incorrect calculation using all the 
+values given in the question","4","5","10","10","false","","true","Table 1","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","2","Q02.1","multiple choice","1","AO1","5.4.2.4","Acids react to produce salts.
+Universal indicator is added to water and then nitric acid is added to the mixture.
+Give the colour change when nitric acid is added to the mixture of universal indicator and water.
+[1 mark]
+Tick (✓) one box.
+Blue to red □
+Green to purple □
+Green to red □
+Red to purple □","green to red","","6","6","11","11","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","2","Q02.2","multiple choice","1","AO1","5.4.2.4","What happens to the pH of water when nitric acid is added?
+[1 mark]
+Tick (✓) one box.
+Decreases □
+Stays the same □
+Increases □","decreases","","6","6","11","11","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","2","Q02.3","short answer","1","AO1","5.2.2.2","What is the state symbol for nitric acid?
+[1 mark]","(aq)","allow aq
+ignore aqueous
+ignore HNO3","6","6","11","11","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","2","Q02.4","short answer","2","AO3","5.4.2.2, 5.4.2.3","Zinc carbonate reacts with nitric acid.
+The word equation for the reaction is:
+zinc carbonate + nitric acid → zinc nitrate + water + carbon dioxide
+white solid colourless solution
+Give two observations that would be made when zinc carbonate is added to nitric acid until the zinc carbonate is in excess.
+[2 marks]
+1 ____________________
+2 ____________________","any two from:
+• (white) solid disappears
+• fizzing / bubbles / effervescence
+• (then) stops fizzing
+• (white) solid left at the end / bottom","allow a gas is produced
+ignore colourless solution","7","7","11","11","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","2","Q02.5","multiple choice","1","AO2","5.1.1.1, 5.4.2.2","The formula of the zinc ion is Zn2+
+The formula of the nitrate ion is NO3–
+What is the formula for zinc nitrate?
+[1 mark]
+Tick (✓) one box.
+ZnNO3 □
+Zn(NO3)2 □
+Zn2NO3 □
+Zn2(NO3)2 □","Zn(NO3)2","","7","7","11","11","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","2","Q02.6","extended response","6","AO1","5.4.2.2, 5.4.2.3","Acids react with insoluble metal oxides to produce salts.
+Plan a method to produce a pure, dry sample of the soluble salt copper chloride from an acid and a metal oxide.
+[6 marks]","Level 3: The method would lead to the production of a valid outcome. The key steps are identified and logically sequenced.
+Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced.
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+No relevant content
+Indicative content:
+  • react hydrochloric acid
+  • (with) copper oxide
+  • in a suitable container
+  • warm (hydrochloric) acid
+  • add copper oxide
+  • until is in excess or until solid remains
+  • stir
+  • filter excess copper oxide
+  • pour solution / filtrate into evaporating basin
+  • use of water bath or use of electric heater
+  • to heat gently or partially evaporate
+  • leave to cool / crystallise
+For level 3 the correct chemicals must have been selected.","","8","9","11","11","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","3","Q03.1","short answer","1","AO1","5.5.1.1","This question is about energy change.
+A student investigated the temperature change when 10 g of ammonium nitrate was added to 100 cm3 of water.
+This is the method used.
+1. Measure the temperature of 100 cm3 of water.
+2. Add 10 g of ammonium nitrate.
+3. Stir once.
+4. Measure the temperature of the solution every minute for 7 minutes.
+Figure 3 shows the apparatus.
+Figure 3
+What is the dependent variable in this investigation?
+[1 mark]","temperature (of solution)","allow temperature change","10","10","12","12","true","Figure 3","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","3","Q03.2","short answer","3","AO3","5.5.1.1","Give three improvements to the investigation to make the results more accurate.
+[3 marks]
+1 ____________________
+2 ____________________
+3 ____________________","any three from:
+• insulate the beaker
+• add a lid
+• stir more (times)
+• repeat the experiment and calculate the mean (ignoring anomalous results)
+• use smaller volume (of water)
+• use larger mass of ammonium nitrate
+• more accurate balance
+• use digital thermometer or use a more accurate thermometer","","10","10","12","12","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","3","Q03.3","extended response","4","AO3","5.5.1.1","Figure 4 shows the results.
+Figure 4
+Explain the results.
+[4 marks]","(from 0 to 1.5 minutes the) temperature decreases
+(because) ammonium nitrate dissolving is endothermic
+(then) after 1.5 minutes the temperature increases
+(because) energy transfers to the solution from the surroundings","allow the temperature 
+decreases (from 21.4 ⁰C to 15.4 
+⁰C)
+(then) after 15.4 ⁰C the 
+temperature increases","11","12","12","12","true","Figure 4","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","3","Q03.4","short answer","4","AO1","5.5.1.2","Draw a reaction profile for an exothermic reaction.
+You should label:
+• the energy level of the reactants and of the products
+• the activation energy
+• the overall energy change.
+[4 marks]","labelled horizontal lines for reactants and products, with the product line below the level of the reactant line
+reaction pathway
+line from reactants to maximum labelled activation energy
+line from reactants to products labelled overall energy change
+the diagram below scores 4 marks","allow curve to start / finish 
+anywhere along reactant / 
+product lines","12","12","12","12","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","4","Q04.1","multiple choice","1","AO1","5.2.3.3","Carbon can exist in a number of different structures.
+The first fullerene to be discovered was Buckminsterfullerene.
+What is the formula of Buckminsterfullerene?
+[1 mark]
+Tick (✓) one box.
+C40 □
+C50 □
+C60 □
+C70 □","C60","","14","14","13","13","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","4","Q04.2","short answer","2","AO1","5.2.3.2","Graphite is a form of carbon.
+Explain why graphite conducts electricity.
+[2 marks]","(graphite has) delocalised electrons
+(so the delocalised electrons) carry electrical charge through the structure","allow (so the delocalised 
+electrons) move through the 
+structure","14","14","13","13","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","4","Q04.3","short answer","3","AO1","5.2.2.7","Steel is an alloy of iron and carbon.
+Explain why steel is harder than iron.
+[3 marks]","carbon atoms have different sizes to iron atoms / ions
+(so carbon atoms) distort the layers of iron atoms / ions
+(therefore) the layers cannot slide","","15","15","13","13","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","4","Q04.4","calculation","4","AO2","5.2.2.7","Iron is alloyed with carbon and other metals to make stainless steel.
+A stainless steel fork contains 71.92% iron.
+Table 2 shows the mass of each element in the fork.
+
+Table 2
+| Element | Iron | Carbon | Chromium | Nickel |
+|---------|------|--------|----------|--------|
+| Mass of element in g | X | 0.05 | 10.44 | 5.80 |
+
+Calculate the mass of iron (X) in the fork.
+[4 marks]
+X = ____ g","(percentage and mass of other elements)
+28.08 (%) = 16.29 (g)
+(mass of fork) = 16.29 / 28.08 × 100 (g)
+= 58.01 (g)
+(mass of iron = 71.92 / 100 × 58.01)
+= 41.72 (g)","allow (mass of fork – mass of 
+other elements) = 41.72 (g)
+allow 41.7 (g)
+allow correct use of incorrect 
+calculation of mass and / or 
+percentages","15","16","13","13","false","","true","Table 2","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","5","Q05.1","short answer","2","AO2","5.4.1.4","This question is about the electrolysis of aqueous solutions.
+Hydrogen gas and chlorine gas are produced when sodium chloride solution is electrolysed.
+Hydrogen ions (H+) are attracted to the negative electrode.
+The half equation for the reaction at the negative electrode is:
+2 H+ + 2 e– → H2
+What type of reaction happens at the negative electrode?
+Give the reason for your answer.
+[2 marks]
+Type of reaction
+____________________
+Reason
+____________________","reduction
+(as H+ ions) gain electrons","ignore electrolysis","16","16","14","14","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","5","Q05.2","short answer","2","AO2","5.4.1.4, 5.4.3.1, 5.4.3.4, RPA9","Chloride ions are attracted to the positive electrode.
+Complete the half equation for the production of chlorine gas (Cl2).
+[2 marks]
+Cl– → ____ + ____","2 Cl– → Cl2 + 2 e–","allow 2 Cl– – 2 e– → Cl2 
+ignore state symbols
+allow 1 mark for Cl2 + e–
+allow 1 mark for
+– e–
+(on lhs) and Cl2 (on rhs) ","16","16","14","14","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","5","Q05.3","extended response","4","AO1","5.4.1.4, 5.4.3.1, 5.4.3.4, 5.4.3.5, RPA9","Hydrogen gas and oxygen gas are produced when sodium sulfate solution is electrolysed.
+Explain how oxygen gas is produced in the electrolysis of sodium sulfate solution.
+[4 marks]","water molecules
+break down to produce OH– ions
+(which are) attracted to the positive electrode
+(where OH– ions are) oxidised or (where OH– ions) lose electrons","allow dissociate to produce OH–
+ions
+ignore discharged
+ignore oxygen is produced as no 
+halide is present","17","17","14","14","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","6","Q06.1","calculation","3","AO2","5.1.1.1, 5.3.1.1, 5.3.1.3, 5.3.2.1, 5.4.1.1","Metal oxides are produced when metals are heated in air.
+A student investigated the change in mass when 0.12 g of magnesium was heated in air.
+Figure 5 shows the apparatus.
+Figure 5
+The student measured the mass of magnesium oxide produced.
+0.12 g of magnesium reacted to produce 0.20 g of magnesium oxide.
+Calculate the number of moles of oxygen gas (O2) that reacted.
+Relative atomic mass (Ar): O = 16
+[3 marks]
+Moles of oxygen gas = ____","(mass of oxygen = 0.20 – 0.12)
+= 0.08 (g)
+(moles of oxygen) = 0.08 / 32
+= 0.0025","allow 1 mark for 0.005
+ if derived from 
+0.08
+16","18","18","15","15","true","Figure 5","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","6","Q06.2","short answer","2","AO3","5.4.1.1","The student repeated the experiment without a lid on the crucible.
+Suggest why the mass of magnesium oxide produced would be different without a lid on the crucible.
+[2 marks]","(without a lid the) mass of magnesium oxide was less
+(because) products escaped","allow magnesium oxide escaped","19","19","15","15","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","6","Q06.3","calculation","3","AO2","5.1.1.1, 5.3.1.1, 5.3.1.3, 5.3.2.1, 5.3.2.2, 5.3.2.3, 5.4.1.1","Copper reacts with oxygen to produce copper oxide.
+63.5 g of copper produces 79.5 g of copper oxide.
+Calculate the mass of copper oxide produced when 0.50 g of copper reacts with oxygen.
+Give your answer to 3 significant figures.
+[3 marks]
+Mass (3 significant figures) = ____ g","(mass of copper oxide =) 79.5 / 63.5 × 0.5
+= 0.62598 (g)
+= 0.626 (g)","allow an answer correctly 
+rounded to 3 significant figures 
+from an incorrect calculation 
+which uses all the values in the 
+question","19","20","15","15","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","6","Q06.4","calculation","4","AO2","5.1.1.1, 5.3.1.1, 5.3.1.3, 5.3.2.1, 5.3.2.2, 5.3.2.3, 5.4.1.1","Iron reacts with oxygen to produce an oxide of iron.
+0.015 moles of iron reacts with 0.010 moles of oxygen gas (O2).
+Determine:
+• the formula of the iron oxide produced
+• the balanced symbol equation for the reaction.
+[4 marks]
+Formula of iron oxide = ____
+Balanced symbol equation ____________________","3:2 ratio Fe : O2 (molecules)
+or
+3:4 ratio Fe : O (atoms)
+(formula) Fe3O4
+3Fe + 2O2 → Fe3O4","allow 1 mark for Fe3O2
+from 3:2 ratio Fe : O (atoms)
+(MP2 but not MP1)
+allow multiples
+allow correct use of incorrectly 
+determined formula
+allow 1 mark for Fe, O2 and 
+Fe3O4
+or
+allow 1 mark for Fe, O2 and 
+incorrectly determined formula","20","21","15","15","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","7","Q07.1","short answer","2","AO3","5.5.1.2","Methane, ethane, propane and butane all react with oxygen to produce carbon dioxide and water.
+Suggest why a mixture of methane and oxygen does not react at room temperature.
+Answer in terms of particles.
+[2 marks]","particles collide (but at room temperature) particles have insufficient energy or (but) have energy less than the activation energy (so collisions are not successful)","","22","22","16","16","false","","false","","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","7","Q07.2","calculation","1","AO3","5.5.1.2, 5.5.1.3","Table 3 shows the energy released when methane, ethane and propane react with oxygen to produce carbon dioxide and water.
+
+Table 3
+| Compound reacted with oxygen | Methane | Ethane | Propane |
+|-----------------------------|---------|--------|---------|
+| Formula of compound         | CH4     | C2H6   | C3H8    |
+| Energy released in kJ/mol   | 680     | 1160   | 1640    |
+
+Predict the energy released when butane (C4H10) reacts with oxygen to produce carbon dioxide and water.
+[1 mark]
+Energy released = ____ kJ/mol","2120 (kJ/mol)","","22","23","16","16","false","","true","Table 3","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1H","2021","7","Q07.3","calculation","5","AO2","5.5.1.3","Propane reacts with oxygen to produce carbon dioxide and water.
+The displayed formula equation for the reaction is:
+The reaction is exothermic.
+In the reaction, the energy released when forming new bonds is 1640 kJ/mol greater than the energy needed when breaking bonds.
+Table 4 shows bond energies.
+
+Table 4
+| Bond | H–C | C–C | O=O | C=O | O–H |
+|------|-----|-----|-----|-----|-----|
+| Bond energy in kJ/mol | 410 | X | 500 | 740 | 460 |
+
+Calculate the C––C bond energy (X).
+[5 marks]
+X = ____ kJ/mol","(bonds broken = (8 × 410) + 2 X + (5 × 500) = 5780 + 2 X)
+(bonds formed = (6 × 740) + (8 × 460) = 8120)
+(bonds broken – bonds formed = energy released)
+(5780 + 2 X) – 8120 = –1640
+(2 X =) 700
+(X =) 350 (kJ/mol)","allow C–C for X
+allow (bonds broken = 
+(8 × 410) + (5 × 500)
+= 5780 
+allow correct use of incorrect 
+values from step 1 and/or step 2
+allow correct use of incorrect 
+value from step 3","23","24","16","16","false","","true","Table 4","C1H Papers and Mark Schemes\AQA-8464C1H-QP-NOV21.PDF","C1H Papers and Mark Schemes\AQA-8464C1H-MS-NOV21.PDF"

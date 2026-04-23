@@ -1,0 +1,893 @@
+﻿exam,year,question_id,subquestion_id,type,marks,AO,spec_reference,question_text,mark_scheme,extra_notes,page_start,page_end,has_figure,figure_labels_joined,has_table,table_labels_joined,figure_labels,table_labels
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q01.1,Q01.1,short answer,3,AO2,5.4.2.2; 5.4.2.3,"This question is about salts.
+Green copper carbonate and sulfuric acid can be used to produce blue copper sulfate crystals.
+Excess copper carbonate is added to sulfuric acid.
+Give three observations you would make.
+1
+2
+3
+","any three from:
+• green solid / powder
+• colourless solution
+• blue solution formed
+• copper carbonate disappears
+• fizzing / effervescence or bubbles (of gas)
+• stops fizzing
+• solid / powder left at the end or copper carbonate left at the end","ignore green copper carbonate
+allow colour (of solution) changes
+allow solid disappears
+ignore gas
+allow fizzing slows down
+allow (container) gets hot
+or
+allow temperature increases",3,3,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q01.2,Q01.2,short answer,1,AO1,5.4.2.3,How can the excess copper carbonate be removed?,filtration or filter,,3,3,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q01.3,Q01.3,short answer,1,AO1,5.4.2.3; 5.4.2.4,"The pH of the solution changes during the reaction.
+What is the pH of the solution at the end of the reaction?
+pH = ____",7,,3,3,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q01.4,Q01.4,short answer,1,AO1,5.4.2.2; 5.4.2.4,"Copper carbonate and sulfuric acid react to produce copper sulfate.
+What type of reaction is this?",neutralisation,allow exothermic,3,3,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q01.5,Q01.5,calculation,3,AO2,5.4.2.3,"Ammonium nitrate is a salt. 
+Figure 1 shows the maximum mass of ammonium nitrate that can dissolve in 100 cm3 of water at different temperatures.
+Figure 1
+A student adds ammonium nitrate to water at 80 °C until no more dissolves.
+The student cools 100 cm3 of this solution of ammonium nitrate from 80 °C to 20 °C to produce crystals of ammonium nitrate.
+Determine the mass of ammonium nitrate that crystallises on cooling 100 cm3 of this solution from 80 °C to 20 °C
+Mass = ____ g","83 (g at 80 °C)
+32 (g at 20 °C)
+(83 – 32) = 51 (g)","allow a value in range 82–84 (g at 80 °C)
+allow a value in range 32–33 (g at 20 °C)
+allow a correct calculation using incorrectly read values for mass at 80 °C and/or 20 °C",4,5,TRUE,Figure 1,FALSE,,Figure 1,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q02.1,Q02.1,multiple choice,1,AO2,5.1.1.1; 5.4.3.4,"This question is about electrolysis. 
+Figure 2 shows the apparatus used to investigate the electrolysis of potassium sulfate solution.
+Figure 2
+Potassium sulfate contains K+ and SO4 2– ions.
+What is the formula of potassium sulfate?
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| □ | KSO4 |
+| □ | K2SO4 |
+| □ | K(SO4)2 |
+| □ | K2(SO4)2 |",K2SO4,,6,6,TRUE,Figure 2,FALSE,,Figure 2,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q02.2,Q02.2,calculation,1,AO2,5.4.3.4,"What are the volumes of gases collected in the electrolysis experiment?
+Use Figure 2.
+Volume of hydrogen = ____ cm3
+Volume of oxygen = ____ cm3",(volume of hydrogen) 30 (cm³) and (volume of oxygen) 15 (cm³),,7,7,TRUE,Figure 2,FALSE,,Figure 2,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q02.3,Q02.3,short answer,2,AO3,5.4.3.4,"A student made the following hypothesis:
+‘The volumes of gases collected in this electrolysis experiment are in the same ratio as hydrogen atoms to oxygen atoms in a water molecule.’
+Explain how the volumes of gases collected in the experiment in Figure 2 support the student’s hypothesis.
+Use your answer to Question 02.2","(because) the ratio of volume of hydrogen : oxygen is 2 : 1
+(and this is the) same as the ratio of hydrogen (atoms) : oxygen (atoms) in (formula of) H2O
+
+OR
+
+(because) the ratio of volume of hydrogen : oxygen is not 2 : 1
+(and this is) different to the ratio of hydrogen (atoms) : oxygen (atoms) in (formula of) H2O",must relate to the volumes given in question 02.2,7,8,TRUE,Figure 2,FALSE,,Figure 2,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q02.4,Q02.4,multiple choice,1,AO2,5.3.1.4,"The experiment is repeated 4 times.
+The volumes of oxygen collected in the 4 experiments are:
+6 cm3  9 cm3  10 cm3  11 cm3
+The mean volume of oxygen collected in the 4 experiments is 9 cm3
+The measure of uncertainty is the range of a set of measurements about the mean.
+What is the measure of uncertainty in the 4 experiments?
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| □ | 9 ± 1 cm3 |
+| □ | 9 ± 2 cm3 |
+| □ | 9 ± 3 cm3 |",9 ±3 cm³,,8,8,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q02.5,Q02.5,calculation,3,AO2,5.3.2.5; 5.4.3.4,"The potassium sulfate solution has 0.86 g of potassium sulfate dissolved in 25 cm3 of water.
+Calculate the mass of potassium sulfate needed to make 1.0 dm3 of solution.
+Mass = ____ g","(conversion)
+25/1000 = 0.025 (dm³)
+
+(concentration =) 0.86/0.025 = 34.4 (g per dm³)
+
+OR
+
+(conversion)
+1000/25 = 40
+
+(40 × 0.86) = 34.4 (g per dm³)
+
+OR
+
+(concentration =) 0.86/25 = 0.0344
+
+(conversion)
+(0.0344 × 1000) = 34.4 (g per dm³)","allow correct use of incorrect / no conversion 
+allow 34 (g per dm³)
+allow correct use of incorrect / no conversion 
+allow 34 (g per dm³)
+allow 34 (g per dm³)",8,9,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q03,Q03,extended response,6,AO3,5.4.1.2,"Plan an investigation to find the order of reactivity of three metals.
+You should use the temperature change when each metal reacts with hydrochloric acid.","Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced.
+Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced.
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+No relevant content.
+
+Indicative Content
+• measure volume of (hydrochloric) acid
+• into a suitable container e.g. polystyrene cup
+• measure the initial temperature (of hydrochloric acid)
+• with a thermometer
+• add stated mass of one metal
+• stir
+• measure the highest temperature reached of the solution or measure temperature reached after a set time period
+• determine the temperature difference
+• repeat
+• repeat for each metal
+• with same mass
+• in same physical state (powder, lump, etc)
+• with the same volume and/or concentration of (hydrochloric) acid
+• use results to arrange metals in order of reactivity
+• most reactive metal has the largest temperature change",to access level 3 there must be an indication of how the temperature change is determined with the same mass of the 3 different metals reacted with the same volume of (hydrochloric) acid,9,9,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q04.1,Q04.1,short answer,1,AO1,5.1.2.6,"This question is about Group 7 elements.
+What are the Group 7 elements known as?",halogens,,11,11,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q04.2,Q04.2,short answer,1,AO1,5.1.2.6,Why do Group 7 elements react in similar ways?,all have 7 electrons in outer shell or all have 7 outer electrons,"allow energy level for shell
+allow same number of outer electrons
+allow one electron required to complete the outer shell",11,11,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q04.3,Q04.3,short answer,1,AO2,5.2.1.4,"Figure 3 shows the structure of a molecule of chlorine oxide.
+Figure 3
+What is the molecular formula of the chlorine oxide molecule in Figure 3?",Cl2O7,,11,11,TRUE,Figure 3,FALSE,,Figure 3,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q04.4,Q04.4,table completion,2,AO2,5.1.2.6,"Figure 4 shows the melting points of some Group 7 elements.
+Figure 4
+The melting point of fluorine is –220 °C
+Complete Figure 4.
+You should:
+• complete the scale on the y-axis
+• draw the bar for the melting point of fluorine.","y-axis scale correct from –100 to –250 °C
+bar correctly plotted at –220 °C",allow a tolerance of ±½ a small square,12,12,TRUE,Figure 4,FALSE,,Figure 4,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q04.5,Q04.5,extended response,3,AO3,5.1.2.6; 5.2.2.4,"Explain the trend in the melting points of the Group 7 elements. 
+Use Figure 4.","(the) molecules increase in size going down the group
+(so the) forces between the molecules increase or (so the) intermolecular forces increase
+(so the) melting points increase going down the group or (so the) melting points increase with increasing relative atomic mass","allow converse explanation in terms of decreasing melting point
+allow atoms increase in size going down the group
+allow increase in number of electron shells going down group
+allow (so) more energy is needed to separate the molecules",13,13,TRUE,Figure 4,FALSE,,Figure 4,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q04.6,Q04.6,multiple choice,1,AO3,5.1.2.6; 5.2.2.1; 5.2.2.2,"What is the state symbol for bromine at –50 °C?
+Use Figure 4.
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| □ | (aq) |
+| □ | (g) |
+| □ | (l) |
+| □ | (s) |",(s),,13,13,TRUE,Figure 4,FALSE,,Figure 4,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q04.7,Q04.7,short answer,1,AO1,5.2.2.1,"Evaporation and boiling occur at the surface of bromine at its boiling point.
+Name one more process that happens at the surface of bromine at its boiling point.",condensation,"allow condensing
+ignore evaporating and boiling",13,13,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q05.1,Q05.1,short answer,1,AO1,5.2.3.3,"This question is about structure and bonding.
+Figure 5 represents part of a carbon molecule.
+Figure 5
+Name the type of carbon molecule in Figure 5.",fullerene,"allow (carbon) nanotube
+do not accept Buckministerfullerene",14,14,TRUE,Figure 5,FALSE,,Figure 5,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q05.2,Q05.2,short answer,1,AO2,5.2.3.3,Suggest one property that makes the carbon molecule in Figure 5 useful in nanotechnology.,"any one from:
+• conducts heat
+• conducts electricity
+• very high length to diameter ratio","allow large surface area to volume ratio
+allow high tensile strength
+allow can trap other molecules / atoms / ions",14,14,TRUE,Figure 5,FALSE,,Figure 5,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q05.3,Q05.3,extended response,4,AO1,5.2.2.7,"An alloy of aluminium contains small amounts of other metals.
+Explain why other metals are added to aluminium.","other metal atoms have different sizes to aluminium atoms
+(so) the layers of aluminium atoms are distorted
+(so) the layers cannot slide
+(which) makes the alloy harder","allow (so) the atoms cannot slide over each other
+allow (which) makes the alloy stronger",15,15,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q05.4,Q05.4,extended response,3,AO1,5.2.2.5,"Figure 6 represents part of the structure of a polymer.
+Figure 6
+Compare the bonding within the chains with the forces between the chains in this polymer.","covalent bonds (between atoms) in the chain
+intermolecular forces between the chains
+covalent bonds are strong and intermolecular forces are weak",,15,15,TRUE,Figure 6,FALSE,,Figure 6,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q06.1,Q06.1,short answer,2,AO1,5.1.2.6; 5.2.1.4,"This question is about hydrogen chloride and hydrochloric acid.
+Complete the dot and cross diagram to represent the bonding in hydrogen chloride on Figure 7.
+Use dots (o) and crosses (x) to represent electrons.
+You should show only the electrons in the outer shells.
+Figure 7","one shared pair in overlap
+6 non-bonding electrons in outer shell of chlorine","allow any combination of circles, dots, crosses or e(–)
+do not accept extra electron(s) on outer shell of hydrogen
+ignore any inner shell electrons
+an answer of
+scores 2 marks",16,16,TRUE,Figure 7,FALSE,,Figure 7,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q06.2,Q06.2,short answer,1,AO1,5.4.2.5,"Hydrogen chloride dissolves in water to produce hydrochloric acid.
+Hydrochloric acid is a strong acid.
+What is meant by the term strong acid?",completely ionises in aqueous solution,allow completely dissociates in aqueous solution,16,16,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q06.3,Q06.3,short answer,2,AO3,5.4.2.5,Describe how magnesium can be used to distinguish between a strong acid and a weak acid of the same concentration.,fizzing / effervescence or magnesium disappears at a greater rate with a strong acid,"allow converse with weak acid
+allow for 2 marks strong acid has a greater temperature increase",16,16,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q06.4,Q06.4,calculation,2,AO1,5.4.2.5,"The concentration of hydrochloric acid is increased by a factor of 100
+What is the change in pH?",(pH) decreases by (a unit of) 2,allow pH is lower,17,17,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q06.5,Q06.5,calculation,4,AO2,5.5.1.3,"Ethene and hydrogen chloride react to produce chloroethane.
+The displayed formulae equation for the reaction is:
+The reaction is exothermic.
+In the reaction the energy released forming new bonds is 56 kJ/mol greater than the energy needed to break existing bonds.
+Table 1 shows some bond energies.
+
+| Bond   | H–C | C=C | H–Cl | C–C | C–Cl |
+|--------|-----|-----|------|-----|------|
+| Bond energy in kJ/mol | 413 | X | 431 | 346 | 339 |
+
+Calculate the bond energy X.
+X = ____ kJ/mol","(bonds broken = (4 × 413) + C=C + 431 =)
+2083 + C=C
+
+(bonds made = (346 + 339 + (5 × 413) =)
+2750
+
+(energy released = bonds made – bonds broken =)
+56 = 2750 – [2083 + C=C]
+
+(C=C) = 611 (kJ/mol)",allow correct use of incorrect value(s) from step 1 and / or step 2,18,18,FALSE,,TRUE,Table 1,,Table 1
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q07.1,Q07.1,short answer,2,AO3,5.4.1.3; 5.4.3.2; 5.4.3.3,"This question is about elements and compounds.
+Figure 8 shows a reactivity series.
+Figure 8
+Most reactive
+Potassium
+Magnesium
+Metal Y
+Carbon
+Iron
+Hydrogen
+Copper
+Least reactive
+Give the method and conditions used to extract metal Y from a compound of metal Y.","electrolysis of molten compound (of metal Y)
+
+OR
+
+displacement by heating with a more reactive metal 
+or by heating with potassium / magnesium",allow liquid for molten,19,19,TRUE,Figure 8,FALSE,,Figure 8,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q07.2,Q07.2,table completion,2,AO2,5.1.1.1; 5.3.1.1,"Sodium reacts with titanium chloride (TiCl4) to produce titanium.
+Complete the equation.
+You should balance the equation.
+Na + TiCl4 → ____ + ____",4 Na + TiCl4 → 4 NaCl + Ti,"allow multiples
+allow 1 mark for NaCl and Ti with incorrect / no balancing",20,20,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q07.3,Q07.3,short answer,2,AO2,5.4.1.2; 5.4.1.4,"The reaction between sodium and titanium chloride is a redox reaction.
+Write a half-equation to show that sodium is oxidised in this reaction.",Na → Na⁺ + e⁻,"ignore state symbols
+allow multiples
+allow 1 mark for Na → Na+ + e– with incorrect balancing",20,20,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q07.4,Q07.4,calculation,6,AO2,5.3.2.2; 5.3.2.4,"108 g of aluminum reacts with 1.21 kg of copper chloride to produce copper.
+The equation for the reaction is:
+2Al + 3 CuCl2 → 3 Cu + 2AlCl3
+Calculate the maximum mass of copper produced in grams (g).
+You should determine the limiting reactant.
+Relative atomic masses (Ar): Al = 27 Cu = 63.5
+Relative formula masses (Mr): CuCl2 = 134.5 AlCl3 = 133.5
+Limiting reactant is ____
+Mass of copper = ____ g","method 1:
+moles of Al = 108/27 = 4
+moles CuCl2 = 1210/134.5 = 8.996
+
+(identifying limiting reactant)
+4 moles Al gives 6 moles Cu
+8.996 moles CuCl2 gives 8.996 moles Cu
+therefore aluminium is the limiting reactant
+
+mass of Cu = 2 × 3 × 63.5 = 6 × 63.5 = 381 (g)","allow 9
+allow correct use of an incorrectly calculated value(s) for moles of Al and / or CuCl2
+must follow on from MP3
+
+method 2:
+2Al + 3CuCl2 → 3Cu + 2AlCl3
+(2×27) (3×134.5) (3×63.5)
+54(g) 403.5(g) 190.5(g)
+(1) (1) (1)
+(so)
+108 g Al (reacts with 807 g CuCl2) to produce 381 g Cu (1)
+(so) there is excess CuCl2
+or
+807 g CuCl2 is less than 1210 g CuCl2 (1)
+therefore aluminium is limiting reactant (1)
+
+method 3:
+134.5 g CuCl2 produces 63.5 g Cu (1)
+(mass conversion 1.21 kg CuCl2 =) 1210 (g) (1)
+1210 g CuCl2 produces (63.5/134.5 × 1210 =) 571 g Cu (1)
+54 g Al produces 190.5 g Cu (1)
+108 g Al produces (190.5/54 × 108 =) 381 (g) (1)
+(therefore) aluminium is the limiting reactant (1)
+allow correct use of an incorrect calculation of mass for Al / CuCl2 / Cu
+must follow on from MP4 / MP5
+allow correct use of an incorrect / no conversion of mass of CuCl2
+must follow on from MP3 and MP5",21,21,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q07.5,Q07.5,short answer,2,AO1,5.2.2.8,"Sodium metal and sodium chloride are both able to conduct electricity.
+Describe how sodium metal conducts electricity.",delocalised electrons carry (electrical) charge through the metal / sodium,"allow free electrons
+ignore throughout for through
+ignore current / electricity
+MP2 is dependent upon MP1",22,22,FALSE,,FALSE,,,
+"AQA GCSE Combined Science: Chemistry Paper 1H, 2022",2022,Q07.6,Q07.6,extended response,3,AO1,5.2.2.3,Explain how sodium chloride can conduct electricity.,"(conducts electricity) when liquid / molten
+
+or (conducts electricity) in (aqueous) solution
+
+(because) ions
+
+(ions) are free to move
+
+or (ions) allow charge to flow",allow (conducts electricity) when dissolved in water,22,22,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q01,Q01.1,multiple choice,1,AO1,5.4.2.4,"This question is about carbon dioxide.
+Carbon dioxide is soluble in water and forms an acidic solution.
+Which ion makes the solution acidic?
+[1 mark]
+Tick () one box.",hydrogen / H+,,3,3,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q01,Q01.2,short answer,2,AO1,5.4.2.4,"Name an indicator that could be used to test if the solution is acidic.
+Give the result of the test.
+[2 marks]
+Indicator
+________________________
+Result
+________________________","(indicator) universal
+(result) (green to) red / orange / yellow
+OR
+(indicator) (blue) litmus (1) 
+(result) (turns) red (1)
+OR
+(indicator) methyl orange (1) 
+(result) (turns) red (1)","MP2 is dependent upon MP1 
+being awarded
+ignore pH meter",3,3,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q01,Q01.3,multiple choice,1,AO3,5.3.2.5,"Figure 1 shows the mass of carbon dioxide that will dissolve in 1 dm3 of water at different temperatures.
+Figure 1
+How does the solubility of carbon dioxide change as the temperature of the water increases?
+[1 mark]
+Tick () one box.",the solubility decreases,,4,4,TRUE,Figure 1,FALSE,,Figure 1,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q01,Q01.4,multiple choice,1,AO3,5.3.2.5; 5.4.2.4,"Carbon dioxide dissolves in water to form an acidic solution.
+How does the pH of the solution change as the temperature of the water increases? Use Figure 1.
+[1 mark]
+Tick () one box.",pH of the solution increases,,5,5,TRUE,Figure 1,FALSE,,Figure 1,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q01,Q01.5,multiple choice,1,AO2,5.2.2.2,"Calcium carbonate reacts with hydrochloric acid to produce carbon dioxide.
+The equation for the reaction is:
+CaCO3(s) + 2 HCl(aq) → CaCl2(aq) + CO2(g) + H2O(x)
+What is the state symbol (x) in the equation?
+[1 mark]
+Tick () one box.",(l),,5,5,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q01,Q01.6,short answer,6,AO3,5.3.1.3; 5.4.2.2,"Figure 2 shows equipment a student used for an investigation.
+Figure 2
+The student investigated the volume of carbon dioxide produced when different masses of calcium carbonate react with hydrochloric acid. 
+Describe a method the student could use.
+[6 marks]","Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced. 5–6
+Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced. 3–4
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. 1–2
+No relevant content 0
+
+Indicative Content:
+• measure a (stated) mass of calcium carbonate
+• use a balance
+• add calcium carbonate into a conical flask
+• measure a (stated) volume of hydrochloric acid
+• use a measuring cylinder
+• add hydrochloric acid to the conical flask
+• immediately place the stopper (and delivery tube) in the conical flask
+• record the total volume of carbon dioxide gas
+or
+record volume of carbon dioxide collected in set time 
+or
+time taken to collect fixed volume of gas
+• collected in the gas syringe
+• repeat
+• repeat method with different masses of calcium carbonate",,6,6,TRUE,Figure 2,FALSE,,Figure 2,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q02,Q02.1,multiple choice,1,AO1,5.4.2.2; RPA8,"Lithium hydroxide reacts with sulfuric acid to produce lithium sulfate.
+The equation for the reaction is:
+2 LiOH + H2SO4 → Li2SO4 + 2 H2O
+What type of reaction is this?
+[1 mark]",neutralisation,allow exothermic,8,8,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q02,Q02.2,calculation,2,AO2,5.3.1.2,"Calculate the relative formula mass (Mr) of sulfuric acid (H2SO4). 
+Relative atomic masses (Ar): H = 1  O = 16  S = 32
+[2 marks]
+Relative formula mass (Mr) = ____",(Mr =) (1 × 2) + 32 + (4 × 16) = 98,,8,8,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q02,Q02.3,calculation,4,AO2,5.3.1.2,"Calculate the percentage by mass of oxygen in lithium sulfate (Li2SO4). 
+Relative atomic mass (Ar): O = 16
+Relative formula mass (Mr): Li2SO4 = 110
+Give your answer to 2 significant figures.
+[4 marks]
+Percentage by mass of oxygen (2 significant figures) = ____ %","(Ar O × 4 =) 4 × 16 = 64
+(percentage of oxygen =) 64/110 × 100 = 58.18 = 58 (%)","allow correct use of incorrectly 
+determined mass of oxygen
+allow a correctly calculated 
+answer to 2 significant figures 
+from an incorrect calculation 
+which uses the values in the 
+question",9,9,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q02,Q02.4,calculation,3,AO2,5.3.2.5,"A solution of lithium sulfate contains 0.30 g of lithium sulfate in 25 cm3.
+Calculate the concentration of lithium sulfate in g/dm3.
+[3 marks]
+Concentration = ____ g/dm3","(unit conversion) (25 cm3 ÷ 1000) = 0.025 dm3
+(conc =) 0.30 / 0.025 (g/dm3) = 12 (g/dm3)
+alternative approach:
+(conc =) 0.30 / 25 (g/cm3) = 0.012 (g/cm3)
+(unit conversion) (0.012 × 1000) = 12 (g/dm3)","allow correct use of incorrect / 
+no unit conversion
+ 
+allow correct conversion of an 
+incorrect concentration 
+calculation",9,9,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q03,Q03.1,short answer,1,AO2,5.1.1.1; 5.1.2.5; 5.3.1.1; 5.4.1.1,"Sodium is in Group 1 of the periodic table.
+Sodium reacts with oxygen to produce sodium oxide.
+Balance the equation for the reaction.
+[1 mark]
+Na + O2 → Na2O",4 Na + O2 → 2 Na2O,allow multiples,10,10,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q03,Q03.2,short answer,4,AO1,5.1.1.7; 5.1.2.3; 5.1.2.5; 5.2.1.2,"Explain what happens to sodium atoms and to oxygen atoms when sodium reacts with oxygen to produce sodium oxide (Na2O).
+Answer in terms of electrons.
+[4 marks]","sodium atom loses one electron (and) oxygen atom gains two electrons (so) two sodium atoms to one oxygen atom
+any one from:
+• (to form) Na+ and O2-
+• (to form) sodium ion(s) and oxide ion(s)
+• (to form) ions with full outer shells / levels.",,10,10,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q03,Q03.3,short answer,2,AO1,5.1.2.5,"Sodium burns in a gas jar of oxygen.
+Figure 3 shows the apparatus.
+Figure 3
+Give two observations seen during the reaction.
+[2 marks]
+1 ________________________
+2 ________________________","yellow flame
+any one from:
+• sodium melts 
+• white smoke / solid / powder",allow orange flame,11,11,TRUE,Figure 3,FALSE,,Figure 3,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q03,Q03.4,short answer,2,AO1,5.1.2.5,"Describe two differences in the observations if potassium is used instead of sodium.
+[2 marks]
+1 ________________________
+2 ________________________","(potassium) (burns with a) lilac flame
+burns faster","allow (burns with a) different 
+colour flame
+allow more vigorous reaction",11,11,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q04,Q04.1,multiple choice,1,AO1,5.1.1.3,"Group 7 elements are known as the halogens.
+All atoms of Group 7 elements contain protons, neutrons and electrons.
+What is the order of discovery of the proton, neutron and electron?
+[1 mark]
+Tick () one box.",electron → proton → neutron,,12,12,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q04,Q04.2,calculation,2,AO2,5.1.1.5,"Table 1 shows the mass of a proton and of an electron.
+
+| Name of particle | Mass in kg        |
+|------------------|------------------|
+| Proton           | 1.673 × 10–27    |
+| Electron         | 9.109 × 10–31    |
+
+Calculate how many times heavier a proton is than an electron.
+[2 marks]
+Times heavier a proton is than an electron = ____",(times heavier =) 1.673 × 10–27 / 9.109 × 10–31 = 1837,"allow 1836.645076 correctly 
+rounded to at least 3 significant 
+figures",12,12,FALSE,,TRUE,Table 1,,Table 1
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q04,Q04.3,short answer,1,AO2,5.1.1.5,"A bromine atom can be represented as Br 35
+81 .
+What is the number of neutrons in this bromine atom?
+[1 mark]",46,,13,13,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q04,Q04.4,short answer,1,AO2,5.1.1.4; 5.1.1.5,"What is the number of electrons in a bromide ion?
+[1 mark]",36,,13,13,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q04,Q04.5,calculation,3,AO2,5.1.1.6,"Chlorine has two isotopes.
+Table 2 shows the percentage abundance of the two isotopes of chlorine.
+
+| Isotope        | Percentage (%) abundance |
+|----------------|-------------------------|
+| Cl 17 35       | 75.77                   |
+| Cl 17 37       | 24.23                   |
+
+Calculate the relative atomic mass (Ar) of chlorine.
+Give your answer to 2 decimal places.
+[3 marks]
+Relative atomic mass (2 decimal places) = ____",(Ar =) ((35 × 75.77) + (37 × 24.23)) / 100 = 35.4846 = 35.48,"allow an answer correctly 
+calculated to 2 decimal places 
+from an incorrect calculation 
+which uses the values in the 
+question",13,13,FALSE,,TRUE,Table 2,,Table 2
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q04,Q04.6,short answer,2,AO1,5.1.2.6; 5.2.1.1; 5.2.1.4,"Figure 4 shows the outer shells in one molecule of chlorine (Cl2).
+Complete the dot and cross diagram to show the electrons in the outer shells.
+[2 marks]
+Figure 4","one shared pair in overlap
+each chlorine atom with 6 non-bonded electrons (on outer shell)","allow any combination of circles, 
+dots, crosses, e(–) for electrons
+ignore any inner shell electrons
+the diagram below scores 2 
+marks",14,14,TRUE,Figure 4,FALSE,,Figure 4,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q05,Q05.1,short answer,1,AO1,5.2.2.3; 5.4.3.1,"During electrolysis ions are discharged at the electrodes to produce elements.
+A student investigates the electrolysis of sodium chloride.
+Why does solid sodium chloride not conduct electricity?
+[1 mark]",ions are not free to move,,15,15,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q05,Q05.2,short answer,1,AO1,5.4.3.1; 5.4.3.2,"Sodium chloride solution conducts electricity.
+Complete the sentence.
+[1 mark]
+Sodium chloride also conducts electricity when _________________.",liquid or molten,"allow (when) the solid is melted
+ignore references to aqueous 
+solutions
+ignore references to dissolving",15,15,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q05,Q05.3,short answer,1,AO3,5.4.3.1; 5.4.3.4; RPA9,"Figure 5 shows the apparatus for the electrolysis of sodium chloride solution.
+Figure 5
+Suggest an element that could be used to make the inert electrodes.
+[1 mark]",carbon / graphite,allow platinum / gold / silver,16,16,TRUE,Figure 5,FALSE,,Figure 5,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q05,Q05.4,short answer,2,AO2,5.4.1.4; 5.4.3.1; 5.4.3.4; 5.4.3.5; RPA9,"Complete the half equation for the production of chlorine (Cl2) at the positive electrode.
+[2 marks]
+Cl– → __________ + __________",2 Cl– → Cl2 + 2 e–,"ignore state symbols
+allow 1 mark for Cl2 + e–",16,16,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q05,Q05.5,extended response,4,AO3,5.4.2.4; 5.4.3.1; 5.4.3.4; 5.4.3.5; RPA9,"Sodium chloride solution has a pH of 7
+During the electrolysis of sodium chloride solution:
+• hydrogen gas is produced at the negative electrode
+• the pH of the solution increases.
+Explain why.
+[4 marks]","water (molecules) break down to produce (equal numbers of) H+ and OH– (ions)
+(so) the hydrogen / H+ ions are attracted to the negative electrode
+(where) hydrogen ions are discharged / reduced
+(because) hydrogen is less reactive than sodium
+(so there is) a decrease in (the relative number of) hydrogen / H+ ions
+or
+(so there is) an increase in the relative number of hydroxide / OH– ions",,17,17,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q06,Q06.1,short answer,2,AO1,5.1.1.2; 5.4.2.1; 5.4.2.3; RPA8,"Acids react with some metals to produce soluble salts.
+A student adds magnesium to hydrochloric acid until no more acid reacts and excess magnesium remains.
+The equation for the reaction is:
+Mg(s) + 2 HCl(aq) → MgCl2(aq) + H2(g)
+Describe how solid magnesium chloride is obtained from the reaction mixture.
+[2 marks]","filter (to remove excess magnesium)
+(then) crystallisation (of magnesium chloride solution)","allow (then) evaporation (of 
+water from magnesium chloride 
+solution)",18,18,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q06,Q06.2,short answer,2,AO2,5.4.1.4; 5.4.2.1; 5.4.2.3; RPA8,"The reaction between magnesium and hydrochloric acid is a redox reaction.
+Explain what happens to the magnesium atoms in this reaction.
+[2 marks]","(magnesium atoms are) oxidised
+(because the atoms) lose (two) electrons",,18,18,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q06,Q06.3,calculation,6,AO2,5.3.1.1; 5.3.2.2; 5.4.2.1; 5.4.2.3; RPA8,"0.72 g of magnesium is added to 100 cm3 of hydrochloric acid.
+The hydrochloric acid is in excess.
+Calculate the concentration of the magnesium chloride (MgCl2) solution produced in g/dm3.
+Relative atomic mass (Ar): Mg = 24
+Relative formula mass (Mr): MgCl2 = 95
+[6 marks]
+Concentration = ____ g/dm3","(moles Mg =) 0.72 / 24 = 0.03
+(moles Mg = moles MgCl2)
+(so mass MgCl2 =) 0.03 × 95 = 2.85 (g)
+(100.0 cm3 = 0.100 dm3)
+(concentration = mass / volume ) = 2.85 / 0.100 = 28.5 (g/dm3)","allow a correct calculation using 
+an incorrectly calculated value 
+of moles of magnesium
+allow a correct calculation using 
+an incorrectly calculated value 
+of moles of magnesium chloride
+allow correct use of incorrectly 
+calculated mass of magnesium 
+chloride ",19,19,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q07,Q07.1,multiple choice,1,AO1,5.2.3.3,"This question is about structure and properties.
+Which pair of substances both contain atoms in hexagonal rings?
+[1 mark]
+Tick () one box.",fullerenes and graphene,,20,20,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q07,Q07.2,short answer,3,AO1,5.2.1.5; 5.2.2.8,"Explain why the structure of copper allows the conduction of thermal energy.
+[3 marks]",delocalised electrons (which) move through the structure (and) transfer energy,,20,20,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q07,Q07.3,short answer,3,AO1,5.2.1.3; 5.2.2.3,"Explain why copper oxide (CuO) has a high melting point.
+[3 marks]",strong (electrostatic) forces of attraction (between the) oppositely charged ions (so) large amounts of energy needed to break the many / strong bonds / forces,"allow (so) large amounts of 
+energy needed to break the 
+bonds / forces in all directions
+allow (so) large amounts of 
+energy needed to break the 
+bonds in the lattice",21,21,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2023,Q07,Q07.4,short answer,3,AO1,5.2.1.4; 5.2.2.4,"Explain why water (H2O) has a low melting point.
+[3 marks]","small molecules (with) weak forces between the molecules or (with) weak intermolecular forces
+(so) little energy required to overcome / break the forces between molecules
+or
+(so) little energy required to overcome / break the intermolecular forces","allow simple molecules
+allow (with) weak intermolecular 
+bonds
+do not accept incorrect 
+references to covalent bonds
+allow (so) little energy required 
+to separate the molecules
+allow (so) little energy required 
+to overcome / break the 
+intermolecular bonds
+ignore less energy",21,21,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q01.1,Q01.1,short answer,2,AO3,5.2.2.7,"Copper is a useful metal.
+Figure 1 shows the mass of copper produced between 1900 and 2010.
+Figure 1
+Give two conclusions that can be made from Figure 1. 
+[2 marks]
+1
+____________________________
+2
+____________________________","any two from:
+• mass of copper produced increased (from 1900 to 2010)
+• before 1930 the mass of copper produced increased slightly
+• after 1930 the mass of copper produced increased rapidly
+• the highest mass of copper was produced in 2010
+• the lowest mass of copper was produced in 1900
+• the increase in the mass of copper produced was not linear","allow a value in the range 1925 to 1930
+allow a value in the range 1925 to 1930
+allow the highest mass of copper produced was 15.8 (× 10⁹ kilograms) 
+allow the lowest mass of copper produced was 0.2 (× 10⁹ kilograms) ",3,3,TRUE,Figure 1,FALSE,,Figure 1,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q01.2,Q01.2,short answer,3,AO2,5.2.2.7,"Mixtures of copper and zinc are heated to produce alloys.
+Figure 2 represents the structures of pure copper and of an alloy of copper and zinc.
+Figure 2
+Explain why the alloy of copper and zinc is harder than pure copper.
+Use Figure 2.
+____________________________","(alloy of copper and zinc is harder because) the atoms are different sizes
+(so the) layers are distorted
+(so the) layers cannot easily slide",allow (so the) atoms cannot slide over each other,4,4,TRUE,Figure 2,FALSE,,Figure 2,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q01.3,Q01.3,calculation,4,AO2,5.2.2.7,"A 5.25 g sample of an alloy of copper and zinc contains 13.5% zinc by mass.
+Calculate the mass of copper in the 5.25 g sample.
+Give your answer to 3 significant figures.
+[4 marks]
+Mass of copper (3 significant figures) = ____ g","(% copper = 100 – 13.5 =) 86.5 (%)
+(mass of copper =) 86.5/100 × 5.25 = 4.54125 (g)
+= 4.54 (g)
+OR
+(mass of zinc =) 13.5/100 × 5.25 = 0.70875 (g)
+(mass of copper = 5.25 – 0.70875) = 4.54125 (g)
+= 4.54 (g)","allow correct use of an incorrectly determined percentage of copper
+allow an answer correctly rounded to 3 significant figures from an incorrect calculation which uses the values in the question
+allow correct use of an incorrectly determined mass of zinc
+allow an answer correctly rounded to 3 significant figures from an incorrect calculation which uses the values in the question",5,5,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q02.1,Q02.1,multiple choice,1,AO2,5.4.2.2; 5.4.2.3; RPA8,"A student prepared copper sulfate by reacting an acid with excess copper carbonate.
+Figure 3 shows the first two stages in the preparation of copper sulfate.
+Figure 3
+What is the formula of the acid used to prepare copper sulfate? 
+[1 mark]
+Tick (✓) one box.
+
+|   | [ ] | HCl     |
+|---|-----|---------|
+|   | [ ] | HNO3    |
+|   | [ ] | H2SO4   |",H₂SO₄,,6,6,TRUE,Figure 3,FALSE,,Figure 3,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q02.2,Q02.2,short answer,1,AO1,5.4.2.3; RPA8,"Why is excess copper carbonate used in stage 1?
+____________________________",so all the acid reacts,allow so all the acid is used up,7,7,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q02.3,Q02.3,short answer,2,AO1,5.1.1.2; 5.4.2.3; RPA8,"Beaker N contained copper sulfate solution.
+Describe how the student could produce copper sulfate crystals from the copper sulfate solution in beaker N.
+____________________________","heat the solution (to remove some of the water)
+leave to cool / crystallise","ignore references to filtration
+allow evaporate some of the water / solution",7,7,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q02.4,Q02.4,table completion,3,AO2,5.3.1.3,"A student investigated the thermal decomposition of copper carbonate.
+Copper carbonate decomposes to form two products.
+Figure 4 shows the apparatus.
+Figure 4
+This is the method used.
+1. Add 1.2 g of copper carbonate to a test tube.
+2. Heat the test tube and contents until the mass does not change.
+3. Record the mass of the contents of the test tube after heating.
+4. Repeat steps 1 to 3 with different masses of copper carbonate.
+Table 1 shows the results. 
+
+Table 1
+| Mass of copper carbonate in test tube before heating in grams | Mass of the contents of test tube after heating in grams |
+|-------------------------------------------------------------|--------------------------------------------------------|
+| 1.2                                                         | 0.8                                                    |
+| 2.4                                                         | 1.7                                                    |
+| 3.6                                                         | 2.2                                                    |
+| 4.8                                                         | 3.1                                                    |
+| 6.0                                                         | 3.99                                                   |
+
+Plot the data from Table 1 on Figure 5.
+Draw a line of best fit.
+[3 marks]
+Figure 5","all points correctly plotted
+line of best fit","allow a tolerance of ± ½ a small square 
+allow 1 mark for 3 or 4 points correctly plotted",8,9,TRUE,Figure 4; Figure 5,TRUE,Table 1,"Figure 4, Figure 5",Table 1
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q02.5,Q02.5,short answer,1,AO1,5.3.1.3,"Why does the mass of the contents of the test tube decrease in mass when copper carbonate is thermally decomposed?
+____________________________",a gas escapes (from the test tube),"allow carbon dioxide escapes (from the test tube)
+ignore copper carbonate thermally decomposes",9,9,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q03.1,Q03.1,extended response,6,AO1,5.2.1.1; 5.2.1.2; 5.2.1.3; 5.2.1.4; 5.2.2.3; 5.2.2.4,"Table 2 shows diagrams which represent the structures of two substances.
+Table 2
+Compare the structure and bonding of sodium chloride and oxygen.
+____________________________","Level 2: Scientifically relevant features are identified; the way(s) in which they are similar/different is made clear and (where appropriate) the magnitude of the similarity/difference is noted.
+Level 1: Relevant features are identified and differences noted.
+No relevant content
+Indicative content:
+Similarities
+• both have strong bonds
+• particles have full outer shells
+Differences
+• sodium chloride is a compound 
+• sodium chloride is made from two elements
+• oxygen is an element
+• sodium chloride is a giant structure of ions
+• oxygen is a small molecule
+• sodium chloride has ionic bonds
+• sodium chloride consists of oppositely charged ions 
+• electrons are transferred from sodium atoms to chlorine atoms
+• oxygen is covalent
+• oxygen (molecules) are made up of oxygen atoms
+• joined by double covalent bond
+• electrons are shared between oxygen atoms
+• with weak forces between oxygen molecules
+For Level 2, there must be a comparison of either the structure or bonding of both sodium chloride and oxygen, and a description of magnitude.","For Level 2, there must be a comparison of either the structure or bonding of both sodium chloride and oxygen, and a description of magnitude.",10,10,FALSE,,TRUE,Table 2,,Table 2
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q04.1,Q04.1,short answer,1,AO1,5.4.2.5,"Nitric acid (HNO3) is a strong acid.
+What is meant by a ‘strong acid’? 
+____________________________",completely ionised in aqueous solution,"allow completely ionised (when dissolved) in water
+allow fully dissociated in aqueous solution",11,11,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q04.2,Q04.2,short answer,1,AO1,5.4.2.5,"Nitric acid is used as a dilute aqueous solution.
+What is meant by ‘dilute aqueous solution’? 
+____________________________",low concentration of (nitric) acid dissolved in water,allow low concentration of solute / solid / gas dissolved in water,11,12,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q04.3,Q04.3,multiple choice,1,AO2,5.4.2.5,"10 cm3 of a nitric acid solution has a pH of 1
+Water is added to the nitric acid solution to change the pH of the nitric acid solution to pH 3
+How does the hydrogen ion concentration change?
+[1 mark]
+Tick (✓) one box.
+|   | [ ] | Decreases by a factor of 100 |
+|---|-----|------------------------------|
+|   | [ ] | Decreases by a factor of 10  |
+|   | [ ] | Increases by a factor of 10  |
+|   | [ ] | Increases by a factor of 100 |",decreases by a factor of 100,,12,12,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q04.4,Q04.4,short answer,1,AO1,5.4.2.4,"Write the ionic equation for the reaction between an acid and an alkali. 
++ →
+____________________________",H⁺ + OH⁻ → H₂O,ignore state symbols,12,12,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q04.5,Q04.5,multiple choice,1,AO2,5.3.2.3,"The equation shows the reaction between magnesium carbonate and nitric acid.
+MgCO3 + 2 HNO3 → Mg(NO3)2 + H2O + CO2
+What is the ratio of the number of moles of magnesium carbonate to the number of moles of nitric acid in the reaction?
+[1 mark]
+Tick (✓) one box.
+|   | [ ] | 1 : 1 |
+|---|-----|--------|
+|   | [ ] | 1 : 2 |
+|   | [ ] | 2 : 1 |
+|   | [ ] | 2 : 2 |",01:02,,13,13,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q04.6,Q04.6,multiple choice,1,AO3,5.3.2.4; 5.4.2.2; RPA10,"A student mixed some magnesium carbonate with excess nitric acid.
+The student then added two drops of universal indicator to the solution.
+What colour was the solution after the addition of universal indicator? 
+[1 mark]
+Tick (✓) one box.
+|   | [ ] | Red   |
+|---|-----|-------|
+|   | [ ] | Green |
+|   | [ ] | Blue  |",red,,13,13,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q04.7,Q04.7,short answer,2,AO3,5.5.1.1; RPA10,"A student investigated the temperature change when different masses of magnesium carbonate were reacted with excess nitric acid.
+Figure 6 shows the apparatus.
+Figure 6
+This is the method used.
+1. Pour 50 cm3 of nitric acid into a polystyrene cup.
+2. Measure the temperature of the solution.
+3. Add 0.50 g of magnesium carbonate.
+4. Stir the mixture.
+5. Measure the temperature.
+6. Repeat steps 1 to 5 with different masses of magnesium carbonate.
+Give two improvements to the method to produce more accurate results.
+Do not refer to improvements to the apparatus in your answer.
+[2 marks]
+1
+____________________________
+2
+____________________________","(for each mass of magnesium carbonate) repeat the experiment (discard anomalous results) and calculate the mean
+measure the highest temperature",,14,14,TRUE,Figure 6,FALSE,,Figure 6,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q05.1,Q05.1,short answer,2,AO1,5.2.1.4,"Nitrogen reacts with hydrogen to produce ammonia (NH3).
+Complete the dot and cross diagram for an ammonia molecule.
+____________________________","one shared pair of electrons in each overlap
+2 non-bonding electrons on the outer shell of nitrogen","allow any combination of circles, dots, crosses or e(-)
+ignore any inner shell electrons on nitrogen
+do not accept non-bonding electrons on hydrogen
+an answer of
+scores 2 marks",16,16,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q05.2,Q05.2,calculation,4,AO2,5.3.1.1; 5.3.2.2,"The equation for the reaction between nitrogen and hydrogen to produce ammonia is:
+N2 + 3H2 → 2NH3
+Calculate the mass of hydrogen that is needed to produce 25 g of ammonia.
+Relative atomic masses (Ar): H = 1  N = 14 
+[4 marks]
+Mass of hydrogen = ____ g","(Mr NH₃ = 14 + (3 × 1) =) 17
+(moles NH₃ =) 25 / 17 = 1.47 (mols)
+(moles H₂ = 1.47 × (3/2)) = 2.205 (mols)
+(mass H₂ = 2.205 × 2) = 4.41 (g)
+alternative approach
+(2 × Mr NH₃ = 17 × 2 =) 34
+6 g H₂ → 34 g NH₃
+(6/34) × 25 (g) H₂ → 25 g NH₃
+4.41 (g H₂ → 25 g NH₃)","allow correct use of incorrectly determined Mr of NH₃
+allow correct use of an incorrectly calculated value of moles of NH₃
+allow 4.4117647 (g) correctly rounded to at least 2 significant figures
+allow correct use of an incorrectly calculated value of moles of H₂
+allow correct use of an incorrectly calculated value of 2 × Mr NH₃",17,17,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q05.3,Q05.3,calculation,5,AO2,5.5.1.1; 5.5.1.3,"Figure 7 shows the displayed formulae equation for the reaction of nitrogen with hydrogen.
+Figure 7
+In the reaction the energy released forming new bonds is 93 kJ/mol greater than the energy needed to break existing bonds.
+Table 3 shows bond energies.
+Table 3
+| Bond         | Bond energy in kJ/mol |
+|--------------|----------------------|
+| H — H        | 945                  |
+| N — H        | X                    |
+|              | 391                  |
+Calculate the bond energy X for the H — H bond. 
+Use Figure 7 and Table 3. 
+[5 marks]
+X = ____ kJ/mol","(bonds broken =) 945 + 3X
+(bonds made = 6 × 391 =) 2346
+(energy released = bonds made – bonds broken =) 93 = 2346 – [945 + 3X]
+(3X =) 1308 (kJ / mol)
+(X =) 436 (kJ / mol)","allow correct use of incorrectly determined value(s) of bonds broken and/or bonds formed
+allow correct use of an incorrectly determined value for 3X",18,18,TRUE,Figure 7,TRUE,Table 3,Figure 7,Table 3
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q05.4,Q05.4,short answer,3,AO2,5.5.1.2,"Energy is released from the reaction to produce ammonia.
+Figure 8 shows part of the reaction profile for the reaction between nitrogen and hydrogen to produce ammonia.
+Complete Figure 8.
+You should:
+• complete the profile line
+• label the energy level of the reactants and the product
+• label the overall energy change.
+[3 marks]
+Figure 8","correct shape for exothermic reaction with the product line below the level of the reactants line
+labelled horizontal lines for reactants and product
+labelled overall energy change
+labelled horizontal lines for nitrogen and hydrogen and ammonia","an answer of
+scores 3 marks",19,19,TRUE,Figure 8,FALSE,,Figure 8,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q06.1,Q06.1,short answer,1,AO1,5.4.1.2; 5.4.1.3,"In the Earth most metals are found as compounds.
+Name one metal that is found in the Earth as the metal itself. 
+[1 mark]
+____________________________",gold,"allow Au
+allow silver / Ag
+allow platinum / Pt
+allow copper / Cu",21,21,TRUE,Figure 9,FALSE,,Figure 9,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q06.2,Q06.2,short answer,1,AO3,5.4.1.2; 5.4.1.3,"Figure 9 shows a reactivity series.
+Figure 9
+Suggest the most economical method for extracting metal Z from an oxide of metal Z.
+[1 mark]
+____________________________",reduction by carbon,allow heating / reacting with carbon,21,21,TRUE,Figure 9,FALSE,,Figure 9,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q06.3,Q06.3,short answer,1,AO1,5.4.3.1; 5.4.3.3,"Figure 10 shows the electrolysis cell used to extract aluminium from aluminium oxide.
+Figure 10
+Name substance X shown in Figure 10.
+[1 mark]
+____________________________",cryolite,,22,22,TRUE,Figure 10,FALSE,,Figure 10,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q06.4,Q06.4,extended response,3,AO1,5.4.3.1; 5.4.3.2; 5.4.3.3,"Explain what happens to the positive carbon electrodes during the extraction of aluminium from aluminium oxide. 
+[3 marks]
+____________________________","oxygen is produced (which) reacts with the carbon / electrode / anode to form carbon dioxide
+(so the electrode) has to be continually replaced","allow (so) the electrode is used up
+allow (so) the electrode burns away",23,23,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q06.5,Q06.5,short answer,2,AO2,5.4.3.1; 5.4.3.2; 5.4.3.3; 5.4.3.5,"The formula of aluminium oxide is Al2O3
+Write a half equation for the reaction at the negative electrode in Figure 10.
+[2 marks]
++ →
+____________________________",Al³⁺ + 3e⁻ → Al,"allow 1 mark for 
+Al³⁺ + e⁻ → Al 
+with no / incorrect balancing numbers",23,23,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q07.1,Q07.1,extended response,4,AO2,5.1.2.6; 5.2.1.1,"Halogens are elements in Group 7 of the periodic table.
+Calcium reacts with chlorine to produce calcium chloride. 
+Explain what happens to calcium atoms and to chlorine atoms when calcium reacts with chlorine to produce calcium chloride.
+[4 marks]
+____________________________","each calcium atom loses two electrons
+(and) each chlorine atom gains one electron
+(so) one calcium atom reacts with two chlorine atoms
+(to form) Ca²⁺ ions and Cl⁻ ions
+or
+(to form) calcium ion(s) and chloride ion(s)","allow 1 mark for calcium atoms lose electrons and chlorine atoms gain electrons
+allow (to form) ions with full outer shells 
+allow energy level for shell",24,24,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q07.2,Q07.2,extended response,4,AO1,5.1.2.3; 5.1.2.6,"Explain why chlorine is more reactive than bromine. 
+[4 marks]
+____________________________","chlorine has fewer shells
+(so the) outer shell is closer to the nucleus 
+(so) stronger attraction between nucleus and electron gained 
+or
+(so) stronger attraction between nucleus and outer shell
+(so) gains the electron more easily","allow converse for bromine
+allow energy level for shell
+allow chlorine is a smaller atom
+allow (so the) outer electrons are closer to the nucleus 
+allow (so there) is less shielding",24,24,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q07.3,Q07.3,short answer,2,AO3,5.1.2.6,"Table 4 shows the boiling points of four hydrogen halides.
+Table 4
+| Hydrogen halide | Boiling point in °C |
+|-----------------|---------------------|
+| HF              | 20                  |
+| HCl             | –85                 |
+| HBr             | –67                 |
+| HI              | –35                 |
+Describe how the boiling points of the hydrogen halides change as the relative formula mass changes. 
+[2 marks]
+____________________________","as the relative formula mass increases the boiling points (of the hydrogen halides) increase
+(but) HF has the highest boiling point
+or
+(but) HF does not follow the trend",allow (but) HF is anomalous,25,25,FALSE,,TRUE,Table 4,,Table 4
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q08.1,Q08.1,short answer,1,AO1,5.2.3.3,"Carbon nanotubes are cylindrical fullerenes.
+Figure 11 represents the structure of a carbon nanotube.
+Figure 11
+Describe the arrangement of carbon atoms in the nanotube shown in Figure 11.
+[1 mark]
+____________________________",hexagonal (rings of carbon atoms),,26,26,TRUE,Figure 11,FALSE,,Figure 11,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q08.2,Q08.2,short answer,1,AO1,5.2.3.3,"Nanotubes are used in electronics.
+Give one other use of nanotubes.
+[1 mark]
+____________________________","any one from:
+• nanotechnology
+• materials
+allow suitable use such as:
+• sporting equipment
+• body armour
+allow drug delivery",ignore references to electronic use,26,26,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q08.3,Q08.3,calculation,2,AO2,5.2.3.3; 5.3.2.1,"A nanotube contains 2380 carbon atoms.
+Calculate the number of moles of carbon in this nanotube.
+The Avogadro constant is 6.02 × 10^23 per mole.
+[2 marks]
+Number of moles of carbon = ____ mols",(number of moles =) 2380/6.02 × 10²³ = 3.95 × 10⁻²¹ (mols),allow 3.953488 × 10⁻²¹ (mols) correctly rounded to at least 2 significant figures,27,27,FALSE,,FALSE,,,
+AQA GCSE Combined Science: Chemistry Paper 1H,2024,Q08.4,Q08.4,extended response,3,AO3,5.2.3.3,"Explain why carbon nanotubes can conduct electricity.
+Refer to bonding between carbon atoms in your answer.
+[3 marks]
+____________________________","each (carbon) atom forms three covalent bonds
+(so) one electron from each (carbon) atom is delocalised
+(so these) delocalised electrons carry (electrical) charge through the structure / nanotube","ignore throughout for through
+ignore current / electricity",27,27,FALSE,,FALSE,,,

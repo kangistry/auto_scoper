@@ -1,0 +1,2449 @@
+﻿"session","exam","year","question_id","subquestion_id","type","marks","AO","spec_reference","question_text","mark_scheme","extra_notes","question_page_start","question_page_end","mark_scheme_start_page","mark_scheme_end_page","has_figure","figure_labels_joined","has_table","table_labels_joined","source_qp","source_ms"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.1","multiple choice","1","AO1","5.2.1.3","Figure 1 shows part of the structure of calcium oxide (CaO).
+Figure 1
+What type of bonding is present in calcium oxide?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | Covalent |
+| ☐ | Ionic |
+| ☐ | Macromolecular |
+| ☐ | Metallic |","ionic","","2","2","10","10","true","Figure 1","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.2","multiple choice","1","AO1","5.2.1.4","Figure 2 shows a particle of methane (CH4).
+Figure 2
+What type of particle is present in Figure 2?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | An ion |
+| ☐ | A lattice |
+| ☐ | A molecule |
+| ☐ | A polymer |","a molecule","","3","3","10","10","true","Figure 2","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.3","short answer","1","AO1","5.2.3.3","Figure 3 shows the structure of C60
+Figure 3
+Complete the sentence. 
+Choose the answer from the box.
+[1 mark]
+diatomic  giant ionic  a fullerene  giant metallic
+The structure of C60 is ____________________.","a fullerene","","3","3","10","10","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.4","multiple choice","1","AO1","5.2.3.2","Figure 4 shows the structure of graphite.
+Figure 4
+What type of bond is labelled A in Figure 4?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | covalent |
+| ☐ | double |
+| ☐ | ionic |
+| ☐ | metallic |","covalent","","4","4","10","10","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.5","multiple choice","1","AO1","5.2.3.2","In graphite, each carbon atom forms bonds with other carbon atoms as shown in Figure 4
+How many electrons does one carbon atom use to form one bond?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | 1 |
+| ☐ | 2 |
+| ☐ | 3 |
+| ☐ | 4 |
+| ☐ | 5 |","1","","4","4","10","10","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.6","short answer","1","AO1","5.2.2.8","An electric current is passed through copper.
+Figure 5 shows the apparatus used.
+Figure 5
+Complete the sentence. 
+Choose the answer from the box.
+[1 mark]
+gas  liquid  solid  solution
+Figure 5 shows that copper conducts electricity as a ____________________.","solid","","5","5","10","10","true","Figure 5","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.7","short answer","1","AO1","5.2.2.8","Complete the sentence. 
+Choose the answer from the box.
+[1 mark]
+atoms electrons ions molecules
+Copper conducts electricity because of the movement of delocalised ____________________.","electrons","","5","5","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.8","short answer","1","AO1","5.2.2.3","Figure 6 shows the apparatus used to investigate the effect of electricity on sodium chloride solution. 
+Figure 6
+Complete the sentence. 
+Choose the answer from the box.
+[1 mark]
+dissolved  gaseous  molten
+Figure 6 shows that sodium chloride conducts electricity when ____________________.","dissolved","","6","6","10","10","true","Figure 6","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","1","01.9","table completion","2","AO1","5.2.2.3","Sodium chloride is made up of ions.
+Figure 7 shows the apparatus used to investigate the effect of electricity on solid sodium chloride and molten sodium chloride.
+Figure 7
+Table 1 shows the results.
+
+Table 1
+|                       | Solid sodium chloride             | Molten sodium chloride           |
+|-----------------------|----------------------------------|----------------------------------|
+| Observation           | The filament bulb does not light up | The filament bulb lights up      |
+| Deduction             | Does not conduct electricity      | Does conduct electricity         |
+
+Draw one line from each statement to the correct reason.
+[2 marks]
+
+| Statement                                 | Reason                |
+|-------------------------------------------|-----------------------|
+| Solid sodium chloride does not conduct electricity. | The ions are fixed.  |
+|                                           | The ions are mobile.  |
+|                                           | The ions are neutral. |
+|                                           | The ions are vibrating.|
+| Molten sodium chloride conducts electricity.        | The ions are fixed.  |
+|                                           | The ions are mobile.  |
+|                                           | The ions are neutral. |
+|                                           | The ions are vibrating.|","do not accept if more than 1 line from 1 box","do not accept if more than 1 line 
+from 1 box","7","8","10","10","true","Figure 7","true","Table 1","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.1","multiple choice","1","AO1","5.1.2.6","Which group in the periodic table is known as the halogens?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | Group 1 |
+| ☐ | Group 2 |
+| ☐ | Group 7 |
+| ☐ | Group 0 |","group 7","","8","8","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.2","short answer","2","AO2","5.1.2.6, 5.2.1.4","A fluorine atom has 7 electrons in the outer shell.
+Figure 8 shows part of a dot and cross diagram to represent a molecule of fluorine (F2).
+Complete the dot and cross diagram.
+You should show only the electrons in the outer shells.
+[2 marks]
+Figure 8","one shared pair anywhere in overlap between two circles or on intersection 6 other electrons on each atom","allow dots or crosses or mixture 
+for all marks
+ignore any inner shell electrons","8","8","11","11","true","Figure 8","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.3","short answer","2","AO2","5.1.1.1, 5.1.2.6","Chlorine reacts with potassium bromide solution. 
+Complete the word equation.
+[2 marks]
+potassium
+chlorine + bromide → ____________________ + ____________________","bromine potassium chloride","allow correct chemical formulae
+either order","8","9","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.4","multiple choice","1","AO1","5.1.2.6","What type of reaction happens when chlorine reacts with potassium bromide solution?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | decomposition |
+| ☐ | displacement |
+| ☐ | neutralisation |
+| ☐ | precipitation |","displacement","","9","9","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.5","short answer","1","AO2","5.1.2.6","Complete the sentence.
+Choose the answer from the box.
+[1 mark]
+an atom  an electron  a neutron  a proton
+Chlorine is more reactive than bromine.
+This is because chlorine gains ____________________ more easily.","(an) electron","","9","9","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.6","short answer","1","AO2","5.1.2.1, 5.1.2.6","How does the size of a chlorine atom compare with the size of a bromine atom?
+Complete the sentence.
+Choose the answer from the box.
+[1 mark]
+bigger than  the same size as  smaller than
+A chlorine atom is ____________________ a bromine atom.","smaller than","","9","10","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.7","short answer","1","AO2","5.1.2.1, 5.1.2.6","Give a reason for your answer to question 02.6
+[1 mark]
+Reason
+____________________","(chlorine has) fewer levels / shells (of electrons)","mark independent of answer to
+question 02.6
+allow converse for bromine
+allow (chlorine has) fewer 
+electrons
+allow Cl has 3 levels / shells and
+Br has 4 levels / shells
+ignore atomic number 
+or mass number 
+or number of protons ","10","10","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.8","short answer","1","AO2","5.1.1.1, 5.1.2.6","Fluorine reacts with chlorine to produce ClF3
+Balance the chemical equation for the reaction.
+[1 mark]
+Cl2 + F2 → ____________________","3","allow multiples","10","10","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","2","02.9","extended response","3","AO1","5.1.2.6, 5.2.2.4","Explain why fluorine is a gas at room temperature.
+Use the following words in your answer:
+energy forces molecules weak
+[3 marks]","there are weak forces between molecules which require little energy to overcome / break","do not accept weak bonds
+allow weak intermolecular forces 
+for the first 2 marks
+allow does not need much 
+energy to boil","10","11","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","3","03.1","multiple choice","1","AO1","5.4.2.4","Which ion is found in all acids?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | Cl– |
+| ☐ | H+ |
+| ☐ | Na+ |
+| ☐ | OH– |","H+","","11","11","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","3","03.2","short answer","2","AO2","5.4.2.3","Zinc nitrate can be produced by reacting an acid and a metal oxide.
+Name the acid and the metal oxide used to produce zinc nitrate.
+[2 marks]
+Acid ____________________
+Metal oxide ____________________","nitric (acid) or HNO3 zinc (oxide) or ZnO this order only","","11","11","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","3","03.3","multiple choice","1","AO1","5.1.1.1","In an equation, zinc nitrate is written as Zn(NO3)2(aq).
+What does (aq) mean?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | Dissolved in water |
+| ☐ | Insoluble |
+| ☐ | Not all reacted |
+| ☐ | Reactant |","dissolved in water","","11","11","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","3","03.4","short answer","1","AO2","5.4.2.4","The pH of a solution is 8
+Some hydrochloric acid is added to the solution.
+Suggest the pH of the solution after mixing.
+[1 mark]
+pH = ____","any value from 0 to less than 8","","11","11","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","3","03.5","extended response","4","AO3","5.1.2.3, 5.4.2.4","Table 2 shows the solubility of three solids in water at room temperature.
+
+Table 2
+| Solid             | The mass of the solid that dissolves in 100 cm3 of water |
+|-------------------|-------------------------------------------------------|
+| Phosphorus oxide  | 50 g                                                  |
+| Silicon dioxide   | 0 g                                                   |
+| Sodium hydroxide  | 100 g                                                 |
+
+A teacher labelled these three solids A, B and C.
+She gave a student the information shown in Table 3
+
+Table 3
+| Solid | Observation when added to water | pH of the solid in water |
+|-------|---------------------------------|-------------------------|
+| A     | colourless solution             | 14                      |
+| B     | colourless solution             | 2                       |
+| C     | solid does not dissolve         | 7                       |
+
+Describe a method that could be used to identify each of the three solids A, B and C.
+You must use an indicator in the method.
+Use information in Table 2 and Table 3
+[4 marks]","Level 2: The method would lead to the production of a valid outcome. Key steps are identified and logically sequenced. 3–4
+AO3
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. 1–2
+AO2
+No relevant content 0
+
+Indicative content:
+• add universal indicator or wide range indicator
+indicator turns blue / purple / violet (because pH = 14) or has highest pH or is an alkali so A is sodium hydroxide
+indicator turns red (because pH = 2) or has lowest pH or is an acid so B is phosphorus oxide
+indicator turns green (because pH = 7) or neutral so C is silicon dioxide
+• add solid to water
+A and B dissolve; C does not so C is silicon dioxide","","12","13","12","13","false","","true","Table 2, Table 3","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.1","multiple choice","1","AO2","5.1.2.1","This question is about the elements in Group 2 of the periodic table.
+Figure 9 shows the positions of four elements, A, B, C, and D, in the periodic table.
+Figure 9
+Which element is in Group 2?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | A |
+| ☐ | B |
+| ☐ | C |
+| ☐ | D |","B","","13","14","13","13","true","Figure 9","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.2","short answer","2","AO1","5.1.1.1, 5.3.1.3","Group 2 metal carbonates break down when heated to produce a metal oxide and a gas.
+metal carbonate → metal oxide + gas
+Name the two products when calcium carbonate (CaCO3) is heated.
+[2 marks]
+____________________ and ____________________","calcium oxide or CaO
+carbon dioxide or CO2
+either order","","14","14","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.3","multiple choice","1","AO1","5.3.1.3","What type of reaction happens when a compound breaks down?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | burning |
+| ☐ | decomposition |
+| ☐ | neutralisation |
+| ☐ | reduction |","decomposition","","14","14","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.4","multiple choice","1","AO1","5.5.1.1","The metal carbonate takes in energy from the surroundings to break down.
+What type of reaction takes in energy from the surroundings?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | combustion |
+| ☐ | electrolysis |
+| ☐ | endothermic |
+| ☐ | exothermic |","endothermic","","14","14","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.5","calculation","1","AO2","5.3.1.3","Figure 10 shows the volume of gas produced when a Group 2 metal carbonate is heated.
+Figure 10
+The student collected 5.2 dm3 of gas.
+What mass of the Group 2 metal carbonate is heated?
+[1 mark]
+Mass = ____ g","32 (g) allow 31‒33 (g)","","15","15","15","15","true","Figure 10","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.6","calculation","2","AO3","5.3.1.3","Calculate the mass of the Group 2 carbonate needed to produce 24 dm3 of gas.
+Use your answer from question 04.5 to help you.
+[2 marks]
+Mass = ____ g","32 / 5.2 × 24 = 148 (g)
+or
+uses graph eg 12 dm3 gives 74 (g) (1)
+(then factors up so that 24 dm3 gives) 148 (g) (1)
+an answer of 148 (g) scores 2 marks
+allow ecf from question 04.5
+allow a range 143‒153 (g)","an answer of 148 (g) scores 2
+marks
+allow ecf from question 04.5
+allow a range 143‒153 (g)
+allow a range 143‒153 (g)","15","15","15","15","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.7","calculation","4","AO3","5.3.1.3","A student heated different masses of a Group 2 carbonate. The student measured the volume of gas produced. 
+Figure 11 shows a graph of the student’s results.
+The student calculates the gradient of the line in Figure 11
+The student makes two mistakes.
+Figure 11
+Correct formula for gradient = Increase in volume of gas / Increase in mass of Group 2 metal carbonate heated
+Student’s calculation = 4 / 750 = 0.00533 cm3 per g
+Identify the two mistakes the student makes.
+Calculate the correct gradient of the line.
+[4 marks]
+Mistake 1 ____________________
+Mistake 2 ____________________
+Calculation
+Gradient = ____ cm3 per g","(mistakes)
+increase in mass = 3 (not 4)
+inserted numbers inversely into formula
+(calculation)
+gradient = 750 / 3 = 250 (cm3 per g)","mark mistakes and calculation 
+independently
+allow mistakes in either order 
+allow numbers wrong way round
+an answer of 250 scores the 2
+calculation marks
+allow 
+1000
+4
+if no calculation marks awarded 
+allow
+750
+3 or 187.5 or
+3
+750
+or 0.004 for 1 mark","16","17","16","17","true","Figure 11","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","4","04.8","calculation","4","AO2","5.3.1.2, 5.3.1.3, 5.1.1.5","A student repeated the experiment with a different Group 2 metal carbonate (XCO3).
+The relative formula mass (Mr) of XCO3 is 84
+Relative atomic masses (Ar): C = 12 O = 16
+Calculate the relative atomic mass (Ar) of X. 
+Name metal X. 
+Use the periodic table.
+[4 marks]
+Relative atomic mass (Ar) = ____
+Metal X is ____________________","3 × 16 = 48
+48 + 12 = 60
+84 − 60 = 24
+magnesium or Mg","an answer of 24 scores the 3
+calculation marks
+allow their mass of oxygen + 12
+allow 84 − their mass of 
+carbonate
+magnesium or Mg without 
+working scores this mark","17","18","17","18","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","5","05.1","multiple choice","1","AO2","5.4.3.4","A student investigates the mass of copper produced during electrolysis of copper chloride solution.
+Figure 12 shows the apparatus.
+Figure 12
+Which gas is produced at the positive electrode (anode)?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | carbon dioxide |
+| ☐ | chlorine |
+| ☐ | hydrogen |
+| ☐ | oxygen |","chlorine","","18","18","18","18","true","Figure 12","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","5","05.2","multiple choice","1","AO2","5.4.3.4","Copper is produced at the negative electrode (cathode).
+What does this tell you about the reactivity of copper?
+[1 mark]
+Tick one box.
+|   |   |
+|---|---|
+| ☐ | Copper is less reactive than hydrogen |
+| ☐ | Copper is less reactive than oxygen |
+| ☐ | Copper is more reactive than carbon |
+| ☐ | Copper is more reactive than chlorine |","copper is less reactive than hydrogen","","19","19","19","19","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","5","05.3","calculation","1","AO3","5.4.3.4","Table 4 shows the student’s results.
+
+Table 4
+| Time in mins | Experiment 1 | Experiment 2 | Experiment 3 | Mean |
+|--------------|--------------|--------------|--------------|------|
+| 1            | 0.60         | 0.58         | 0.62         | 0.60 |
+| 2            | 1.17         | 1.22         | 1.21         | 1.20 |
+| 4            | 2.40         | 2.41         | 2.39         | 2.40 |
+| 5            | 3.02         | X            | 3.01         | 3.06 |
+
+Determine the mean mass of copper produced after 3 minutes.
+[1 mark]
+Mass = ____ mg","1.8 (mg) allow an answer in range 1.7‒1.9","","19","19","19","19","false","","true","Table 4","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","5","05.4","calculation","2","AO2","5.4.3.4","Calculate the mass X of copper produced in Experiment 2 after 5 minutes.
+Use Table 4 on page 19
+[2 marks]
+Mass X = ____ mg","3.02 + 3.01 + x
+3 = 3.06
+3.15 (mg)
+an answer of 3.15 (mg) scores 2 marks
+allow any other suitable method","allow any other suitable method
+if no other mark awarded allow 
+9.18 for 1 mark","20","20","20","20","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","5","05.5","calculation","3","AO2","5.3.2.5","The copper chloride solution used in the investigation contained 300 grams per dm3 of solid CuCl2 dissolved in 1 dm3 of water.
+The students used 50 cm3 of copper chloride solution in each experiment.
+Calculate the mass of solid copper chloride used in each experiment.
+[3 marks]
+Mass = ____ g","50 / 1000 or 1 / 20 or 0.05
+(0.05) × 300
+15 (g)
+or
+300 / 1000 or 3 / 10 or 0.3 (1)
+(0.3) × 50 (1)
+15 (g) (1)
+an answer of 15 (g) scores 3 marks
+the second mark is dependent on the first mark being scored","the second mark is dependent 
+on the first mark being scored
+the second mark is dependent 
+on the first mark being scored
+if no other mark awarded allow 
+150 or 15 000 for 1 mark","20","21","20","21","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","6","06.1","short answer","2","AO2","5.1.1.7, 5.1.2.1","This question is about sodium and chlorine.
+Figure 13 shows the positions of sodium and chlorine in the periodic table.
+Figure 13
+State one difference and one similarity in the electronic structure of sodium and of chlorine.
+[2 marks]
+Difference ____________________
+Similarity ____________________","(difference)
+sodium has one and chlorine has seven electrons in outer level / shell 
+or 
+number of electrons 
+(similarity)
+both have three / same number of levels / shells 
+or 
+have electrons in third level / shell 
+or 
+both have incomplete (outer) levels / shells","number of electrons must be 
+correct if quoted
+allow both have 2 electrons in 
+inner shell
+or 
+both have 8 electrons in second 
+shell
+or 
+both are one electron away from 
+full outer level / shell","21","21","21","21","true","Figure 13","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","6","06.2","extended response","4","AO1","5.2.1.2","Sodium atoms react with chlorine atoms to produce sodium chloride (NaCl).
+Describe what happens when a sodium atom reacts with a chlorine atom.
+Write about electron transfer in your answer.
+[4 marks]","sodium (atom) loses
+one (outer shell electron)
+chlorine (atom) gains
+one (electron)","allow marks from suitable 
+diagram(s)
+allow moves / transfers for loses
+do not accept sodium ion loses
+do not accept chloride
+transfer of 1 electron from 
+chlorine to sodium max 2 marks
+reference to sharing or covalent 
+bonding max 3 marks","21","22","21","22","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","6","06.3","short answer","2","AO1","5.5.1.2","The reaction between sodium and chlorine is an exothermic reaction.
+Complete the reaction profile for the reaction between sodium and chlorine.
+[2 marks]
+Figure 14","ignore labels
+any curve / line going up and then down 
+products line below reactants","ignore labels
+any curve / line going up and 
+then down 
+products line below reactants
+allow curve to start / finish 
+anywhere along reactant / 
+product lines","22","22","22","22","true","Figure 14","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN18","AQA GCSE Combined Science: Chemistry Paper 1F, 2018","2018","7","07","extended response","6","AO3","5.4.2.3","A student plans a method to prepare pure crystals of copper sulfate.
+The student’s method is:
+1. Add one spatula of calcium carbonate to dilute hydrochloric acid in a beaker.
+2. When the fizzing stops, heat the solution with a Bunsen burner until all the liquid is gone.
+The method contains several errors and does not produce copper sulfate crystals.
+Explain the improvements the student should make to the method so that pure crystals of copper sulfate are produced. 
+[6 marks]","Level 3: Relevant points (reasons / causes) are identified, given in detail and logically linked to form a clear account. 5–6
+Level 2: Relevant points (reasons / causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear. 3–4
+Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. 1–2
+No relevant content 0
+
+Indicative content:
+• uses sulfuric acid not hydrochloric acid or sulfuric acid needed
+• uses copper carbonate / oxide not calcium carbonate or copper carbonate / oxide needed
+• add solid until solid remains or is in excess or no more reacts / dissolves so that most / all of the acid reacts
+• filter to remove excess or unreacted carbonate / oxide / solid
+• heat gently or partially evaporate or leave until crystals appear or to crystallise
+for level 3 the correct chemicals must have been selected","for level 3 the correct chemicals must have been selected","23","23","23","23","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN18.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN18.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","1","01.1","multiple choice","1","AO1","5.5.1.1","This question is about energy changes.
+Which of these items uses an endothermic reaction?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | Hand warmer |
+| ☐ | Sports injury pack |
+| ☐ | Self-heating can |","sports injury pack","","2","2","10","10","true","Figure 1","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","1","01.2","multiple choice","1","AO1","5.5.1.2","Figure 1 shows the reaction profile for an exothermic reaction.
+Figure 1
+Which letter represents the activation energy for the reaction?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | A |
+| ☐ | B |
+| ☐ | C |
+| ☐ | D |","B","","3","3","10","10","true","Figure 1","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","1","01.3","multiple choice","1","AO1","5.5.1.2","Which letter represents the overall energy change for the reaction?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | A |
+| ☐ | B |
+| ☐ | C |
+| ☐ | D |","C","","3","3","10","10","true","Figure 1","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","1","01.4","short answer","1","AO1","5.5.1.2","Complete the sentence.
+Choose the answer from the box.
+lower than    the same as    higher than
+[1 mark]
+In an exothermic reaction the energy of the products is ____ the energy of the reactants.","lower than","","3","3","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","1","01.5","short answer","1","AO1","5.5.1.2","A student measured the temperature at the start and at the end of a reaction.
+Name the apparatus used to measure the temperature.
+[1 mark]","thermometer","","3","3","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","1","01.6","table completion","2","AO2","5.5.1.1","Figure 2 shows the temperature at the end of the reaction.
+Figure 2
+Complete Table 1.
+Use Figure 2.
+[2 marks]
+
+Table 1
+| Temperature at start in °C | 14.3 |
+|----------------------------|------|
+| Temperature at end in °C   | ____ |
+| Change in temperature in °C| 5    |","27.4 (°C)
+(27.4 – 14.3) = 13.1 (°C)","allow values in the range 27.2–27.5 (°C)
+allow correct subtraction of incorrect temperature reading","4","4","10","10","true","Figure 2","true","Table 1","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","2","02.1","multiple choice","1","AO1","5.4.2.3","This question is about salts and electrolysis.
+A student wants to make copper chloride crystals.
+The student adds excess copper oxide to some hot acid.
+The student stirs the mixture.
+Which acid should the student use?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | Hydrochloric acid |
+| ☐ | Nitric acid |
+| ☐ | Sulfuric acid |","hydrochloric acid","","5","5","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","2","02.2","short answer","1","AO1","5.4.2.3","Suggest how the student would know that excess copper oxide has been added.
+[1 mark]","(black) solid remains (after stirring)","allow copper oxide remains
+allow no more copper oxide reacts","5","5","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","2","02.3","table completion","2","AO1","5.4.2.3","There are four more stages, A, B, C and D, to make copper chloride crystals.
+The stages A, B, C and D are not in the correct order. 
+Stage A  Partially evaporate by heating with a water bath
+Stage B  Filter the mixture into an evaporating basin
+Stage C  Leave to crystallise
+Stage D  Remove and dry the crystals
+Put stages A, B, C and D in the correct order.
+[2 marks]
+First stage: ____
+Second stage: ____
+Third stage: ____
+Fourth stage: ____","first stage B
+second stage A
+third stage C
+fourth stage D","all 4 correct for 2 marks
+allow 1 mark if either first stage or fourth stage is correct","6","6","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","2","02.4","short answer","2","AO2","5.4.3.2","Molten copper chloride can be electrolysed. 
+State the product at each electrode when molten copper chloride is electrolysed.
+[2 marks]
+Negative electrode: ____
+Positive electrode: ____","(negative electrode) copper
+(positive electrode) chlorine","allow Cu
+allow Cl2 / Cl
+do not accept chloride or Cl–
+if no other mark awarded allow 1 mark if elements are reversed","6","6","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","2","02.5","calculation","3","AO2","5.4.3.4","A solution of copper chloride is electrolysed.
+Figure 3 shows a graph of the increase in mass of the negative electrode.
+This increase is shown over a time of 10 minutes.
+Figure 3
+Calculate the gradient of the line in Figure 3.
+Use the equation:
+Gradient = increase in mass in mg / increase in time in minutes
+[3 marks]
+Increase in mass ____
+Increase in time ____
+Gradient = ____
+Gradient = ____ mg per minute","a reading of an increase in mass
+correct linked reading of the increase in time
+correct evaluation of gradient
+e.g. 4 (mg) in 10 (mins) scores 2 marks
+e.g. (4/10 =) 0.4 (mg per min)","allow correct calculation of gradient from incorrectly determined values for mass and/or time","7","7","11","11","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","2","02.6","short answer","2","AO1","5.4.3.3","Aluminium is produced by electrolysis of a molten mixture.
+Complete the sentence.
+Choose the answers from the box.
+carbon   chloride   cryolite   oxide   sulfate   water
+[2 marks]
+The molten mixture contains ____ and aluminium ____.","cryolite
+oxide
+this order only","","8","8","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","3","03.1","multiple choice","1","AO1","5.1.2.2","This question is about the periodic table and argon.
+What order did scientists use to arrange elements in early periodic tables?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | Atomic weight of element |
+| ☐ | Number of neutrons in an atom of element |
+| ☐ | Size of atoms of element |
+| ☐ | Year element was discovered |","atomic weight of element","","9","9","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","3","03.2","short answer","1","AO1","5.1.2.2","In early periodic tables some elements were placed in the wrong groups.
+Mendeleev overcame some of these problems in his periodic table.
+Complete the sentence.
+[1 mark]
+Mendeleev did this by leaving ____ for elements that had not been discovered.","gaps","allow spaces / blanks
+do not accept undiscovered elements","9","9","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","3","03.3","multiple choice","1","AO1","5.1.2.4","What is the name of the group that contains argon?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | Alkali metals |
+| ☐ | Halogens |
+| ☐ | Noble gases |","noble gases","","10","10","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","3","03.4","short answer","2","AO2","5.1.1.5","An atom of argon is represented as
+Ar
+18
+40
+Determine the number of protons and the number of neutrons in one atom of argon.
+[2 marks]
+Number of protons ____
+Number of neutrons ____","18
+22
+this order only","","10","10","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","3","03.5","multiple choice","1","AO1","5.1.1.5","Different atoms of argon are, Ar 18
+39 and Ar 18
+38
+What is the name given to these different atoms of argon?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | Fullerenes |
+| ☐ | Ions |
+| ☐ | Isotopes |
+| ☐ | Molecules |","isotopes","","10","10","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","3","03.6","multiple choice","1","AO2","5.1.1.5","What is the electronic structure of an argon atom, Ar 18
+40?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | 2 |
+| ☐ | 2, 8 |
+| ☐ | 2, 8, 2 |
+| ☐ | 2, 8, 8 |","2,8,8","","11","11","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","3","03.7","short answer","1","AO1","5.1.2.4","Why is argon unreactive?
+[1 mark]","stable arrangement (of electrons)","allow full outer shell
+allow eight electrons in the outer shell
+allow does not need to gain or lose electrons","11","11","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","4","04.1","short answer","1","AO1","5.1.2.2","This question is about Group 1 elements.
+Sodium reacts with chlorine to produce sodium chloride.
+Balance the equation for the reaction.
+[1 mark]
+Na + Cl2 → NaCl","2 Na + Cl2 → 2 NaCl","allow multiples","12","12","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","4","04.2","calculation","1","AO2","5.3.1.1","4.6 g of sodium reacts with chlorine to produce 11.7 g of sodium chloride.
+What mass of chlorine reacted?
+[1 mark]
+Mass of chlorine = ____ g","7.1 (g)","","12","12","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","4","04.3","table completion","4","AO1","5.1.2.5","A teacher puts hot sodium into a gas jar of chlorine.
+The changes seen before, during and after this reaction were observed.
+Complete the sentences.
+Choose the answers from the box.
+colourless   green   lilac   silver   white   yellow
+[4 marks]
+Sodium is a ____ solid.
+Chlorine is a ____ gas.
+The hot sodium burns with a ____ flame.
+The product sodium chloride is a ____ solid.","silver
+green
+yellow
+white
+this order only","allow yellow
+allow white","12","12","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","4","04.4","short answer","2","AO1","5.2.1.2","Sodium chloride (NaCl) is an ionic compound.
+Write the formulae of the ions in sodium chloride.
+[2 marks]
+Sodium ion ____
+Chloride ion ____","Na+
+Cl–","if no other mark awarded allow 1 mark for +(1) charge for sodium ion and –(1) charge for chloride ion","13","13","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","4","04.5","short answer","1","AO2","5.1.2.5","Complete the sentence.
+Choose the answer from the box.
+an atom   an electron   a neutron   a proton
+[1 mark]
+Potassium is more reactive than sodium.
+This is because potassium loses ____ more easily than sodium.","an electron","","13","13","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","4","04.6","short answer","2","AO2","5.1.2.1, 5.1.2.5","How does the size of a potassium atom compare with the size of a sodium atom?
+Give a reason for your answer.
+[2 marks]
+Reason ____","potassium (atom) is larger
+potassium (atom) has more energy levels (of electrons)
+or
+potassium (atom) has more shells (of electrons)","allow converse for sodium
+mark independently
+do not accept more outer shells","13","13","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","5","05.1","short answer","1","AO1","5.2.2.2","This question is about oxygen and compounds of oxygen.
+What is the state symbol of oxygen at room temperature?
+[1 mark]","(g)","allow g
+ignore formulae","14","14","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","5","05.2","calculation","1","AO2","5.1.1.1","Figure 4 shows the percentage by mass of the elements calcium, carbon and oxygen in calcium carbonate.
+Figure 4
+What is the percentage by mass of calcium in calcium carbonate?
+[1 mark]
+Percentage = ____ %","40 (%)","","14","14","14","14","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","5","05.3","calculation","3","AO2","5.3.1.3","At high temperature, sodium nitrate decomposes into sodium nitrite and oxygen.
+A student heats three samples of sodium nitrate.
+The mass of each sample was 4.50 g
+The mass of solid after heating was recorded.
+Table 2 shows the mass of solid after heating in each experiment.
+Table 2
+| Experiment | Mass of solid after heating in g |
+|------------|-------------------------------|
+| 1          | 3.76                          |
+| 2          | 3.98                          |
+| 3          | 4.09                          |
+Calculate the mean mass of solid after heating.
+Give your answer to 3 significant figures.
+[3 marks]
+Mean mass of solid after heating = ____ g","3.76 + 3.98 + 4.09
+= 11.83
+11.83 / 3 = 3.943(333...)
+= 3.94 (g)
+an answer of 3.94 (g) scores 3 marks","allow a correctly written answer to 3 significant figures from an incorrectly calculated mean","15","15","15","15","false","","true","Table 2","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","5","05.4","table completion","2","AO1","5.2.1.4","Table 3 shows the electronic structure of hydrogen and oxygen.
+Table 3
+| Element  | Electronic structure |
+|----------|---------------------|
+| Hydrogen | 1                   |
+| Oxygen   | 2,6                 |
+Figure 5 shows part of a dot and cross diagram of a molecule of water (H2O).
+Complete the dot and cross diagram.
+You should show only the electrons in the outer energy levels. 
+[2 marks]
+Figure 5","one shared pair in each overlap
+4 non-bonding electrons in outer shell of oxygen","allow combination of circles, dots, crosses or e(–)
+do not accept extra electron(s) on outer shell of hydrogen
+ignore any inner shell electrons
+diagram scores 2 marks","16","16","16","16","true","Figure 5","true","Table 3","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","5","05.5","short answer","1","AO1","5.2.2.1, 5.2.2.4","Oxygen and sulfur are examples of simple molecules.
+Complete the sentence.
+Choose the answer from the box.
+covalent   ionic   metallic
+[1 mark]
+There are ____ bonds between the atoms of oxygen in an oxygen molecule.","covalent","","16","16","16","16","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","5","05.6","table completion","2","AO2","5.2.2.4","Figure 6 shows the relative sizes of an oxygen molecule and a sulfur molecule.
+Figure 6
+How does the boiling point of sulfur compare with the boiling point of oxygen?
+Complete the sentences.
+[2 marks]
+The boiling point of sulfur is ____ the boiling point of oxygen.
+This is because in sulfur the intermolecular forces are ____ than the intermolecular forces in oxygen.","higher (than)
+stronger","(than between oxygen molecules)","17","17","16","16","true","Figure 6","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","6","06.1","multiple choice","1","AO3","5.4.1.2","This question is about reactions of metals.
+Figure 7 shows what happens when calcium, copper, magnesium and zinc are added to hydrochloric acid.
+Figure 7
+What is the order of decreasing reactivity of these four metals?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | Zn  Ca  Cu  Mg |
+| ☐ | Ca  Cu  Mg  Zn |
+| ☐ | Cu  Zn  Ca  Mg |
+| ☐ | Ca  Mg  Zn  Cu |","Ca Mg Zn Cu","","18","18","17","17","true","Figure 7","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","6","06.2","short answer","2","AO3","5.4.1.2","A student wants to make a fair comparison of the reactivity of the metals with hydrochloric acid.
+Name two variables that must be kept constant.
+[2 marks]
+1 ____
+2 ____","any two from:
+• mass (of metal / element)
+• surface area (of metal / element)
+• concentration (of acid)
+• volume (of acid)
+• temperature (of acid)","allow weight
+ignore size
+ignore length
+ignore pH
+ignore strength
+ignore room temperature","19","19","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","6","06.3","short answer","1","AO2","5.4.1.2","What is the independent variable in this reaction?
+[1 mark]","(type of) metal / element","","19","19","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","6","06.4","short answer","2","AO3","5.1.2.3, 5.1.2.5, 5.4.1.2","Predict the reactivity of beryllium compared with magnesium.
+Give a reason for your answer.
+Use the periodic table.
+[2 marks]
+Reason ____","(beryllium is) less reactive
+any one from:
+• greater attraction between nucleus and outer electrons
+• more energy is needed to remove electrons
+• loss of electrons is more difficult
+• outer electrons closer to nucleus
+• less shielding","allow converse answers for magnesium
+MP2 only if MP1 is correct
+allow higher in group
+allow reactivity increases down the group
+ignore reactivity series","19","19","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","6","06.5","calculation","3","AO2","5.3.2.5","A solution of hydrochloric acid contains 3.2 g of hydrogen chloride in 50 cm3
+Calculate the concentration of hydrogen chloride in g per dm3
+[3 marks]
+Concentration = ____ g per dm3","50 / 1000 = 0.05 (dm3)
+3.2 / 0.05 = 64 (g per dm3)
+alternative approach:
+3.2 / 50 = 0.064
+(× 1000) = 64 (g per dm3)
+alternative approach:
+1000 / 50 = 20
+(× 3.2) = 64 (g per dm3)
+an answer of 64 (g per dm3) scores 3 marks","an incorrect answer for one step does not prevent allocation of marks for subsequent steps
+an answer of 0.16 / 0.064 / 0.64 / 6.4 / 6.4 × 10–5 (g per dm3) gains 2 marks","19","19","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","7","07.1","short answer","1","AO1","5.2.2.2","This question is about salts.
+Ammonium nitrate solution is produced when ammonia gas reacts with nitric acid.
+Give the state symbol for ammonium nitrate solution.
+[1 mark]","(aq)","allow aq
+ignore aqueous
+ignore formulae","20","20","18","18","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","7","07.2","multiple choice","1","AO1","5.1.1.1, 5.4.2.2","What is the formula of nitric acid?
+[1 mark]
+Tick (✓) one box.
+
+|   |   |
+|---|---|
+| ☐ | HCl |
+| ☐ | HNO3 |
+| ☐ | H2SO4 |
+| ☐ | NH4OH |","HNO3","","20","20","18","18","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","7","07.3","table completion","2","AO1","5.4.2.4","Ammonia gas dissolves in water to produce ammonia solution.
+Ammonia solution contains hydroxide ions, OH–
+A student adds universal indicator to solutions of nitric acid and ammonia.
+What colour is observed in each solution?
+[2 marks]
+Colour in nitric acid ____
+Colour in ammonia solution ____","red
+purple
+or
+blue","allow orange or yellow
+do not accept green
+allow shades of purple e.g. violet","20","21","18","18","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","7","07.4","multiple choice","1","AO3","5.4.2.4","The student gradually added nitric acid to ammonia solution.
+Which row, A, B, C or D, shows the change in pH as the nitric acid is added until in excess?
+[1 mark]
+Tick (✓) one box.
+
+|   | pH of ammonia solution at start | pH after addition of excess nitric acid |
+|---|--------------------------------|--------------------------------------|
+| ☐ | A 10                          | 7                                    |
+| ☐ | B 2                           | 10                                   |
+| ☐ | C 7                           | 1                                    |
+| ☐ | D 10                          | 2                                    |","D","","21","21","18","18","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","7","07.5","calculation","3","AO2","5.3.1.2","Calculate the percentage by mass of oxygen in ammonium nitrate (NH4NO3).
+Relative atomic masses (Ar): H = 1 N = 14 O = 16
+Relative formula mass (Mr): NH4NO3 = 80
+[3 marks]
+Percentage by mass of oxygen = ____ %","3 × 16 = 48
+48 / 80 × 100 = 60 (%)
+an answer of 60 (%) scores 3 marks","an answer of 20 (%) scores 2 marks for:
+16
+80 (× 100) (1)
+ = 20 (%) (1)","21","21","18","18","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN19","AQA GCSE Combined Science: Chemistry Paper 1F, 2019","2019","7","07.6","extended response","6","AO3","5.5.1.1","Describe a method to investigate how the temperature changes when different masses of ammonium nitrate are dissolved in water.
+You do not need to write about safety precautions.
+[6 marks]","Level 3: The design/plan would lead to the production of a valid outcome. All key steps are identified and logically sequenced. 5–6
+Level 2: The design/plan would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced. 3–4
+Level 1: The design/plan would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. 1–2
+No relevant content 0
+
+Indicative content
+Steps
+• use a suitable container e.g. test tube
+• use insulation
+• add water
+• measure the initial water temperature (with a thermometer)
+• add stated mass e.g. 1g or 1 spatula
+• stir (to dissolve the solid)
+• measure the final (allow lowest or highest) temperature of the solution
+• calculate the temperature difference or determine graphically
+• repeat with different masses
+• repeat with the same volume of water
+
+to access level 3 there must be an indication of how the temperature change is determined using different masses dissolved in the same quantity of water","","22","22","18","18","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN19.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-JUN19.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","1","01.1","short answer","2","AO2","5.1.1.4, 5.1.1.5","Figure 1 represents a beryllium atom.
+Figure 1
+What is the number of protons and the number of neutrons in the beryllium atom?
+[2 marks]
+Number of protons
+___________________
+Number of neutrons
+___________________","(number of protons) 4  
+(number of neutrons) 5","","3","3","10","10","true","Figure 1","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","1","01.2","multiple choice","1","AO2","5.1.1.7, 5.2.1.2","Figure 2 represents a beryllium ion.
+Figure 2
+What is the relative charge on a beryllium ion?
+[1 mark]
+Tick (✓) one box.
+|   | 0 | +1 | +2 |
+|---|---|----|----|
+|   | [ ] | [ ] | [ ] |","+2","","3","3","10","10","true","Figure 2","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","1","01.3","multiple choice","1","AO1","5.2.2.1","Figure 3 shows the arrangement of atoms in the three states of matter.
+Figure 3
+What state of matter is represented by state C in Figure 3? 
+[1 mark]
+Tick (✓) one box.
+|   | Gas | Liquid | Solid |
+|---|-----|--------|-------|
+|   | [ ] |  [ ]   |  [ ]  |","gas","","4","4","10","10","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","1","01.4","multiple choice","1","AO1","5.2.2.1","What is the name of the process when state B changes into state A? 
+Use Figure 3. 
+[1 mark]
+Tick (✓) one box.
+|   | Condensing | Freezing | Melting |
+|---|------------|----------|---------|
+|   |    [ ]     |   [ ]    |   [ ]   |","freezing","","5","5","10","10","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","1","01.5","short answer","1","AO1","5.2.2.1","How can state B be changed into state C? 
+Use Figure 3. 
+[1 mark]
+____________________________________________________","heat","allow evaporate / boil","5","5","10","10","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","1","01.6","multiple choice","1","AO1","5.1.1.3","Experimental evidence led to the scientific model of the atom changing over time.
+Figure 4 shows three models for the atom.
+Figure 4
+What is the order for the development of the model of the atom? 
+[1 mark]
+Tick (✓) one box.","","","6","6","10","10","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","1","01.7","short answer","1","AO1","5.1.1.3","Complete the sentence.
+Choose the answer from the box.
+[1 mark]
+Bohr      Chadwick      Mendeleev
+The existence of neutrons was discovered by _____________.","chadwick","","7","7","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","2","02.1","multiple choice","1","AO1","5.4.1.2, 5.5.1.1, RPA10","A student investigated the temperature change when magnesium was added to zinc sulfate solution.
+Figure 5 shows the apparatus.
+Figure 5
+Which piece of equipment is labelled X? 
+[1 mark]
+Tick (✓) one box.
+|   | Beaker | Ruler | Thermometer |
+|---|--------|-------|-------------|
+|   |  [ ]   |  [ ]  |    [ ]      |","thermometer","","8","8","10","10","true","Figure 5","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","2","02.2","multiple choice","1","AO1","5.4.1.2, 5.5.1.1, RPA10","Which piece of equipment is the best to use to measure volumes of solution?
+[1 mark]
+Tick (✓) one box.
+|   | Conical flask | Evaporating basin | Measuring cylinder |
+|---|--------------|-------------------|-------------------|
+|   |     [ ]      |        [ ]        |        [ ]        |","measuring cylinder","","8","8","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","2","02.3","calculation","2","AO2","5.4.1.2, 5.5.1.1, RPA10","The student added 1.0 g of magnesium to 50 cm3 of zinc sulfate solution and measured the temperature increase.
+The student repeated the experiment two more times.
+Table 1 shows the results.
+
+| Temperature increase in °C | Experiment 1 | Experiment 2 | Experiment 3 | Mean |
+|---------------------------|--------------|--------------|--------------|------|
+|                           |     7.6      |     7.3      |     7.6      |  Y   |
+
+Calculate value Y in Table 1.
+[2 marks]
+Y = ________ °C","(Y =) (7.6 + 7.3 + 7.6) / 3  
+= 22.5 / 3  
+= 7.5 (°C)
+
+allow for 2 marks:
+
+(Y =) (7.6 + 7.6) / 2  
+= 15.2 / 2  
+= 7.6 (°C)","","9","9","10","10","false","","true","Table 1","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","2","02.4","calculation","2","AO2","5.4.1.2, 5.5.1.1, RPA10","The student then added 1.2 g of magnesium to 50 cm3 of zinc sulfate solution.
+The temperature increased by 9.0 °C.
+Calculate the temperature increase when the student adds 0.40 g of magnesium to 50 cm3 of zinc sulfate solution.
+[2 marks]
+Temperature increase = ________ °C","(temperature increase =) 0.40 × 9.0 / 1.2  
+= 3.0 (°C)","","9","9","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","2","02.5","multiple choice","1","AO1","5.5.1.1, RPA10","What is the name given to a reaction which causes the temperature to increase? 
+[1 mark]
+Tick (✓) one box.
+|   | Endothermic | Exothermic | Thermal decomposition |
+|---|-------------|------------|----------------------|
+|   |    [ ]      |    [ ]     |         [ ]          |","exothermic","","10","10","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","2","02.6","short answer","1","AO3","5.4.1.2, 5.5.1.1, RPA10","The student repeated the experiment with 1.2 g of copper and 50 cm3 of zinc sulfate solution.
+The temperature did not increase.
+Give one reason why.
+[1 mark]
+____________________________________________________","copper did not react (with zinc sulfate)
+or
+copper is less reactive (than zinc)
+allow copper is less reactive (than magnesium)","","10","10","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","3","03.1","multiple choice","1","AO1","5.2.1.2","Structure and bonding is used to explain properties of compounds.
+Metal atoms react with non-metal atoms to form ions.
+Which group of elements does not form ions?
+[1 mark]
+Tick (✓) one box.
+|   | Alkali metals | Halogens | Noble gases |
+|---|---------------|----------|-------------|
+|   |     [ ]       |   [ ]    |    [ ]      |","noble gases","","11","11","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","3","03.2","short answer","4","AO2","5.2.1.2","Potassium reacts with chlorine to produce potassium chloride (KCl).
+Figure 6 shows what happens to the electrons in the outer shells when a potassium atom reacts with a chlorine atom.
+The dots (o) and crosses (×) represent electrons.
+Figure 6
+Describe what happens when a potassium atom reacts with a chlorine atom to produce potassium chloride.
+Answer in terms of electrons.
+[4 marks]
+____________________________________________________","potassium (atoms) lose electrons  
+chlorine (atoms) gain electrons  
+reference to one electron  
+any one from:
+• to form ions
+• to form full outer shell(s)
+• to form full energy level(s)
+allow to form a noble gas structure","","12","13","10","10","true","Figure 6","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","3","03.3","multiple choice","1","AO2","5.2.1.3","In solid ionic compounds, oppositely charged ions attract to form a giant structure.
+Which structure represents the arrangement of ions in solid potassium chloride?
+[1 mark]
+Tick (✓) one box.","","","13","13","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","3","03.4","table completion","2","AO1","5.2.1.1, 5.2.1.4","Non-metal atoms share electrons to form covalent bonds.
+Water (H2O) is a covalent molecule.
+Table 2 shows the number of electrons in the outer shells of hydrogen atoms and of oxygen atoms.
+Table 2
+| Element  | Number of electrons in the outer shell of an atom |
+|----------|---------------------------------------------------|
+| Hydrogen | 1                                                 |
+| Oxygen   | 6                                                 |
+Figure 7 shows part of a dot and cross diagram for a molecule of water.
+Complete the dot and cross diagram.
+You should only show electrons in the outer shells.
+[2 marks]
+Figure 7","one shared pair in each overlap  
+four non-bonding electrons in outer shell of oxygen","allow any combination of circles, dots, crosses, e(–) for electrons
+do not accept extra electron(s) on outer shell of hydrogen
+ignore any inner shell electrons
+the diagram below scores 2 marks","14","14","10","10","true","Figure 7","true","Table 2","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","3","03.5","short answer","1","AO3","5.2.1.4","Silica has a giant covalent structure.
+Figure 8 represents the structure of silica.
+Figure 8
+Determine the ratio of silicon (Si) atoms to oxygen (O) atoms in silica.
+Use Figure 8.
+[1 mark]
+Si : O __________","1 Si : 2 O","allow 6 Si : 12 O","15","15","10","10","true","Figure 8","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","3","03.6","multiple choice","1","AO1","5.2.2.5","Polymers have very large molecules.
+Figure 9 represents part of the structure of a polymer.
+Figure 9
+What holds polymer molecule 1 and polymer molecule 2 together in a polymer?
+[1 mark]
+Tick (✓) one box.
+|   | Covalent bonds | Electrostatic attraction between ions | Weak intermolecular forces |
+|---|----------------|--------------------------------------|--------------------------|
+|   |     [ ]        |                [ ]                   |          [ ]             |","weak intermolecular forces","","15","15","10","10","true","Figure 9","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","3","03.7","extended response","3","AO3","5.2.2.4, 5.2.2.5","Figure 10 shows the melting point of a polymer as the length of the polymer molecule increases.
+Figure 10
+Describe the trend shown in Figure 10.
+[3 marks]
+____________________________________________________","the melting point increases as the length of the polymer molecule increases  
+(then the) melting point levels off (as the polymer molecule length increases)
+allow 1 mark for melting point increases
+allow (then the) melting point becomes constant (as the polymer molecule length increases)","ignore references to boiling point","16","17","10","10","true","Figure 10","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","4","04.1","multiple choice","1","AO1","5.2.2.8","Copper bromide solution is electrolysed using inert electrodes.
+Figure 11 shows the apparatus.
+Figure 11
+Which particles carry the electrical charge through the metal wire? 
+[1 mark]
+Tick (✓) one box.
+|   | Electrons | Neutrons | Protons |
+|---|-----------|----------|---------|
+|   |   [ ]     |   [ ]    |   [ ]   |","electrons","","17","17","10","10","true","Figure 11","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","4","04.2","short answer","2","AO1","5.4.3.4","There are four ions in copper bromide solution:
+• Cu2+
+• Br – 
+• H+
+• OH–
+Two of these ions are formed when a water molecule breaks down.
+The symbol equation when a water molecule breaks down is:
+H2O → H+ + OH–
+Complete the word equation for the breakdown of a water molecule.
+[2 marks]
+water → __________ + __________","(water →) hydrogen (ion) + hydroxide (ion)","allow for 1 mark 
+hydrogen (ion)
+allow for 1 mark 
+hydroxide (ion)","18","18","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","4","04.3","multiple choice","1","AO2","5.1.1.1, 5.4.2.2","Copper ions and bromide ions carry the electrical charge through the solution.
+The formula of a copper ion is Cu2+
+The formula of a bromide ion is Br – 
+What is the formula of copper bromide? 
+[1 mark]
+Tick (✓) one box.
+|   | CuBr | Cu2Br | CuBr2 |
+|---|------|-------|-------|
+|   | [ ]  |  [ ]  |  [ ]  |","CuBr2","","18","18","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","4","04.4","short answer","2","AO1","5.4.3.1, 5.4.3.4, RPA9","Explain why copper ions (Cu2+) move to the negative electrode.
+[2 marks]
+____________________________________________________","(copper ions) are positive(ly charged)
+(so are) attracted (to the negative electrode)","","19","19","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","4","04.5","short answer","1","AO1","5.4.3.1, 5.4.3.4, RPA9","Complete the sentence.
+Choose the answer from the box.
+[1 mark]
+decomposed    discharged    distilled
+At the negative electrode copper metal is produced when the copper ions are __________.","discharged","","19","19","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","4","04.6","multiple choice","1","AO2","5.4.3.1, 5.4.3.4, RPA9","What happens to the mass of the negative electrode during electrolysis?
+[1 mark]
+Tick (✓) one box.
+|   | Decreases | No change | Increases |
+|---|-----------|-----------|-----------|
+|   |   [ ]     |   [ ]     |   [ ]     |","increases","","19","19","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","4","04.7","multiple choice","1","AO2","5.4.3.1, 5.4.3.4, RPA9","There are four ions in copper bromide solution:
+• Cu2+
+• Br – 
+• H+
+• OH–
+What is produced at the positive electrode when copper bromide solution is electrolysed?
+[1 mark]
+Tick (✓) one box.
+|   | Bromine | Hydrogen | Oxygen |
+|---|---------|----------|--------|
+|   |  [ ]    |   [ ]    |  [ ]   |","bromine","","20","20","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.1","short answer","1","AO1","5.4.3.1, 5.4.3.3","This question is about extraction of metals.
+Aluminium is extracted from a molten mixture of aluminium oxide and cryolite using electrolysis.
+Figure 12 shows the electrolysis cell.
+Figure 12
+Complete the sentence.
+[1 mark]
+The extraction of aluminium is expensive because the process uses large amounts of __________.","energy / electricity","","22","22","10","10","true","Figure 12","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.2","short answer","1","AO1","5.4.3.1, 5.4.3.3","Oxygen is produced at the positive carbon electrodes.
+The oxygen reacts with the carbon electrodes.
+Which gas is produced when oxygen reacts with the positive carbon electrodes?
+[1 mark]
+____________________","carbon dioxide","","22","22","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.3","short answer","1","AO3","5.1.2.5, 5.4.1.2","Titanium is extracted from titanium chloride by reacting titanium chloride with sodium.
+The reaction between titanium chloride and sodium is carried out in an inert atmosphere.
+Suggest why the reaction is carried out in an inert atmosphere.
+[1 mark]
+____________________________________________________","sodium reacts with air / oxygen
+or
+sodium is highly reactive
+allow titanium (chloride) reacts with air / oxygen","","23","23","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.4","multiple choice","1","AO3","5.1.2.4","Complete the sentence.
+Choose the answer from the box.
+[1 mark]
+argon    chlorine    hydrogen
+The gas used for the inert atmosphere is __________.","argon","","23","23","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.5","short answer","1","AO2","5.1.1.1, 5.4.1.2","Balance the equation for the reaction.
+[1 mark]
+TiCl4 + 4Na → Ti + _________ NaCl","TiCl4 + 4 Na → Ti + 4 NaCl","allow multiples","23","23","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.6","calculation","1","AO2","5.3.1.1, 5.3.1.3","Copper is extracted from copper oxide by reacting copper oxide with carbon.
+Figure 13 shows the apparatus.
+Figure 13
+The equation for the reaction is:
+2 CuO(s) + C(s) → 2 Cu(s) + CO2(g)
+In an experiment 15.9 g of copper oxide and 1.2 g of carbon reacted.
+12.7 g of copper was produced in the reaction.
+Calculate the mass of carbon dioxide produced in this experiment.
+[1 mark]
+Mass of carbon dioxide = ________ g","4.4 (g)","","24","24","10","10","true","Figure 13","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.7","short answer","2","AO2","5.3.1.1, 5.3.1.3","Explain why the mass of the contents in the crucible changed during the experiment.
+[2 marks]
+____________________________________________________","(the) mass decreased
+(because) carbon dioxide escapes (into the atmosphere)","allow (because) carbon dioxide is a gas
+allow (because) a gas is produced","24","24","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","5","05.8","table completion","2","AO2","5.4.1.3","What happens to copper oxide in the reaction?
+Give one reason for your answer.
+Use the equation for the reaction.
+[2 marks]
+Tick (✓) one box. 
+|   | The copper oxide is dissolved | The copper oxide is oxidised | The copper oxide is reduced |
+|---|-------------------------------|-----------------------------|-----------------------------|
+|   | [ ]                           | [ ]                         | [ ]                         |
+Reason
+____________________________________________________","the copper oxide is reduced
+(reason) (copper oxide) loses oxygen","","25","25","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","6","06.1","short answer","1","AO1","5.4.2.4","This question is about carbon dioxide.
+Carbon dioxide is soluble in water and forms an acidic solution.
+Which ion makes the solution acidic?
+[1 mark]
+____________________","hydrogen / H+","","27","27","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","6","06.2","short answer","2","AO1","5.4.2.4","Name an indicator that could be used to test if the solution is acidic.
+Give the result of the test.
+[2 marks]
+Indicator ____________________
+Result _______________________","(indicator) universal
+(result) (green to) red / orange / yellow
+OR
+(indicator) (blue) litmus (1) (result) (turns) red (1)
+OR
+(indicator) methyl orange (1) (result) (turns) red (1)","MP2 is dependent upon MP1 being awarded
+ignore pH meter","27","27","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","6","06.3","multiple choice","1","AO3","5.3.2.5","Figure 14 shows the mass of carbon dioxide that will dissolve in 1 dm3 of water at different temperatures.
+Figure 14
+How does the solubility of carbon dioxide change as the temperature of the water increases?
+[1 mark]
+Tick (✓) one box.
+|   | The solubility decreases | The solubility does not change | The solubility increases |
+|---|-------------------------|-------------------------------|------------------------|
+|   |        [ ]              |            [ ]                 |        [ ]             |","the solubility decreases","","28","28","10","10","true","Figure 14","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","6","06.4","multiple choice","1","AO3","5.3.2.5, 5.4.2.4","Carbon dioxide dissolves in water to form an acidic solution.
+How does the pH of the solution change as the temperature of the water increases? 
+Use Figure 14. 
+[1 mark]
+Tick (✓) one box.
+|   | pH of the solution decreases | pH of the solution does not change | pH of the solution increases |
+|---|-----------------------------|------------------------------------|-----------------------------|
+|   |           [ ]               |               [ ]                  |           [ ]               |","pH of the solution increases","","29","29","10","10","true","Figure 14","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","6","06.5","multiple choice","1","AO2","5.2.2.2, AO2.2","Calcium carbonate reacts with hydrochloric acid to produce carbon dioxide.
+The equation for the reaction is:
+CaCO3(s) + 2 HCl(aq) → CaCl2(aq) + CO2(g) + H2O(x)
+What is the state symbol (x) in the equation? 
+[1 mark]
+Tick (✓) one box.
+|   | (aq) | (g) | (l) | (s) |
+|---|------|-----|-----|-----|
+|   | [ ]  | [ ] | [ ] | [ ] |","(l)","","29","29","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","6","06.6","extended response","6","AO3","","Figure 15 shows equipment a student used for an investigation.
+Figure 15
+The student investigated the volume of carbon dioxide produced when different masses of calcium carbonate react with hydrochloric acid.
+Describe a method the student could use.
+[6 marks]
+____________________________________________________","Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced.  
+5–6
+Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced.  
+3–4
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.  
+1–2
+No relevant content  
+0
+
+Indicative Content:
+• measure a (stated) mass of calcium carbonate
+• use a balance
+• add calcium carbonate into a conical flask
+• measure a (stated) volume of hydrochloric acid
+• use a measuring cylinder
+• add hydrochloric acid to the conical flask
+• immediately place the stopper (and delivery tube) in the conical flask
+• record the total volume of carbon dioxide gas
+or
+record volume of carbon dioxide collected in set time
+or
+time taken to collect fixed volume of gas
+• collected in the gas syringe
+• repeat
+• repeat method with different masses of calcium carbonate","","30","31","10","10","true","Figure 15","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","7","07.1","short answer","1","AO1","5.4.2.2, RPA8","Lithium hydroxide reacts with sulfuric acid to produce lithium sulfate.
+The equation for the reaction is:
+2 LiOH + H2SO4 → Li2SO4 + 2 H2O
+What type of reaction is this?
+[1 mark]
+____________________","neutralisation allow exothermic","","32","32","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","7","07.2","calculation","2","AO2","5.3.1.2","Calculate the relative formula mass (Mr) of sulfuric acid (H2SO4). 
+Relative atomic masses (Ar): H = 1 O = 16 S = 32
+[2 marks]
+Relative formula mass (Mr) = __________","(Mr =) (1 × 2) + 32 + (4 × 16)
+= 2 + 32 + 64
+= 98","","32","32","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","7","07.3","calculation","4","AO2","5.3.1.2","Calculate the percentage by mass of oxygen in lithium sulfate (Li2SO4). 
+Relative atomic mass (Ar): O = 16
+Relative formula mass (Mr): Li2SO4 = 110
+Give your answer to 2 significant figures.
+[4 marks]
+Percentage by mass of oxygen (2 significant figures) = ________ %","(Ar O × 4 =) 4 × 16 = 64
+
+(percentage of oxygen =) (64 / 110) × 100
+= 58.18
+= 58 (%)","allow correct use of incorrectly determined mass of oxygen
+allow a correctly calculated answer to 2 significant figures from an incorrect calculation which uses the values in the question","33","33","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN23","AQA GCSE Combined Science: Chemistry Paper 1F, 2023","2023","7","07.4","calculation","3","AO2","5.3.2.5","A solution of lithium sulfate contains 0.30 g of lithium sulfate in 25 cm3. 
+Calculate the concentration of lithium sulfate in g/dm3. 
+[3 marks]
+Concentration = ________ g/dm3","(unit conversion) 25 cm3 ÷ 1000 = 0.025 dm3
+
+(conc =) 0.30 / 0.025 (g/dm3)
+= 12 (g/dm3)
+
+alternative approach:
+0.30 / 25 (g/cm3) = 0.012 (g/cm3)
+(unit conversion) 0.012 × 1000 = 12 (g/dm3)","allow correct use of incorrect / no unit conversion
+allow correct conversion of an incorrect concentration calculation","33","33","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN23.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN23.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","1","Q01.1","multiple choice","1","AO1","5.1.2.5","Potassium is in Group 1 of the periodic table.
+What name is given to Group 1 elements?
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | Alkali metals |
+| ☐ | Halogens |
+| ☐ | Noble gases |","alkali metals","","2","2","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","1","Q01.2","multiple choice","1","AO1","5.1.1.5","A potassium atom is very small.
+What is the radius of a potassium atom? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | 0.2 cm |
+| ☐ | 0.2 mm |
+| ☐ | 0.2 nm |","0.2 nm","","2","2","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","1","Q01.3","multiple choice","1","AO1","5.1.1.5","What name is given to the number of protons in an atom? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | Atomic number |
+| ☐ | Group number |
+| ☐ | Mass number |","atomic number","","2","2","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","1","Q01.4","table completion","2","AO1","5.1.1.4","Table 1 shows the name and the relative charge of the particles in a potassium atom.
+
+Table 1
+
+| Name of particle | Relative charge |
+|------------------|----------------|
+| Proton           | 0              |
+| Electron         | –1             |
+
+Complete Table 1.
+[2 marks]","Name Relative charge
+Proton +1
+Neutron 0
+Electron -1","","3","3","10","10","false","","true","Table 1","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","1","Q01.5","multiple choice","1","AO2","5.1.1.7, 5.1.2.3, 5.2.1.2","The electronic structure of a potassium atom is 2,8,8,1
+Figure 1 represents the electronic structure of a potassium ion.
+Figure 1
+What is the charge on a potassium ion? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | –1 |
+| ☐ | 0 |
+| ☐ | +1 |","+1","","3","3","10","10","true","Figure 1","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","1","Q01.6","short answer","1","AO3","5.1.2.5","Figure 2 shows the melting points of some Group 1 elements.
+Figure 2
+Predict the melting point of potassium.
+[1 mark]
+Melting point = ____ °C","63 (°C) allow a value in the range 50–80 (°C)","allow a value in the range 50–80 
+(°C) ","4","4","10","10","true","Figure 2","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","1","Q01.7","multiple choice","1","AO2","5.1.1.6","Potassium has two isotopes.
+Table 2 shows the percentage (%) abundance of the two isotopes.
+Table 2
+
+| Isotope | Percentage (%) abundance |
+|---------|-------------------------|
+| 19K39   | 93                      |
+| 19K41   | 7                       |
+
+How is the relative atomic mass (Ar) of potassium calculated? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | Ar = (39 × 7) + (41 × 93) / 100 |
+| ☐ | Ar = (39 × 93) + (41 × 7) / 100 |
+| ☐ | Ar = (39 × 41) + (93 × 7) / 100 |","Ar =
+(39 × 93) + (41 × 7)
+      100","","5","5","10","10","true","Table 2","true","Table 2","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","2","Q02.1","short answer","2","AO1","5.2.1.1, 5.2.1.4","Carbon is in Group 4 of the periodic table.
+Methane contains carbon and hydrogen atoms.
+A carbon atom has 4 electrons in the outer shell.
+A hydrogen atom has 1 electron in the outer shell.
+Complete the dot and cross diagram for a methane molecule.
+[2 marks]","one pair of electrons drawn in each of the three overlaps
+an answer of
+scores 2 marks","allow any combination of circles, 
+dots, crosses, e(–)for electrons
+ignore inner shell electrons on 
+the carbon atom
+do not accept extra electron(s) 
+on outer shell of carbon / 
+hydrogen
+allow 1 mark for one shared pair 
+in one overlap without non-bonding electron(s) on that 
+hydrogen","6","6","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","2","Q02.2","multiple choice","1","AO1","5.2.1.4, 5.2.2.6, 5.2.3.1","Which diagram represents the structure of diamond? 
+[1 mark]
+Tick () one box.","1","","7","7","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","2","Q02.3","multiple choice","1","AO1","5.2.3.2","Figure 3 represents part of the structure of graphite.
+Figure 3
+In graphite each carbon atom forms covalent bonds.
+How many covalent bonds does each carbon atom form in graphite? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | 1 |
+| ☐ | 2 |
+| ☐ | 3 |
+| ☐ | 4 |","3","","8","8","11","11","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","2","Q02.4","short answer","1","AO2","5.2.3.2","Graphite conducts electricity.
+Which particles carry electrical charge through graphite?
+[1 mark]","(delocalised) electrons","allow (free) electrons","8","8","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","2","Q02.5","multiple choice","1","AO1","5.2.3.3","Figure 4 represents the structure of a fullerene.
+Figure 4
+Where are fullerenes used? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | In electronic components |
+| ☐ | In self-heating cans |
+| ☐ | In sports injury packs |","in electronic components","","9","9","11","11","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","2","Q02.6","short answer","2","AO1","5.2.3.3","Describe the structure of the fullerene shown in Figure 4.
+[2 marks]","any two from:
+• hollow (shape)
+• hexagonal rings
+• (of) carbon atoms
+• each (carbon) atom forms 3 (covalent) bonds","allow cylindrical (shape)
+allow (nano)tube
+allow (made of) hexagons ","9","9","11","11","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","3","Q03.1","multiple choice","1","AO1","5.4.1.2, 5.5.1.1","A student investigated the temperature change when different masses of zinc were added to copper sulfate solution.
+Figure 5 shows the apparatus.
+Figure 5
+This is the method used.
+1. Pour 50 cm3 of copper sulfate solution into a polystyrene cup.
+2. Measure the starting temperature of the copper sulfate solution.
+3. Add 1.0 g of zinc.
+4. Stir the mixture.
+5. Measure the highest temperature reached. 
+6. Repeat steps 1 to 5 two more times.
+7. Repeat steps 1 to 6 with different masses of zinc.
+The student varied the mass of zinc.
+What type of variable is the mass of zinc? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | Control |
+| ☐ | Dependent |
+| ☐ | Independent |","independent","","11","11","12","12","true","Figure 5","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","3","Q03.2","short answer","1","AO2","5.4.1.2, 5.5.1.1","Zinc reacts with copper sulfate solution to produce salt A and copper.
+The word equation for the reaction is:
+zinc + copper sulfate → salt A + copper
+What is the name of salt A? 
+[1 mark]","zinc sulfate","allow ZnSO4","12","12","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","3","Q03.3","short answer","2","AO2","5.4.1.2, 5.5.1.1","The temperature of the solution increases when zinc reacts with copper sulfate solution.
+Give two other observations that can be made when zinc reacts with copper sulfate solution. 
+[2 marks]
+1 ______________________
+2 ______________________","solution becomes colourless
+(brown / orange) solid produced
+allow solution changes colour
+allow zinc changes colour","ignore references to 
+temperature / fizzing","12","12","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","3","Q03.4","table completion","2","AO2","5.4.1.2, 5.5.1.1","Figure 6 shows the highest temperature reached in one experiment.
+Figure 6
+Complete Table 3.
+Use Figure 6.
+[2 marks]
+Table 3
+
+| Starting temperature in °C | Highest temperature reached in °C | Temperature increase in °C |
+|---------------------------|-----------------------------------|----------------------------|
+| 21                        |                                   |                            |","(highest temperature =) 36 (°C)
+(temperature increase = 36 – 21 =) 15 (°C)","allow correct use of an 
+incorrectly determined value for 
+highest temperature
+ignore minus sign ","13","13","12","12","true","Figure 6","true","Table 3","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","3","Q03.5","calculation","2","AO2","5.4.1.2, 5.5.1.1","A teacher repeated the investigation using a digital thermometer.
+Table 4 shows the results. 
+Table 4
+
+| Mass of zinc in grams | Temperature increase in °C |
+|----------------------|----------------------------|
+|                      | Experiment 1 | Experiment 2 | Experiment 3 | Mean |
+| 1.0                  | 7.8          | 7.3          | 7.7          | B    |
+| 2.0                  | 13.1         | 13.8         | 13.3         | 13.4 |
+| 3.0                  | 20.4         | 12.9         | 20.2         | 20.3 |
+
+Calculate value B in Table 4.
+[2 marks]
+B = ____ °C","(B =)
+7.8 + 7.3 + 7.7
+       3
+= 7.6 (°C)
+OR
+(B =)
+7.8 + 7.7
+      2
+= 7.75 (°C)","allow 7.8 (°C) if working shown 
+for calculation of the mean using 
+7.8 and 7.7 (°C)","14","14","12","12","false","","true","Table 4","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","3","Q03.6","short answer","1","AO2","5.3.1.4, 5.4.1.2, 5.5.1.1","The range of the results is the minimum value of temperature increase to the maximum value of temperature increase. 
+What is the range of temperature increase for the experiment with 2.0 g of zinc?
+[1 mark]
+Range = ____ °C to ____ °C","(range =) 13.1 (°C to) 13.8 (°C)","allow (range =) 13.8 (°C to) 13.1 
+(°C)","14","14","12","12","false","","true","Table 4","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","3","Q03.7","short answer","2","AO3","5.4.1.2, 5.5.1.1","One of the results for 3.0 g of zinc is anomalous.
+Which result is anomalous?
+Suggest one reason why this result is anomalous. 
+[2 marks]
+Anomalous result ______________________
+Reason ______________________","(result) 12.9 (°C)
+any one from:
+• (the result is) much lower than the other two results
+• (used) less than 3 g zinc
+• (used) more than 50 cm3 of copper sulfate (solution)
+• the mixture was not stirred","MP2 is dependent on MP1
+being awarded
+allow (result / experiment) 2
+allow (used) incorrect mass of 
+zinc
+allow (used) incorrect volume of 
+copper sulfate (solution)","15","15","12","12","false","","true","Table 4","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","4","Q04.1","short answer","1","AO1","5.1.1.2","Mixtures can be separated by different methods.
+Figure 7 shows the apparatus used to separate the dyes in a black ink.
+Figure 7
+What is the name of this method? 
+[1 mark]","(paper) chromatography","","17","17","13","13","true","Figure 7","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","4","Q04.2","short answer","1","AO1","5.1.1.2","Some water was added to a mixture of two solids, C and D.
+The mixture was stirred and then poured into the apparatus shown in Figure 8.
+Figure 8
+Name the separation method shown in Figure 8. 
+[1 mark]","filtration / filtering","","17","17","13","13","true","Figure 8","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","4","Q04.3","short answer","2","AO3","5.1.1.2","Explain why solid C separated from the mixture of C and D. 
+Use Figure 8. 
+[2 marks]","(because) C is insoluble
+or (because) C does not dissolve (in water)
+(whereas) D is soluble
+or (whereas) D dissolves (in water)","","17","18","13","13","true","Figure 8","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","4","Q04.4","short answer","1","AO1","5.1.1.2","A student separated a mixture of three liquids, G, H and I.
+Figure 9 shows the apparatus.
+Figure 9
+Name the separation method shown in Figure 9.
+[1 mark]","(fractional) distillation","allow (simple) distillation","18","19","13","13","true","Figure 9","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","4","Q04.5","multiple choice","1","AO3","5.1.1.2","Table 5 shows the boiling points of the three liquids, G, H and I.
+Table 5
+
+| Liquid | Boiling point in °C |
+|--------|--------------------|
+| G      | 56                 |
+| H      | 78                 |
+| I      | 100                |
+
+Which liquid collected first in the conical flask? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | G |
+| ☐ | H |
+| ☐ | I |","G","","19","19","13","13","true","","true","Table 5","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","4","Q04.6","short answer","2","AO2","5.1.1.2, 5.2.2.1","Two processes occur in the apparatus shown in Figure 9. 
+Draw one line from each description to the name of the process.
+[2 marks]
+Description                 Name of process
+Liquid changes to vapour   Condensing
+Vapour changes to liquid   Evaporating
+                           Freezing
+                           Melting","","do not accept more than one line from a box on the left","19","19","13","13","true","Figure 9","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","4","Q04.7","multiple choice","1","AO3","5.1.1.2","Figure 10 shows part of the apparatus shown in Figure 9.
+Figure 10
+Which statement is correct?
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | The temperature of water at K is lower than at J. |
+| ☐ | The temperature of water at K is the same as at J. |
+| ☐ | The temperature of water at K is higher than at J. |","the temperature of water at K is higher than at J","","20","20","13","13","true","Figure 10","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","5","Q05.1","multiple choice","1","AO1","5.4.1.2, 5.4.2.1","Magnesium chloride is a soluble salt.
+Magnesium reacts with hydrochloric acid to produce magnesium chloride and a gas.
+Which gas is produced?
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | Hydrogen |
+| ☐ | Nitrogen |
+| ☐ | Oxygen |","hydrogen","","21","21","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","5","Q05.2","multiple choice","1","AO2","5.1.1.1, 5.2.2.2","Magnesium chloride (MgCl2) can be electrolysed when molten.
+Which represents molten magnesium chloride? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | MgCl2(g) |
+| ☐ | MgCl2(l) |
+| ☐ | MgCl2(s) |","MgCl2(l)","","22","22","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","5","Q05.3","short answer","2","AO2","5.4.3.1, 5.4.3.2","Magnesium chloride contains Mg2+ ions and Cl– ions.
+Name the product at each electrode when molten magnesium chloride is electrolysed.
+[2 marks]
+Negative electrode ______________________
+Positive electrode ______________________","(negative electrode) magnesium
+(positive electrode) chlorine","allow Mg
+allow Cl2
+allow 1 mark if both elements 
+are reversed","22","22","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","5","Q05.4","short answer","3","AO3","5.4.1.2","A student investigated the reactivity of three metals: copper, magnesium and iron.
+The student mixed each metal with each metal chloride solution.
+Table 6 shows the results.
+Table 6
+
+|                   | Copper chloride solution | Magnesium chloride solution | Iron chloride solution |
+|-------------------|-------------------------|-----------------------------|-----------------------|
+| Copper            | No reaction             | No reaction                 | No reaction           |
+| Magnesium         | Reaction                | No reaction                 | Reaction              |
+| Iron              | Reaction                | No reaction                 | No reaction           |
+
+What is the order of reactivity for copper, magnesium and iron?
+Give two reasons for your answer.
+Use Table 6. 
+[3 marks]
+Most reactive ______________________
+Least reactive ______________________
+Reason 1 ______________________
+Reason 2 ______________________","(most reactive metal) magnesium
+(iron)
+copper
+(least reactive metal)
+any two from:
+• magnesium reacts with both copper chloride solution and iron chloride solution
+• iron only reacts with copper chloride solution
+• copper does not react with either magnesium chloride solution or iron chloride solution","allow Mg
+allow Fe
+allow Cu
+allow magnesium has two / most 
+reactions
+allow iron has one reaction
+allow copper does not react","23","24","14","14","true","","true","Table 6","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","5","Q05.5","calculation","1","AO2","5.4.3.1, 5.4.3.2","When heated 0.72 g of magnesium reacts with iron oxide to produce 2.32 g of products.
+Calculate the mass of iron oxide that reacts with 0.72 g of magnesium.
+[1 mark]
+Mass of iron oxide = ____ g","1.6 (g)","","24","24","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","5","Q05.6","calculation","3","AO2","5.3.2.5","The student used 30 cm3 of magnesium chloride solution.
+1 dm3 of magnesium chloride solution contains 180 g of magnesium chloride. 
+1 dm3 = 1000 cm3
+Calculate the mass of magnesium chloride in 30 cm3 of magnesium chloride solution.
+[3 marks]
+Mass of magnesium chloride = ____ g","(conversion 30.0 cm3 =) 0.030 dm3
+(mass =) 0.030 × 180
+= 5.4 (g)
+OR
+1000 cm3 contains 180 g MgCl2
+30 cm3 contains (180/1000) × 30 = 5.4 (g)
+OR
+(ratio of volume 1000/30 =) 33.3
+(so ratio of mass) = 180/33.3 = 5.4 (g)","allow correct use of incorrect / 
+no conversion of volume","24","24","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","6","Q06.1","short answer","2","AO3","5.2.2.7","Copper is a useful metal.
+Figure 11 shows the mass of copper produced between 1900 and 2010.
+Figure 11
+Give two conclusions that can be made from Figure 11. 
+[2 marks]
+1 ______________________
+2 ______________________","any two from:
+• mass of copper produced increased (from 1900 to 2010)
+• before 1930 the mass of copper produced increased slightly
+• after 1930 the mass of copper produced increased rapidly
+• the highest mass of copper was produced in 2010
+• the lowest mass of copper was produced in 1900
+• the increase in the mass of copper produced was not linear","allow a value in the range 1925 
+to 1930
+allow a value in the range 1925 
+to 1930
+allow the highest mass of 
+copper produced was 15.8 
+(× 109 kilograms) 
+allow the lowest mass of copper 
+produced was 0.2 (× 109
+kilograms) ","25","25","15","15","true","Figure 11","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","6","Q06.2","short answer","3","AO2","5.2.2.7","Mixtures of copper and zinc are heated to produce alloys.
+Figure 12 represents the structures of pure copper and of an alloy of copper and zinc.
+Figure 12
+Explain why the alloy of copper and zinc is harder than pure copper.
+Use Figure 12.
+[3 marks]","(alloy of copper and zinc is harder because) the atoms are different sizes
+(so the) layers are distorted
+(so the) layers cannot easily slide","allow (so the) atoms cannot 
+slide over each other","26","26","15","15","true","Figure 12","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","6","Q06.3","calculation","4","AO2","5.2.2.7","A 5.25 g sample of an alloy of copper and zinc contains 13.5% zinc by mass.
+Calculate the mass of copper in the 5.25 g sample.
+Give your answer to 3 significant figures.
+[4 marks]
+Mass of copper (3 significant figures) = ____ g","(% copper = 100 – 13.5 =) 86.5 (%)
+(mass of copper =) (86.5/100) × 5.25 = 4.54125 (g) = 4.54 (g)
+OR
+(mass of zinc =) (13.5/100) × 5.25 = 0.70875 (g)
+(mass of copper = 5.25 – 0.70875 = 4.54125 (g) = 4.54 (g))","allow correct use of an 
+incorrectly determined 
+percentage of copper
+allow an answer correctly 
+rounded to 3 significant figures 
+from an incorrect calculation 
+which uses the values in the 
+question
+allow correct use of an 
+incorrectly determined mass of 
+zinc
+allow an answer correctly 
+rounded to 3 significant figures 
+from an incorrect calculation 
+which uses the values in the 
+question","27","27","15","15","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","7","Q07.1","multiple choice","1","AO2","5.4.2.2, 5.4.2.3","A student prepared copper sulfate by reacting an acid with excess copper carbonate.
+Figure 13 shows the first two stages in the preparation of copper sulfate.
+Figure 13
+What is the formula of the acid used to prepare copper sulfate? 
+[1 mark]
+Tick () one box.
+|   |   |
+|---|---|
+| ☐ | HCl |
+| ☐ | HNO3 |
+| ☐ | H2SO4 |","H2SO4","","28","28","16","16","true","Figure 13","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","7","Q07.2","short answer","1","AO1","5.4.2.3","Why is excess copper carbonate used in stage 1? 
+[1 mark]","so all the acid reacts","allow so all the acid is used up","29","29","16","16","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","7","Q07.3","short answer","2","AO1","5.1.1.2, 5.4.2.3","Beaker N contained copper sulfate solution.
+Describe how the student could produce copper sulfate crystals from the copper sulfate solution in beaker N. 
+[2 marks]","heat the solution (to remove some of the water)
+leave to cool / crystallise","ignore references to filtration
+allow evaporate some of the 
+water / solution","29","29","16","16","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","7","Q07.4","calculation","3","AO2","5.3.1.3","A student investigated the thermal decomposition of copper carbonate.
+Copper carbonate decomposes to form two products.
+Figure 14 shows the apparatus.
+Figure 14
+This is the method used.
+1. Add 1.2 g of copper carbonate to a test tube.
+2. Heat the test tube and contents until the mass does not change.
+3. Record the mass of the contents of the test tube after heating.
+4. Repeat steps 1 to 3 with different masses of copper carbonate.
+Table 7 shows the results. 
+Table 7
+
+| Mass of copper carbonate in test tube before heating in grams | Mass of the contents of test tube after heating in grams |
+|-------------------------------------------------------------|--------------------------------------------------------|
+| 1.2                                                         | 0.8                                                    |
+| 2.4                                                         | 1.7                                                    |
+| 3.6                                                         | 2.2                                                    |
+| 4.8                                                         | 3.1                                                    |
+| 6.0                                                         | 3.9                                                    |
+
+Plot the data from Table 7 on Figure 15.
+Draw a line of best fit.
+[3 marks]
+Figure 15","all points correctly plotted
+line of best fit","allow a tolerance of ± ½ a small 
+square 
+allow 1 mark for 3 or 4 points
+correctly plotted","30","31","16","16","true","Figure 14, Figure 15","true","Table 7","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","7","Q07.5","short answer","1","AO1","5.3.1.3","Why does the mass of the contents of the test tube decrease in mass when copper carbonate is thermally decomposed? 
+[1 mark]","a gas escapes (from the test tube)","allow carbon dioxide escapes 
+(from the test tube)
+ignore copper carbonate 
+thermally decomposes","31","31","16","16","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"JUN24","AQA GCSE Combined Science: Chemistry Paper 1F, 2024","2024","8","Q08.1","extended response","6","AO1","5.2.1.1, 5.2.1.2, 5.2.1.3, 5.2.1.4, 5.2.2.3, 5.2.2.4","Table 8 shows diagrams which represent the structures of two substances.
+Table 8
+Compare the structure and bonding of sodium chloride and oxygen.
+[6 marks]","Level 2: Scientifically relevant features are identified; the way(s) in which they are similar/different is made clear and (where appropriate) the magnitude of the similarity/difference is noted.
+Level 1: Relevant features are identified and differences noted.
+No relevant content
+Indicative content:
+Similarities
+• both have strong bonds
+• particles have full outer shells
+Differences
+• sodium chloride is a compound 
+• sodium chloride is made from two elements
+• oxygen is an element
+• sodium chloride is a giant structure of ions
+• oxygen is a small molecule
+• sodium chloride has ionic bonds
+• sodium chloride consists of oppositely charged ions 
+• electrons are transferred from sodium atoms to chlorine atoms
+• oxygen is covalent
+• oxygen (molecules) are made up of oxygen atoms
+• joined by double covalent bond 
+• electrons are shared between oxygen atoms
+• with weak forces between oxygen molecules
+For Level 2, there must be a comparison of either the structure or bonding of both sodium chloride and oxygen, and a description of magnitude.","For Level 2, there must be a comparison of either the structure or 
+bonding of both sodium chloride and oxygen, and a description of 
+magnitude.","32","32","17","17","false","","true","Table 8","C1F Papers and Mark Schemes\AQA-8464C1F-QP-JUN24.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-JUN24.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.1","multiple choice","1","AO1","5.4.2.4","This question is about acids and bases.
+What is the pH of sulfuric acid?
+Tick () one box.
+| ☐ | 1 |
+| ☐ | 7 |
+| ☐ | 14 |","1","","2","2","2","2","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.2","multiple choice","1","AO1","5.4.2.1, 5.4.2.2","An acid reacts with zinc to produce zinc chloride and hydrogen.
+Which acid reacts with zinc to produce zinc chloride?
+Tick () one box.
+| ☐ | Hydrochloric acid |
+| ☐ | Nitric acid |
+| ☐ | Sulfuric acid |","hydrochloric acid","","2","2","2","2","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.3","multiple choice","1","AO1","5.4.2.1, 5.4.2.2","What type of substance is zinc chloride?
+Tick () one box.
+| ☐ | Alkali |
+| ☐ | Base |
+| ☐ | Salt |","salt","","2","2","2","2","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.4","multiple choice","1","AO2","5.4.2.2","An alkali is a base in solution.
+Which compound is an alkali?
+Tick () one box.
+| ☐ | Sodium hydroxide |
+| ☐ | Sodium nitrate |
+| ☐ | Sodium sulfate |","sodium hydroxide","","3","3","3","3","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.5","multiple choice","1","AO2","5.1.1.1","The formula of the copper ion is Cu2+
+The formula of the oxide ion is O2–
+What is the formula of copper oxide?
+Tick () one box.
+| ☐ | Cu2O2 |
+| ☐ | CuO2 |
+| ☐ | CuO |","CuO","","3","3","3","3","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.6","short answer","1","AO1","5.4.2.2, 5.4.2.3, RPA8","A student reacts an acid with copper oxide.
+The reaction between the acid and copper oxide is very slow at room temperature.
+How could the student speed up the reaction?","any one from:
+• increase the concentration of the acid
+• increase the surface area of the copper oxide
+• warm / heat the mixture","allow use powdered copper oxide
+ignore increase room temperature
+allow add catalyst
+ignore stir","4","4","4","4","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.7","short answer","1","AO1","5.1.1.2, 5.4.2.3, RPA8","Complete the sentence to show how the student makes sure that all the acid reacts.
+Choose the answer from the box.
+in excess   in solution   molten   soluble
+The student adds copper oxide to the acid until the copper oxide is _________________________________.","in excess","","4","4","4","4","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.8","multiple choice","1","AO1","5.1.1.2, 5.4.2.3, RPA8","The student filters the unreacted copper oxide from the solution.
+Which apparatus does the student use?
+Tick () one box.","1","","5","5","5","5","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","1","Q01.9","short answer","1","AO1","5.4.2.2, 5.4.2.3, RPA8","What process is used to produce crystals of a salt from a salt solution?","crystallisation","allow evaporation","5","5","5","5","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","2","Q02.1","calculation","2","AO2","5.4.1.2, 5.5.1.1, RPA 10","A student investigated the temperature change when metal X was added to copper sulfate solution.
+This is the method used.... Figure 2 shows the thermometer reading of the copper sulfate solution at the start of the investigation.
+Figure 2
+The highest temperature reached when metal X was added to copper sulfate solution was 35.5 °C
+Determine the temperature change when metal X is added to copper sulfate solution.
+Use Figure 2.
+Highest temperature = 35.5 °C
+Temperature at start = ____ °C
+Temperature change = ____ °C","21.1 (°C)
+14.4 (°C)","allow correct use of an incorrect start temperature","7","7","7","7","true","Figure 2","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","2","Q02.2","short answer","2","AO2","5.4.1.2, 5.5.1.1, RPA 10","Give two variables the student should keep the same in this investigation.","any two from:
+• surface area of metal
+• 25 cm3 / volume of copper sulfate solution
+• concentration of copper sulfate solution
+• mass / 1 g of metal","ignore amount
+ignore temperature
+ignore stirring","7","7","7","7","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","2","Q02.3","calculation","2","AO3","5.4.1.2, 5.5.1.1, RPA 10","The student repeated the experiment with metal Y.
+Table 1 shows four results for metal Y.
+| Test 1 | Test 2 | Test 3 | Test 4 |
+| 9.2    | 7.3    | 9.5    | 9.2    |
+Calculate the mean temperature change for metal Y. Do not include the anomalous result in your calculation.
+Mean temperature change = ____ °C","(9.2 + 9.5 + 9.2) / 3
+or
+27.9 / 3
+= 9.3 (°C)","if no other mark awarded allow 1 mark for 8.8 (°C)","7","7","7","7","false","","true","Table 1","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","2","Q02.4","short answer","1","AO3","5.4.1.2, 5.5.1.1, RPA 10","The more reactive the metal added to copper sulfate solution, the greater the temperature change.
+Figure 3 shows a reactivity series.... The student added:
+• magnesium to copper sulfate solution
+• an unknown metal A to copper sulfate solution.
+Table 2 shows the results.
+| Metal     | Temperature change in °C |
+| Magnesium | 12                      |
+| Metal A   | 8                       |
+The student concludes metal A is zinc.
+Give one reason why the student is correct.","(metal A / zinc) is less reactive (than magnesium)
+or
+(metal A / zinc) is lower in reactivity series
+or
+change in temperature is lower (with metal A / zinc)","allow converse","8","8","8","8","true","Figure 3","true","Table 2","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","2","Q02.5","multiple choice","1","AO3","5.4.1.2, 5.5.1.1, RPA 10","The student did the experiment with silver and copper sulfate solution.
+What happens to the temperature of the mixture?
+Tick () one box.
+| ☐ | Decreases |
+| ☐ | Increases |
+| ☐ | Stays the same |","stays the same","","9","9","9","9","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","2","Q02.6","short answer","1","AO2","5.1.2.5, 5.4.1.2, 5.5.1.1","Suggest one reason why the student should not add potassium metal to copper sulfate solution.","too dangerous
+or
+too reactive","allow potassium would react with water","9","9","9","9","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","2","Q02.7","calculation","2","AO2","5.3.2.5, RPA 10","100 cm3 of the copper sulfate solution contains 1.8 g of copper sulfate.
+Calculate the mass of copper sulfate in 25 cm3 of this copper sulfate solution.
+Mass = ____ g","(25 / 100) × 1.8
+or
+(1/4) × 1.8
+= 0.45 (g)","","9","9","9","9","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","3","Q03.1","short answer","1","AO2","5.1.1.3","This question is about gold and compounds of gold.
+In the alpha particle scattering experiment alpha particles are fired at gold foil.
+Alpha particles are positively charged.
+Figure 4 shows the results.
+Figure 4
+Some alpha particles are deflected.
+Complete the sentence.
+Choose the answer from the box.
+negatively charged   not charged   positively charged
+Some alpha particles are deflected because the nucleus of the atom is _______________________________.","positively charged","","10","10","10","10","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","3","Q03.2","multiple choice","1","AO2","5.1.1.3, 5.1.1.7","Why are most alpha particles not deflected?
+Tick () one box.
+| ☐ | The atom is a tiny sphere that cannot be divided. |
+| ☐ | The atom is mainly empty space. |
+| ☐ | The electrons orbit the nucleus at specific distances. |","the atom is mainly empty space.","","11","11","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","3","Q03.3","multiple choice","1","AO1","5.1.1.3","What was one conclusion from the alpha particle scattering experiment?
+Tick () one box.
+| ☐ | The mass is concentrated at the centre of the atom. |
+| ☐ | The mass is concentrated at the edge of the atom. |
+| ☐ | The mass is spread evenly throughout the atom. |","the mass is concentrated at the centre of the atom.","","11","11","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","3","Q03.4","multiple choice","1","AO1","5.1.2.6","Gold reacts with the elements in Group 7 of the periodic table.
+What are Group 7 elements known as?
+Tick () one box.
+| ☐ | Alkali metals |
+| ☐ | Halogens |
+| ☐ | Noble gases |","halogens","","11","11","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","3","Q03.5","multiple choice","1","AO1","5.1.2.6","Fluorine, chlorine and bromine react with gold.
+Which element will be the most reactive with gold?
+Tick () one box.
+| ☐ | Fluorine |
+| ☐ | Chlorine |
+| ☐ | Bromine |","fluorine","","12","12","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","3","Q03.6","calculation","1","AO2","5.3.1.1","3.94 g of gold reacts with chlorine to produce 6.07 g of gold chloride.
+Calculate the mass of chlorine that reacts with 3.94 g of gold.
+Mass = ____ g","2.13 (g)","","12","12","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","3","Q03.7","calculation","2","AO2","5.3.1.2","Calculate the relative formula mass (Mr) of gold chloride (AuCl3).
+Relative atomic masses (Ar): Cl = 35.5 Au = 197
+Relative formula mass (Mr) = ____","197 + (3 × 35.5)
+or
+197 + 106.5
+= 303.5","","12","12","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","4","Q04.1","calculation","2","AO2","5.1.2.3","This question is about elements and compounds.
+Figure 5 shows the proportion of elements in the periodic table that are metals and non-metals.
+Figure 5
+Determine the percentage of the elements in Figure 5 that are metals.
+Percentage = ____ %","(8 / 10) × 100
+or
+0.8 × 100
+= 80 (%)","if no other mark awarded allow 1 mark for 20 (%)","13","13","13","13","true","Figure 5","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","4","Q04.2","short answer","2","AO1","5.1.2.3","Give two physical properties of metals.","any two from:
+• conducts electricity
+• conducts thermal energy
+• ductile
+• high melting point
+• malleable
+• shiny
+• strong","allow conducts heat
+allow high boiling point
+allow can be bent / shaped
+allow dense
+allow sonorous
+ignore chemical properties","13","13","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","4","Q04.3","short answer","1","AO2","5.1.2.5, 5.1.2.6, 5.3.1.1","Sodium reacts with chlorine to produce sodium chloride.
+Balance the equation for the reaction.
+Na + Cl2 → ____ NaCl","2 Na + Cl2 → 2 NaCl","allow multiples","13","13","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","4","Q04.4","multiple choice","1","AO3","5.2.1.3, 5.2.2.3","Figure 6 shows part of the structure of sodium chloride (NaCl).
+Figure 6
+What holds the particles together in sodium chloride?
+Tick () one box.
+| ☐ | Electrostatic attractions |
+| ☐ | Intermolecular forces |
+| ☐ | Metallic bonds |","electrostatic attractions","","14","14","14","14","true","Figure 6","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","4","Q04.5","short answer","2","AO1","5.2.2.3","Solid sodium chloride does not conduct electricity.
+Give two ways in which sodium chloride can be made to conduct electricity.","(heat sodium chloride until) molten / liquid
+dissolve in water","allow form aqueous solution
+allow add water","14","14","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","5","Q05.1","multiple choice","1","AO1","5.1.2.2","This question is about elements in the periodic table.
+What property was used to arrange elements in early periodic tables?
+Tick () one box.
+| ☐ | Atomic number |
+| ☐ | Atomic weight |
+| ☐ | Mass number |","atomic weight","","15","15","15","15","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","5","Q05.2","short answer","1","AO3","5.1.2.2","In early periodic tables, iodine (I) was placed before tellurium (Te).
+Mendeleev placed iodine after tellurium.
+Figure 7 shows part of Mendeleev’s periodic table.
+Suggest one reason why Mendeleev placed iodine in the column shown in Figure 7.","(because) properties were similar
+or
+(because) iodine has similar / same properties as bromine / chlorine / fluorine","allow symbols","15","16","15","16","true","Figure 7","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","5","Q05.3","multiple choice","1","AO3","5.1.2.5, 5.2.2.1","Table 3 shows the melting points of three Group 1 metals.
+| Metal     | Melting point in °C |
+| Lithium   | 180                 |
+| Sodium    | 98                  |
+| Potassium | 63                  |
+What state is lithium at 100 °C?
+Tick () one box.
+| ☐ | Gas |
+| ☐ | Liquid |
+| ☐ | Solid |","solid","","16","16","16","16","true","","true","Table 3","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","5","Q05.4","table completion","3","AO2","5.1.2.4, 5.2.2.1","Complete the graph in Figure 8.
+Use Table 3.
+You should:
+• complete the scale on the y-axis
+• draw bars to show the melting points of sodium and potassium.","scale on the y-axis up to 180
+bar for sodium at 98 (°C)
+bar for potassium at 63 (°C)","ignore scale beyond 180
+allow a tolerance of ± half a small square
+allow a tolerance of ± half a small square","16","17","16","17","true","Figure 8","true","Table 3","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","5","Q05.5","short answer","3","AO2","5.1.2.3, 5.2.1.2","Lithium reacts with chlorine to produce lithium chloride.
+Figure 9 shows what happens to the electrons in the outer shells when a lithium atom reacts with a chlorine atom.
+Describe what happens to a lithium atom and to a chlorine atom when they react.
+Use Figure 9 to answer in terms of electrons.","lithium (atom) loses one electron
+chlorine (atom) gains one electron
+any one from:
+• ions are formed
+• lithium forms positive ion
+• chlorine forms negative ion
+• form a full outer shell(s) / level(s)","max 2 marks if reference to incorrect particle / bonding 
+allow ionic bonding
+allow noble gas structure is formed","18","18","18","18","true","Figure 9","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","5","Q05.6","short answer","2","AO1","5.1.2.3, 5.1.2.5","Lithium and potassium are in the same group of the periodic table.
+Figure 10 represents the electronic structures of a lithium atom and of a potassium atom.
+Give two reasons why potassium is more reactive than lithium.","any two from:
+• reactivity of elements increases going down the group
+• potassium has more shells
+• potassium can lose an (outer) electron more easily
+• potassium has an outer shell / electron further away from the nucleus
+• potassium has more shielding (of the outer shell / electron)
+• potassium has a weaker attraction between nucleus and outer shell / electron","allow energy levels for shells
+allow converse for lithium","19","20","19","20","true","Figure 10","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","6","Q06.1","short answer","2","AO2","5.1.1.4, 5.1.1.5","This question is about the extraction of aluminium.
+An aluminium atom is represented as:
+Al  13
+      27
+Give the number of electrons and neutrons in the aluminium atom.","13
+14","this order only","20","20","20","20","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","6","Q06.2","short answer","1","AO1","5.4.1.1, 5.4.1.3","Aluminium is extracted by the electrolysis of a molten mixture of aluminium oxide and cryolite.
+Figure 11 shows the cell used for the electrolysis.
+Aluminium is produced by the reduction of aluminium oxide (Al2O3).
+What is meant by the term reduction?","loss of oxygen","allow (Al3+) gain of electrons
+allow aluminium oxide loses oxygen","20","20","20","20","true","Figure 11","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","6","Q06.3","extended response","3","AO1","5.4.3.1, 5.4.3.2, 5.4.3.3","Oxygen is formed at the positive carbon electrodes.
+Explain why the positive carbon electrodes must be continually replaced.","(at high temperature)
+oxygen reacts with carbon / electrode
+(so the positive) electrode burns / wears away
+to produce carbon dioxide","allow anode for (positive) electrode
+C + O2 → CO2 scores MP1 and MP3","21","21","21","21","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","6","Q06.4","short answer","3","AO1","5.2.2.3, 5.2.2.8, 5.2.3.2","A substance conducts electricity because of free moving, charged particles.
+What are the free moving, charged particles in a:
+• carbon electrode (made from graphite)
+• molten mixture of aluminium oxide and cryolite
+• metal wire?","(delocalised) electron(s)
+ion(s)
+(delocalised) electron(s)","","21","21","21","21","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","7","Q07.1","short answer","1","AO2","5.2.1.4","This question is about substances with covalent bonding.
+Figure 12 shows a ball and stick model of a water molecule (H2O).
+Suggest one limitation of using a ball and stick model for a water molecule.","any one from:
+• not to scale
+• not 3 dimensional / D
+• incorrect arrangement in space
+• electrons / shells not shown","allow size of atoms incorrect
+allow atoms are separated
+ignore properties of water","22","22","22","22","true","Figure 12","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","7","Q07.2","short answer","1","AO1","5.2.2.4","Ice has a low melting point.
+Water molecules in ice are held together by intermolecular forces.
+Ice has a low melting point because the intermolecular forces are _______________________________.","weak","allow weaker","22","22","22","22","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","7","Q07.3","short answer","1","AO2","5.2.1.4","Figure 13 shows the structure of a molecule.
+What is the molecular formula of the molecule in Figure 13?","CH4O","allow CH3OH","23","23","23","23","true","Figure 13","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","7","Q07.4","multiple choice","1","AO1","5.2.3.1","Diamond has a giant covalent structure.
+What is the number of bonds formed by each carbon atom in diamond?
+Tick () one box.
+| ☐ | 2 |
+| ☐ | 3 |
+| ☐ | 4 |
+| ☐ | 8 |","4","","24","24","24","24","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","7","Q07.5","short answer","2","AO1","5.2.3.1","Give two physical properties of diamond.","any two from:
+• (very) hard
+• (very) high melting point
+• does not conduct electricity","allow strong
+allow high thermal conductivity
+ignore shiny","24","24","24","24","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","7","Q07.6","short answer","2","AO1","5.2.2.6","Name two other substances with giant covalent structures.","graphite
+silicon dioxide","allow graphene
+allow silica
+allow silicon
+allow polymer(s) 
+or allow (named) polymer(s) 
+allow fullerene
+or allow carbon nanotubes
+ignore buckminsterfullerene","24","24","24","24","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV20","AQA GCSE Combined Science: Chemistry Paper 1F","2020","8","Q08.1","extended response","6","AO3","5.3.1.3, 5.4.2.2","Some students investigated the thermal decomposition of metal carbonates.
+The word equation for the reaction is:
+metal carbonate → metal oxide + carbon dioxide
+The students made the following hypothesis:
+‘When heated the same mass of any metal carbonate produces the same mass of carbon dioxide.’
+The students heated a test tube containing copper carbonate.
+Table 4 shows their results.
+| Time the test tube containing copper carbonate was heated in mins | 0   | 2   | 4   | 6   |
+| Mass of test tube and contents in g                            | 17.7| 17.1| 17.0| 17.0|
+Plan a method the students could use to test their hypothesis. You should show how the students use their results to test the hypothesis. You do not need to write about safety precautions.","Level 3: The method would lead to the production of a valid outcome. The key steps are identified and logically sequenced.
+Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced.
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+No relevant content
+
+Indicative content:
+• weigh test tube
+• add metal carbonate
+• weigh test tube and metal carbonate
+• heat
+• allow to cool
+• weigh test tube and metal oxide
+• repeat (heat, cool and weigh) until no change in mass
+• determine mass of metal carbonate used
+• determine mass of carbon dioxide produced
+• repeat with different metal carbonate(s)
+
+an alternative method can be based on any mass of metal carbonates and at end divide by this mass to find mass carbon dioxide per gram metal carbonate
+
+level 3 change in mass is determined for at least one other carbonate","","26","27","26","27","false","","true","Table 4","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV20.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-W-MS-NOV20.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","1","01.1","multiple choice","1","AO1","5.1.2.1, 5.1.2.3, 5.3.1.1","Magnesium is in Group 2 of the periodic table.
+1.0 g of magnesium reacted with chlorine to produce magnesium chloride.
+Which types of element react when magnesium reacted with chlorine?
+[1 mark]
+Tick () one box.
+A metal and a metal ☐
+A metal and a non-metal ☐
+A non-metal and a non-metal ☐","a metal and a non-metal","","2","2","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","1","01.2","short answer","1","AO2","5.1.1.1, 5.1.2.6","Write the word equation for the reaction when magnesium reacts with chlorine.
+[1 mark]
+___________________________","magnesium + chlorine → magnesium chloride","allow Mg for magnesium
+allow Cl2 for chlorine
+allow MgCl2 for magnesium 
+chloride","2","2","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","1","01.3","multiple choice","1","AO1","5.3.1.3","What apparatus was used to measure the mass of 1.0 g of magnesium?
+[1 mark]
+Tick () one box.
+Balance ☐
+Beaker ☐
+Ruler ☐","balance","","2","2","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","1","01.4","multiple choice","1","AO3","5.3.1.3, 5.4.1.1","What mass of magnesium chloride was produced?
+[1 mark]
+Tick () one box.
+Less than 1.0 g ☐
+1.0 g ☐
+More than 1.0 g ☐","more than 1.0 g","","3","3","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","1","01.5","calculation","2","AO2","5.3.1.2","Magnesium reacts with oxygen to produce magnesium oxide. 
+Calculate the percentage mass of magnesium in magnesium oxide (MgO).
+Relative atomic mass (Ar): Mg = 24
+Relative formula mass (Mr): MgO = 40
+[2 marks]
+Percentage mass of magnesium = ____ %","(% =) 24/40 × 100 = 60 (%)","","3","3","10","10","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","1","01.6","multiple choice","1","AO3","5.3.1.3","Magnesium carbonate decomposes to produce magnesium oxide and carbon dioxide.
+The word equation for the reaction is:
+magnesium carbonate → magnesium oxide + carbon dioxide
+Four students heated 2.00 g of magnesium carbonate for 10 minutes.
+Table 1 shows the results.
+
+| Mass of carbon dioxide produced in g | Student 1 | Student 2 | Student 3 | Student 4 | Mean |
+|--------------------------------------|-----------|-----------|-----------|-----------|------|
+|                                      |   0.97    |   0.91    |   0.50    |   0.95    |  X   |
+
+What is the most likely reason for Student 3’s anomalous result?
+[1 mark]
+Tick () one box.
+The student heated more than 2.00 g of magnesium carbonate. ☐
+The student heated the magnesium carbonate for less than 10 minutes. ☐
+The student used a higher temperature. ☐","the student heated the magnesium carbonate for less than ten minutes","","4","4","10","10","false","","true","Table 1","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","1","01.7","calculation","3","AO3","5.3.1.3","Calculate value X in Table 1.
+Do not use the anomalous result.
+Give your answer to 2 significant figures.
+[3 marks]
+X (2 significant figures) = ____ g","0.97 + 0.91 + 0.95 = 2.83
+2.83/3 = 0.943333 (g)
+= 0.94 (g)","allow for 1 mark
+ 0.97 + 0.91 + 0.50 + 0.95
+4 or
+3.33
+4
+ = 0.8325 (g)
+allow an answer correctly 
+rounded to 2 significant figures 
+using values from the table","4","4","10","10","false","","true","Table 1","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","2","02.1","short answer","1","AO2","5.2.3.2, 5.4.3.1, 5.4.3.2","This question is about electrolysis.
+Complete the sentence.
+Choose the answer from the box.
+gaseous molten solid
+Copper chloride can conduct electricity when in solution or when __________.
+Figure 1 shows the apparatus used for the electrolysis of copper chloride solution.
+Figure 1
+There are four ions in copper chloride solution:
+• Cu2+
+• Cl–
+• H+
+• OH–","molten","","6","6","11","11","true","Figure 1","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","2","02.2","short answer","1","AO1","5.4.3.1, 5.4.3.4, RPA9","Why do Cl– ions and OH– ions move to the positive electrode?
+[1 mark]
+___________________________","opposite (charges) attract or (the ions) are negative(ly charged)","","7","7","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","2","02.3","multiple choice","1","AO1","5.4.3.4","Where do the H+ and OH– ions come from in the electrolysis of copper chloride solution? 
+[1 mark]
+Tick () one box.
+Air ☐
+Copper chloride ☐
+Water ☐","water","","7","7","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","2","02.4","multiple choice","1","AO2","5.4.3.1, 5.4.3.4, RPA9","Which ion produces a metal?
+[1 mark]
+Tick () one box.
+Cu2+ ☐
+Cl– ☐
+H+ ☐
+OH– ☐","Cu2+","","7","7","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","2","02.5","short answer","2","AO3","5.4.3.1, 5.4.3.4, RPA9","Figure 2 shows the apparatus during the electrolysis of copper chloride solution.
+Figure 2
+Describe what is seen at each electrode during the electrolysis of copper chloride solution.
+[2 marks]
+Positive electrode
+______________________
+Negative electrode
+______________________","(positive electrode) bubbles / effervescence / fizzing
+(negative electrode) (pink / orange / red / brown) solid","allow gas (is produced)
+allow copper (plating)
+allow metal for solid","8","8","11","11","true","Figure 2","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","2","02.6","calculation","2","AO2","5.1.2.6, 5.3.2.5","500 cm3 of copper chloride solution contains 6.50 g of copper chloride.
+Calculate the mass of copper chloride in 40.0 cm3 of this copper chloride solution.
+[2 marks]
+Mass = ____ g","40.0/500 × 6.50 = 0.52 (g)","","8","8","11","11","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","3","03.1","multiple choice","1","AO1","5.1.1.5","Carbon can exist in a number of different structures.
+What is the approximate radius of a carbon atom?
+[1 mark]
+Tick () one box.
+0.1 m ☐
+0.1 mm ☐
+0.1 nm ☐","0.1 nm","","9","9","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","3","03.2","short answer","6","AO2","5.1.1.4, 5.1.1.5, 5.1.1.7","Figure 3 shows an atom of carbon.
+Figure 3
+Describe the atomic structure of this carbon atom.
+You should include the number of electrons, neutrons and protons.
+[6 marks]","6 protons
+8 neutrons
+6 electrons
+protons in nucleus
+neutrons in nucleus
+electrons (around nucleus) in energy levels / shells","allow electron (structure) 2,4","9","10","12","12","true","Figure 3","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","3","03.3","multiple choice","1","AO1","5.2.2.6, 5.2.3.2","In graphite the carbon atoms are held together by bonds.
+Figure 4 represents part of the structure of graphite.
+Figure 4
+How many bonds does each carbon atom have in graphite?
+Use Figure 4.
+[1 mark]
+Tick () one box.
+1 ☐
+2 ☐
+3 ☐
+4 ☐","3","","10","10","12","12","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","3","03.4","multiple choice","1","AO1","5.2.2.6, 5.2.3.2","What type of bonds hold the carbon atoms together in graphite?
+[1 mark]
+Tick () one box.
+Covalent ☐
+Ionic ☐
+Metallic ☐","covalent","","10","10","12","12","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","3","03.5","short answer","1","AO3","5.2.3.2","Lubricants allow objects to slide over each other easily.
+Suggest why graphite can be used as a lubricant.
+Use Figure 4.
+[1 mark]","layers slide (over each other)","allow atoms slide over each 
+other","11","11","12","12","true","Figure 4","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","3","03.6","short answer","2","AO1","5.2.3.1, 5.2.3.3","The two structures represent different forms of carbon.
+Draw one line from each structure to the form of carbon.
+[2 marks]
+Structure           Form of carbon
+Buckminsterfullerene
+Diamond
+Graphene
+Nanotube","do not accept more than one line from a box on the left","","11","12","12","12","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","4","04.1","multiple choice","1","AO1","5.1.2.5","Sodium and potassium are Group 1 elements.
+What is the name of Group 1 elements?
+[1 mark]
+Tick () one box.
+Alkali metals ☐
+Halogens ☐
+Noble gases ☐","alkali metals","","12","12","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","4","04.2","short answer","1","AO2","5.1.2.5","Figure 5 represents the melting points of Group 1 elements.
+Figure 5
+What is the melting point of sodium?
+[1 mark]
+Melting point of sodium = ____ °C","98 (°C)","allow a value in the range 97–99 
+(°C) ","13","13","13","13","true","Figure 5","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","4","04.3","short answer","1","AO2","5.1.2.5, 5.4.1.1","Sodium reacts with water to produce sodium hydroxide and hydrogen.
+Balance the equation for the reaction.
+[1 mark]
+____ Na + ____ H2O → ____ NaOH + ____ H2","2Na + 2H2O → 2NaOH + H2","allow multiples","13","13","13","13","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","4","04.4","calculation","2","AO2","5.1.2.5, 5.3.1.2","Calculate the relative formula mass (Mr) of sodium hydroxide (NaOH).
+Relative atomic masses (Ar): H = 1  O = 16  Na = 23
+[2 marks]
+Relative formula mass (Mr) = ____","(Mr =) 23 + 16 + 1 = 40","","14","14","14","14","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","4","04.5","short answer","4","AO1","5.1.2.5","Sodium and potassium both react with water.
+Figure 6 shows sodium reacting with water.
+Figure 6
+Compare what is seen when sodium reacts with water and when potassium reacts with water.
+[4 marks]","Level 2: Scientifically relevant features are identified; the way(s) in which they are similar / different is made clear and (where appropriate) the magnitude of the similarity / difference is noted.
+Level 1: Relevant features are identified and differences noted.
+No relevant content
+Indicative Content: Similarities – sodium and potassium both:
+• float
+• move
+• bubble / effervesce / fizz
+• melt
+• form a ball
+• get smaller or disappear
+Differences – potassium:
+• moves faster
+• bubbles faster
+• reacts faster
+• disappears faster
+• catches fire
+• lilac flame","","14","14","14","14","true","Figure 6","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","5","05.1","short answer","3","AO3","5.5.1.1","A student investigated the change in temperature when different masses of zinc were added to copper sulfate solution.
+This is the method used.
+1. Measure the volume of copper sulfate solution using a measuring cylinder.
+2. Pour the copper sulfate solution into a metal container.
+3. Add 2 g of zinc.
+4. Measure the temperature of the solution.
+5. Repeat steps 1 to 4 with different masses of zinc.
+Figure 7 shows the apparatus.
+Figure 7
+Give three improvements to the investigation to make the results more accurate.
+[3 marks]
+1 _____________________
+2 _____________________
+3 _____________________","any three from:
+• use a (glass) beaker or use a polystyrene cup
+• insulate the metal container
+• add a lid
+• measure copper sulfate solution with a pipette
+• use same volume (of copper sulfate solution)
+• use a more accurate balance
+• stir (the mixture)
+• record the initial and the highest temperature
+• use a digital thermometer or use a more accurate thermometer
+• repeat the experiment and calculate the mean (ignoring anomalous results)","","16","16","15","15","true","Figure 7","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","5","05.2","short answer","1","AO2","5.4.3.1, 5.4.3.4, RPA9","Figure 8 shows part of the measuring cylinder.
+Figure 8
+What is the volume of copper sulfate solution in Figure 8?
+[1 mark]
+Volume = ____ cm3","72 (cm3)","","17","17","15","15","true","Figure 8","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","5","05.3","multiple choice","1","AO2","5.5.1.2","When zinc was added to copper sulfate solution the temperature increased.
+Figure 9 shows the reaction profile.
+Figure 9
+What type of reaction is shown in Figure 9?
+[1 mark]
+Tick () one box.
+Endothermic ☐
+Exothermic ☐
+Neutralisation ☐","exothermic","","17","17","15","15","true","Figure 9","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","5","05.4","calculation","4","AO2","5.4.3.1, 5.4.3.4, RPA9","Figure 10 shows the results.
+Figure 10
+Determine the gradient of the line in Figure 10.
+Use the equation:
+gradient = increase in temperature in °C / increase in mass in grams
+[4 marks]
+Gradient = ____ °C per g","(increase in temperature =) 50 (°C)
+increase in mass = 6 (g)
+(gradient = ) 50/6 = 8.33 (°C per g)","allow a value in the range 
+5.8 – 6 (g)
+allow correct use of incorrectly 
+determined value(s) for 
+temperature and/or mass","18","18","15","15","true","Figure 10","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","5","05.5","short answer","2","AO2","5.4.3.1, 5.4.3.4, RPA9","Suggest why the student should not use more than 10 g of zinc.
+Use Figure 10.
+You should extend the graph line.
+[2 marks]","extends line on graph to 10 g of zinc
+any one from:
+• temperature (change) of 84 (°C)
+• (so the solution will be) too hot
+• (so the solution will be) over 100 (°C)
+• (so the solution will) boil","allow a temperature (change) 
+over 80 (°C)","18","18","15","15","true","Figure 10","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","6","06.1","short answer","1","AO2","5.1.2.2","This question is about the periodic table.
+Figure 11 shows part of Mendeleev’s version of the periodic table.
+Figure 11
+Which group of elements had not been discovered when Mendeleev’s version of the periodic table was published?
+[1 mark]","(Group) 0 or noble gases","","20","20","16","16","true","Figure 11","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","6","06.2","multiple choice","1","AO2","5.1.1.3","Figure 12 represents different models of the atom.
+Figure 12
+Which model represents the plum pudding model?
+[1 mark]
+Tick () one box.
+A ☐
+B ☐
+C ☐
+D ☐","B","","21","21","16","16","true","Figure 12","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","6","06.3","multiple choice","1","AO3","5.1.1.3","Which model resulted from Chadwick’s experimental work?
+[1 mark]
+Tick () one box.
+A ☐
+B ☐
+C ☐
+D ☐","A","","21","21","16","16","true","Figure 12","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","6","06.4","short answer","2","AO1","5.1.1.5","Potassium has different isotopes.
+What is meant by ‘isotopes’?
+You should refer to subatomic particles.
+[2 marks]","(atoms with the) same number of protons (but with) different numbers of neutrons","allow atoms with the same 
+atomic number
+allow atoms of the same 
+element
+ignore the same number of 
+electrons
+ignore (but with) different mass 
+numbers
+do not accept (but with) different 
+relative atomic mass","22","22","16","16","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","6","06.5","calculation","3","AO2","5.1.1.6","Table 2 shows the mass numbers and the percentage abundance of two isotopes of potassium.
+
+| Mass number | Percentage abundance |
+|-------------|---------------------|
+| 39          | 93.1                |
+| 41          | 6.9                 |
+
+Calculate the relative atomic mass (Ar) of potassium.
+Give your answer to 1 decimal place.
+[3 marks]
+Relative atomic mass (1 decimal place) = ____","(39 × 93.1) + (41 × 6.9)/100 = 39.138 = 39.1","allow correctly rounded answer 
+to 1 decimal place from an 
+incorrect calculation using all the 
+values given in the question","22","22","16","16","false","","true","Table 2","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","7","07.1","multiple choice","1","AO1","5.4.2.4","Acids react to produce salts.
+Universal indicator is added to water and then nitric acid is added to the mixture.
+Give the colour change when nitric acid is added to the mixture of universal indicator and water.
+[1 mark]
+Tick () one box.
+Blue to red ☐
+Green to purple ☐
+Green to red ☐
+Red to purple ☐","green to red","","24","24","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","7","07.2","multiple choice","1","AO1","5.4.2.4","What happens to the pH of water when nitric acid is added?
+[1 mark]
+Tick () one box.
+Decreases ☐
+Stays the same ☐
+Increases ☐","decreases","","24","24","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","7","07.3","short answer","1","AO1","5.2.2.2","What is the state symbol for nitric acid?
+[1 mark]
+__________","(aq)","allow aq
+ignore aqueous
+ignore HNO3","24","24","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","7","07.4","short answer","2","AO3","5.4.2.2, 5.4.2.3","Zinc carbonate reacts with nitric acid.
+The word equation for the reaction is:
+zinc carbonate + nitric acid → zinc nitrate + water + carbon dioxide
+white solid colourless solution
+Give two observations that would be made when zinc carbonate is added to nitric acid until the zinc carbonate is in excess.
+[2 marks]
+1 _____________________
+2 _____________________","any two from:
+• (white) solid disappears
+• fizzing or bubbles (of gas) or effervescence
+• (then) stops fizzing
+• (white) solid left at the end / bottom","allow a gas is produced
+ignore colourless solution","25","25","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","7","07.5","multiple choice","1","AO2","5.1.1.1, 5.4.2.2","The formula of the zinc ion is Zn2+
+The formula of the nitrate ion is NO3–
+What is the formula for zinc nitrate?
+[1 mark]
+Tick () one box.
+ZnNO3 ☐
+Zn(NO3)2 ☐
+Zn2NO3 ☐
+Zn2(NO3)2 ☐","Zn(NO3)2","","25","25","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
+"NOV21","AQA GCSE Combined Science: Chemistry Paper 1F, 2021","2021","7","07.6","extended response","6","AO1","5.4.2.2, 5.4.2.3","Acids react with insoluble metal oxides to produce salts.
+Plan a method to produce a pure, dry sample of the soluble salt copper chloride from an acid and a metal oxide.
+[6 marks]","Level 3: The method would lead to the production of a valid outcome. The key steps are identified and logically sequenced.
+Level 2: The method would not necessarily lead to a valid RPA8 outcome. Most steps are identified, but the method is not fully logically sequenced.
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+No relevant content
+Indicative Content:
+• react hydrochloric acid
+• (with) copper oxide
+• in a suitable container
+• warm (hydrochloric) acid
+• add copper oxide
+• until is in excess or until solid remains
+• stir
+• filter excess copper oxide
+• pour solution / filtrate into evaporating basin
+• use of water bath or use of electric heater
+• to heat gently or partially evaporate
+• leave to cool / crystallise
+For level 3 the correct chemicals must have been selected.","","26","26","17","17","false","","false","","C1F Papers and Mark Schemes\AQA-8464C1F-QP-NOV21.PDF","C1F Papers and Mark Schemes\AQA-8464C1F-MS-NOV21.PDF"
