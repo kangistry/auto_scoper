@@ -804,7 +804,36 @@ def add_gdrive_links(df, mapping_df):
 # MAIN APP
 # =============================================================================
 
+def check_password():
+    """Simple password protection for the app."""
+    # Check if password is configured in secrets
+    try:
+        if hasattr(st, 'secrets') and 'app_password' in st.secrets:
+            if 'authenticated' not in st.session_state:
+                st.session_state.authenticated = False
+            
+            if not st.session_state.authenticated:
+                st.title("🔐 Auto Scoper")
+                password = st.text_input("Enter password to access the app:", type="password")
+                if password:
+                    if password == st.secrets['app_password']:
+                        st.session_state.authenticated = True
+                        st.rerun()
+                    else:
+                        st.error("Incorrect password")
+                return False
+            return True
+        else:
+            # No password configured - allow access (for local development)
+            return True
+    except Exception:
+        return True
+
 def main():
+    # Check password first
+    if not check_password():
+        st.stop()
+    
     st.title("📚 Past Paper Processing Pipeline (Multi-Paper per Year)")
     st.markdown("**Supports multiple papers per year** (e.g., Paper 1H, 1F, 2H, 2F all from the same session). Papers are matched by full identifier (paper code + session).")
     
