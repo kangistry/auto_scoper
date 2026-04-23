@@ -1046,8 +1046,18 @@ def main():
             if valid_matches:
                 st.divider()
                 
-                parallel = st.checkbox("⚡ Process in parallel", value=True)
-                max_workers = st.slider("Max parallel workers", 1, 5, 3) if parallel else 1
+                st.markdown("**Processing Options**")
+                col_opt1, col_opt2 = st.columns(2)
+                with col_opt1:
+                    parallel = st.checkbox("⚡ Process in parallel", value=False, 
+                                          help="Sequential is more reliable and avoids rate limits")
+                    max_workers = st.slider("Max parallel workers", 1, 3, 2) if parallel else 1
+                with col_opt2:
+                    delay_between = st.slider("⏱️ Delay between papers (seconds)", 0, 60, 10,
+                                             help="Add delay to avoid overwhelming the Dify server")
+                
+                if len(valid_matches) > 15:
+                    st.warning(f"⚠️ Processing {len(valid_matches)} papers. Consider doing 10-15 at a time to avoid rate limits.")
                 
                 if st.button("🚀 Process Papers", type="primary"):
                     if not CLOUDSCRAPER_AVAILABLE:
@@ -1229,7 +1239,14 @@ def main():
                         update_parallel_status()  # Show initial "all in progress" state
                         
                         with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                            futures = {executor.submit(process_single_paper, m): m for m in valid_matches}
+                            # Submit tasks with delays to avoid overwhelming the server
+                            futures = {}
+                            for idx, m in enumerate(valid_matches):
+                                futures[executor.submit(process_single_paper, m)] = m
+                                if delay_between > 0 and idx < len(valid_matches) - 1:
+                                    add_log(f"⏳ Submitted {m['identifier']}, waiting {delay_between}s...")
+                                    time.sleep(delay_between)
+                            
                             completed = 0
                             
                             for future in as_completed(futures):
@@ -1353,6 +1370,11 @@ def main():
                                 add_log(f"💾 Auto-saved {saved_count} papers to {RECOVERY_FILE}")
                             else:
                                 add_log(f"❌ {identifier}: {result.get('error', 'Unknown')} ({elapsed:.0f}s)")
+                            
+                            # Add delay between papers to avoid rate limiting
+                            if delay_between > 0 and i < len(valid_matches) - 1:
+                                add_log(f"⏳ Waiting {delay_between}s before next paper...")
+                                time.sleep(delay_between)
                     
                     # Store results
                     st.session_state.processing_results = results
