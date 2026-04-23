@@ -1141,6 +1141,26 @@ def main():
                     
                     import datetime
                     
+                    # PRE-READ all file bytes BEFORE parallel processing to avoid thread-safety issues
+                    add_log("📂 Pre-reading all files (thread-safe preparation)...")
+                    file_data = {}
+                    for m in valid_matches:
+                        try:
+                            qp_bytes = m['qp'].read()
+                            m['qp'].seek(0)
+                            ms_bytes = m['ms'].read()
+                            m['ms'].seek(0)
+                            file_data[m['identifier']] = {
+                                'qp_bytes': qp_bytes,
+                                'qp_name': m['qp'].name,
+                                'ms_bytes': ms_bytes,
+                                'ms_name': m['ms'].name,
+                            }
+                            add_log(f"  ✓ Pre-read {m['identifier']}")
+                        except Exception as e:
+                            add_log(f"  ❌ Failed to read {m['identifier']}: {e}")
+                            file_data[m['identifier']] = None
+                    
                     def process_single_paper(match, api_key=api_key, base_url=base_url, cookies=cookies, log_callback=None):
                         """Process a single paper pair."""
                         identifier = match['identifier']
@@ -1154,25 +1174,28 @@ def main():
                             return full_msg
                         
                         try:
+                            # Get pre-read file bytes (thread-safe)
+                            fdata = file_data.get(identifier)
+                            if not fdata:
+                                raise Exception("Files were not pre-read successfully")
+                            
+                            qp_bytes = fdata['qp_bytes']
+                            qp_name = fdata['qp_name']
+                            ms_bytes = fdata['ms_bytes']
+                            ms_name = fdata['ms_name']
+                            
                             # Create a new scraper for this thread
                             thread_scraper = get_scraper()
-                            
-                            # Read file bytes
-                            log("Reading files...")
-                            qp_bytes = match['qp'].read()
-                            match['qp'].seek(0)  # Reset for potential reuse
-                            ms_bytes = match['ms'].read()
-                            match['ms'].seek(0)
                             
                             # Upload files
                             log("Uploading question paper...")
                             qp_result = upload_file_to_dify(
-                                qp_bytes, match['qp'].name, thread_scraper,
+                                qp_bytes, qp_name, thread_scraper,
                                 api_key, base_url, cookies
                             )
                             log("Uploading mark scheme...")
                             ms_result = upload_file_to_dify(
-                                ms_bytes, match['ms'].name, thread_scraper,
+                                ms_bytes, ms_name, thread_scraper,
                                 api_key, base_url, cookies
                             )
                             
@@ -1188,8 +1211,8 @@ def main():
                                 'identifier': identifier,
                                 'session': session,
                                 'paper_code': match.get('paper_code'),
-                                'qp_file': match['qp'].name,
-                                'ms_file': match['ms'].name,
+                                'qp_file': qp_name,
+                                'ms_file': ms_name,
                                 'result': workflow_result,
                                 'qp_bytes': qp_bytes,
                                 'success': True
@@ -1250,7 +1273,21 @@ def main():
                             completed = 0
                             
                             for future in as_completed(futures):
-                                result = future.result()
+                                match_info = futures[future]
+                                identifier = match_info['identifier']
+                                
+                                try:
+                                    result = future.result()
+                                except Exception as e:
+                                    # Thread crashed unexpectedly - create a failure result
+                                    add_log(f"🔥 THREAD CRASHED for {identifier}: {e}")
+                                    result = {
+                                        'identifier': identifier,
+                                        'session': match_info.get('session'),
+                                        'error': f"Thread crashed: {e}",
+                                        'success': False
+                                    }
+                                
                                 results.append(result)
                                 completed += 1
                                 progress_bar.progress(completed / len(valid_matches), text=f"Processed {completed}/{len(valid_matches)}")
@@ -1272,6 +1309,14 @@ def main():
                                 
                                 # Update parallel status display
                                 update_parallel_status()
+                        
+                        # FINAL SUMMARY for parallel processing
+                        add_log("=" * 50)
+                        add_log(f"🏁 PARALLEL PROCESSING COMPLETE")
+                        add_log(f"   ✅ Succeeded: {len(completed_ids)}")
+                        add_log(f"   ❌ Failed: {len(failed_ids)}")
+                        if failed_ids:
+                            add_log(f"   Failed papers: {', '.join(sorted(failed_ids))}")
                     else:
                         add_log("Using sequential processing...")
                         for i, match in enumerate(valid_matches):
