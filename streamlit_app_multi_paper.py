@@ -390,8 +390,15 @@ def run_dify_workflow(qp_file_id, ms_file_id, session_name, scraper, api_key, ba
                 
         except Exception as e:
             last_error = str(e)
-            if attempt < max_retries - 1 and ("timeout" in str(e).lower() or "524" in str(e)):
-                time.sleep(5)
+            error_lower = str(e).lower()
+            # Retry on various connection/server errors
+            retryable = any(x in error_lower for x in [
+                "timeout", "524", "502", "503", "504", "520", "521", "522", "523",
+                "connection", "reset", "prematurely", "eof", "broken", "aborted",
+                "incomplete", "ssl", "handshake", "network"
+            ])
+            if attempt < max_retries - 1 and retryable:
+                time.sleep(5 + attempt * 5)  # Increasing backoff
                 continue
             raise
     
@@ -1064,239 +1071,352 @@ def main():
                         st.error("cloudscraper is not installed. Run: pip install cloudscraper")
                         return
                     
-                    results = []
-                    qp_bytes_dict = {}
-                    
-                    # Create visible progress containers
-                    st.divider()
-                    status_container = st.container()
-                    with status_container:
-                        st.subheader("⏳ Processing...")
-                        progress_bar = st.progress(0, text="Starting...")
-                        status_text = st.empty()
-                        log_area = st.expander("📋 Processing Log", expanded=True)
-                    
-                    # Create preview container for live CSV preview
-                    st.divider()
-                    preview_container = st.container()
-                    with preview_container:
-                        st.subheader("👀 Live Preview")
-                        st.caption(f"💾 Results auto-saved to `{RECOVERY_FILE}` after each success. Safe to refresh!")
-                        preview_stats = st.empty()
-                        preview_table = st.empty()
-                        preview_warning = st.empty()
-                    
-                    def update_preview(current_results):
-                        """Update the live preview with current results."""
-                        successful = [r for r in current_results if r.get('success')]
-                        if not successful:
-                            preview_stats.info("No successful results yet...")
-                            return
+                    # Top-level try-except to prevent app crashes
+                    try:
+                        results = []
+                        qp_bytes_dict = {}
                         
-                        try:
-                            preview_df = convert_results_to_csv(successful)
-                            if preview_df is not None and len(preview_df) > 0:
-                                # Show stats
-                                papers_done = len(successful)
-                                total_questions = len(preview_df)
-                                questions_per_paper = preview_df.groupby('identifier').size().to_dict()
-                                
-                                stats_text = f"**{papers_done} papers processed** | **{total_questions} questions extracted**\n\n"
-                                stats_text += "Questions per paper: " + ", ".join(
-                                    f"{k}: {v}" for k, v in questions_per_paper.items()
-                                )
-                                preview_stats.markdown(stats_text)
-                                
-                                # Show sample of data (first few rows from each paper)
-                                sample_df = preview_df.groupby('identifier').head(3).reset_index(drop=True)
-                                display_cols = ['identifier', 'question_id', 'subquestion_id', 'type', 'marks', 'question_text']
-                                display_cols = [c for c in display_cols if c in sample_df.columns]
-                                
-                                # Truncate question_text for display
-                                if 'question_text' in sample_df.columns:
-                                    sample_df = sample_df.copy()
-                                    sample_df['question_text'] = sample_df['question_text'].astype(str).str[:100] + '...'
-                                
-                                preview_table.dataframe(sample_df[display_cols], width='stretch', height=200)
-                                
-                                # Check for potential issues (expect 20+ question parts per paper)
-                                warnings = []
-                                for paper, count in questions_per_paper.items():
-                                    if count < 20:
-                                        warnings.append(f"⚠️ {paper}: Only {count} question parts extracted (expected 20+)")
-                                
-                                if warnings:
-                                    preview_warning.warning("\n".join(warnings))
+                        # Create visible progress containers
+                        st.divider()
+                        status_container = st.container()
+                        with status_container:
+                            st.subheader("⏳ Processing...")
+                            progress_bar = st.progress(0, text="Starting...")
+                            status_text = st.empty()
+                            log_area = st.expander("📋 Processing Log", expanded=True)
+                        
+                        # Create preview container for live CSV preview
+                        st.divider()
+                        preview_container = st.container()
+                        with preview_container:
+                            st.subheader("👀 Live Preview")
+                            st.caption(f"💾 Results auto-saved to `{RECOVERY_FILE}` after each success. Safe to refresh!")
+                            preview_stats = st.empty()
+                            preview_table = st.empty()
+                            preview_warning = st.empty()
+                        
+                        def update_preview(current_results):
+                            """Update the live preview with current results."""
+                            successful = [r for r in current_results if r.get('success')]
+                            if not successful:
+                                preview_stats.info("No successful results yet...")
+                                return
+                            
+                            try:
+                                preview_df = convert_results_to_csv(successful)
+                                if preview_df is not None and len(preview_df) > 0:
+                                    # Show stats
+                                    papers_done = len(successful)
+                                    total_questions = len(preview_df)
+                                    questions_per_paper = preview_df.groupby('identifier').size().to_dict()
+                                    
+                                    stats_text = f"**{papers_done} papers processed** | **{total_questions} questions extracted**\n\n"
+                                    stats_text += "Questions per paper: " + ", ".join(
+                                        f"{k}: {v}" for k, v in questions_per_paper.items()
+                                    )
+                                    preview_stats.markdown(stats_text)
+                                    
+                                    # Show sample of data (first few rows from each paper)
+                                    sample_df = preview_df.groupby('identifier').head(3).reset_index(drop=True)
+                                    display_cols = ['identifier', 'question_id', 'subquestion_id', 'type', 'marks', 'question_text']
+                                    display_cols = [c for c in display_cols if c in sample_df.columns]
+                                    
+                                    # Truncate question_text for display
+                                    if 'question_text' in sample_df.columns:
+                                        sample_df = sample_df.copy()
+                                        sample_df['question_text'] = sample_df['question_text'].astype(str).str[:100] + '...'
+                                    
+                                    preview_table.dataframe(sample_df[display_cols], width='stretch', height=200)
+                                    
+                                    # Check for potential issues (expect 20+ question parts per paper)
+                                    warnings = []
+                                    for paper, count in questions_per_paper.items():
+                                        if count < 20:
+                                            warnings.append(f"⚠️ {paper}: Only {count} question parts extracted (expected 20+)")
+                                    
+                                    if warnings:
+                                        preview_warning.warning("\n".join(warnings))
+                                    else:
+                                        preview_warning.empty()
                                 else:
-                                    preview_warning.empty()
-                            else:
-                                preview_stats.warning("No questions extracted from completed papers")
-                        except Exception as e:
-                            preview_stats.error(f"Preview error: {e}")
-                    
-                    # Capture session state values for thread safety
-                    api_key = st.session_state.api_key
-                    base_url = st.session_state.base_url
-                    cookies = st.session_state.cookies.copy() if st.session_state.cookies else {}
-                    
-                    import datetime
-                    
-                    # Define logging function early so it can be used everywhere
-                    log_messages = []
-                    
-                    def add_log(msg):
-                        log_messages.append(msg)
-                        with log_area:
-                            st.text("\n".join(log_messages[-10:]))  # Show last 10 messages
-                    
-                    # PRE-READ all file bytes BEFORE parallel processing to avoid thread-safety issues
-                    add_log("📂 Pre-reading all files (thread-safe preparation)...")
-                    file_data = {}
-                    for m in valid_matches:
-                        try:
-                            qp_bytes = m['qp'].read()
-                            m['qp'].seek(0)
-                            ms_bytes = m['ms'].read()
-                            m['ms'].seek(0)
-                            file_data[m['identifier']] = {
-                                'qp_bytes': qp_bytes,
-                                'qp_name': m['qp'].name,
-                                'ms_bytes': ms_bytes,
-                                'ms_name': m['ms'].name,
-                            }
-                            add_log(f"  ✓ Pre-read {m['identifier']}")
-                        except Exception as e:
-                            add_log(f"  ❌ Failed to read {m['identifier']}: {e}")
-                            file_data[m['identifier']] = None
-                    
-                    def process_single_paper(match, api_key=api_key, base_url=base_url, cookies=cookies, log_callback=None):
-                        """Process a single paper pair."""
-                        identifier = match['identifier']
-                        session = match['session']  # Still used for Dify workflow
+                                    preview_stats.warning("No questions extracted from completed papers")
+                            except Exception as e:
+                                preview_stats.error(f"Preview error: {e}")
                         
-                        def log(msg):
-                            timestamp = datetime.datetime.now().strftime("%H:%M:%S")
-                            full_msg = f"[{timestamp}] {identifier}: {msg}"
-                            if log_callback:
-                                log_callback(full_msg)
-                            return full_msg
+                        # Capture session state values for thread safety
+                        api_key = st.session_state.api_key
+                        base_url = st.session_state.base_url
+                        cookies = st.session_state.cookies.copy() if st.session_state.cookies else {}
                         
-                        try:
-                            # Get pre-read file bytes (thread-safe)
-                            fdata = file_data.get(identifier)
-                            if not fdata:
-                                raise Exception("Files were not pre-read successfully")
-                            
-                            qp_bytes = fdata['qp_bytes']
-                            qp_name = fdata['qp_name']
-                            ms_bytes = fdata['ms_bytes']
-                            ms_name = fdata['ms_name']
-                            
-                            # Create a new scraper for this thread
-                            thread_scraper = get_scraper()
-                            
-                            # Upload files
-                            log("Uploading question paper...")
-                            qp_result = upload_file_to_dify(
-                                qp_bytes, qp_name, thread_scraper,
-                                api_key, base_url, cookies
-                            )
-                            log("Uploading mark scheme...")
-                            ms_result = upload_file_to_dify(
-                                ms_bytes, ms_name, thread_scraper,
-                                api_key, base_url, cookies
-                            )
-                            
-                            # Run workflow
-                            log("Running Dify workflow (this may take 1-5 minutes)...")
-                            workflow_result = run_dify_workflow(
-                                qp_result['id'], ms_result['id'], session,
-                                thread_scraper, api_key, base_url, cookies
-                            )
-                            log("Workflow complete!")
-                            
-                            return {
-                                'identifier': identifier,
-                                'session': session,
-                                'paper_code': match.get('paper_code'),
-                                'qp_file': qp_name,
-                                'ms_file': ms_name,
-                                'result': workflow_result,
-                                'qp_bytes': qp_bytes,
-                                'success': True
-                            }
-                        except Exception as e:
-                            log(f"Error: {e}")
-                            return {
-                                'identifier': identifier,
-                                'session': session,
-                                'error': str(e),
-                                'success': False
-                            }
-                    
-                    # Process papers
-                    add_log(f"Starting processing of {len(valid_matches)} papers...")
-                    add_log(f"Parallel: {parallel}, Workers: {max_workers}")
-                    
-                    if parallel and max_workers > 1:
-                        add_log("Using parallel processing...")
+                        import datetime
                         
-                        # Track which papers are in progress
-                        all_paper_ids = [m['identifier'] for m in valid_matches]
-                        completed_ids = set()
-                        failed_ids = set()
+                        # Define logging function early so it can be used everywhere
+                        log_messages = []
                         
-                        # Create a status display for parallel progress
-                        parallel_status = st.empty()
+                        def add_log(msg):
+                            log_messages.append(msg)
+                            with log_area:
+                                st.text("\n".join(log_messages[-10:]))  # Show last 10 messages
                         
-                        def update_parallel_status():
-                            in_progress = [p for p in all_paper_ids if p not in completed_ids and p not in failed_ids]
-                            status_parts = []
-                            if completed_ids:
-                                status_parts.append(f"✅ Done: {', '.join(sorted(completed_ids))}")
-                            if in_progress:
-                                status_parts.append(f"🔄 In progress: {', '.join(in_progress)}")
-                            if failed_ids:
-                                status_parts.append(f"❌ Failed: {', '.join(sorted(failed_ids))}")
-                            parallel_status.markdown(" | ".join(status_parts))
+                        # PRE-READ all file bytes BEFORE parallel processing to avoid thread-safety issues
+                        add_log("📂 Pre-reading all files (thread-safe preparation)...")
+                        file_data = {}
+                        for m in valid_matches:
+                            try:
+                                qp_bytes = m['qp'].read()
+                                m['qp'].seek(0)
+                                ms_bytes = m['ms'].read()
+                                m['ms'].seek(0)
+                                file_data[m['identifier']] = {
+                                    'qp_bytes': qp_bytes,
+                                    'qp_name': m['qp'].name,
+                                    'ms_bytes': ms_bytes,
+                                    'ms_name': m['ms'].name,
+                                }
+                                add_log(f"  ✓ Pre-read {m['identifier']}")
+                            except Exception as e:
+                                add_log(f"  ❌ Failed to read {m['identifier']}: {e}")
+                                file_data[m['identifier']] = None
                         
-                        update_parallel_status()  # Show initial "all in progress" state
-                        
-                        with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                            # Submit tasks with delays to avoid overwhelming the server
-                            futures = {}
-                            for idx, m in enumerate(valid_matches):
-                                futures[executor.submit(process_single_paper, m)] = m
-                                if delay_between > 0 and idx < len(valid_matches) - 1:
-                                    add_log(f"⏳ Submitted {m['identifier']}, waiting {delay_between}s...")
-                                    time.sleep(delay_between)
+                        def process_single_paper(match, api_key=api_key, base_url=base_url, cookies=cookies, log_callback=None):
+                            """Process a single paper pair."""
+                            identifier = match['identifier']
+                            session = match['session']  # Still used for Dify workflow
                             
-                            completed = 0
+                            def log(msg):
+                                timestamp = datetime.datetime.now().strftime("%H:%M:%S")
+                                full_msg = f"[{timestamp}] {identifier}: {msg}"
+                                if log_callback:
+                                    log_callback(full_msg)
+                                return full_msg
                             
-                            for future in as_completed(futures):
-                                match_info = futures[future]
-                                identifier = match_info['identifier']
+                            try:
+                                # Get pre-read file bytes (thread-safe)
+                                fdata = file_data.get(identifier)
+                                if not fdata:
+                                    raise Exception("Files were not pre-read successfully")
                                 
-                                try:
-                                    result = future.result()
-                                except Exception as e:
-                                    # Thread crashed unexpectedly - create a failure result
-                                    add_log(f"🔥 THREAD CRASHED for {identifier}: {e}")
-                                    result = {
-                                        'identifier': identifier,
-                                        'session': match_info.get('session'),
-                                        'error': f"Thread crashed: {e}",
-                                        'success': False
-                                    }
+                                qp_bytes = fdata['qp_bytes']
+                                qp_name = fdata['qp_name']
+                                ms_bytes = fdata['ms_bytes']
+                                ms_name = fdata['ms_name']
+                                
+                                # Create a new scraper for this thread
+                                thread_scraper = get_scraper()
+                                
+                                # Upload files
+                                log("Uploading question paper...")
+                                qp_result = upload_file_to_dify(
+                                    qp_bytes, qp_name, thread_scraper,
+                                    api_key, base_url, cookies
+                                )
+                                log("Uploading mark scheme...")
+                                ms_result = upload_file_to_dify(
+                                    ms_bytes, ms_name, thread_scraper,
+                                    api_key, base_url, cookies
+                                )
+                                
+                                # Run workflow
+                                log("Running Dify workflow (this may take 1-5 minutes)...")
+                                workflow_result = run_dify_workflow(
+                                    qp_result['id'], ms_result['id'], session,
+                                    thread_scraper, api_key, base_url, cookies
+                                )
+                                log("Workflow complete!")
+                                
+                                return {
+                                    'identifier': identifier,
+                                    'session': session,
+                                    'paper_code': match.get('paper_code'),
+                                    'qp_file': qp_name,
+                                    'ms_file': ms_name,
+                                    'result': workflow_result,
+                                    'qp_bytes': qp_bytes,
+                                    'success': True
+                                }
+                            except Exception as e:
+                                log(f"Error: {e}")
+                                return {
+                                    'identifier': identifier,
+                                    'session': session,
+                                    'error': str(e),
+                                    'success': False
+                                }
+                        
+                        # Process papers
+                        add_log(f"Starting processing of {len(valid_matches)} papers...")
+                        add_log(f"Parallel: {parallel}, Workers: {max_workers}")
+                        
+                        if parallel and max_workers > 1:
+                            add_log("Using parallel processing...")
+                            
+                            # Track which papers are in progress
+                            all_paper_ids = [m['identifier'] for m in valid_matches]
+                            completed_ids = set()
+                            failed_ids = set()
+                            
+                            # Create a status display for parallel progress
+                            parallel_status = st.empty()
+                            
+                            def update_parallel_status():
+                                in_progress = [p for p in all_paper_ids if p not in completed_ids and p not in failed_ids]
+                                status_parts = []
+                                if completed_ids:
+                                    status_parts.append(f"✅ Done: {', '.join(sorted(completed_ids))}")
+                                if in_progress:
+                                    status_parts.append(f"🔄 In progress: {', '.join(in_progress)}")
+                                if failed_ids:
+                                    status_parts.append(f"❌ Failed: {', '.join(sorted(failed_ids))}")
+                                parallel_status.markdown(" | ".join(status_parts))
+                            
+                            update_parallel_status()  # Show initial "all in progress" state
+                            
+                            with ThreadPoolExecutor(max_workers=max_workers) as executor:
+                                # Submit tasks with delays to avoid overwhelming the server
+                                futures = {}
+                                for idx, m in enumerate(valid_matches):
+                                    futures[executor.submit(process_single_paper, m)] = m
+                                    if delay_between > 0 and idx < len(valid_matches) - 1:
+                                        add_log(f"⏳ Submitted {m['identifier']}, waiting {delay_between}s...")
+                                        time.sleep(delay_between)
+                                
+                                completed = 0
+                                
+                                for future in as_completed(futures):
+                                    match_info = futures[future]
+                                    identifier = match_info['identifier']
+                                    
+                                    try:
+                                        result = future.result()
+                                    except Exception as e:
+                                        # Thread crashed unexpectedly - create a failure result
+                                        add_log(f"🔥 THREAD CRASHED for {identifier}: {e}")
+                                        result = {
+                                            'identifier': identifier,
+                                            'session': match_info.get('session'),
+                                            'error': f"Thread crashed: {e}",
+                                            'success': False
+                                        }
+                                    
+                                    results.append(result)
+                                    completed += 1
+                                    progress_bar.progress(completed / len(valid_matches), text=f"Processed {completed}/{len(valid_matches)}")
+                                    
+                                    if result['success']:
+                                        completed_ids.add(result['identifier'])
+                                        status_text.success(f"✅ Completed: {result['identifier']}")
+                                        add_log(f"✅ {result['identifier']}: Success")
+                                        qp_bytes_dict[result['identifier']] = result['qp_bytes']
+                                        # Update live preview
+                                        update_preview(results)
+                                        # AUTO-SAVE: Save partial results after each success
+                                        saved_count = save_partial_results(results)
+                                        add_log(f"💾 Auto-saved {saved_count} papers to {RECOVERY_FILE}")
+                                    else:
+                                        failed_ids.add(result['identifier'])
+                                        status_text.error(f"❌ Failed: {result['identifier']}")
+                                        add_log(f"❌ {result['identifier']}: {result.get('error', 'Unknown error')}")
+                                    
+                                    # Update parallel status display
+                                    update_parallel_status()
+                            
+                            # FINAL SUMMARY for parallel processing
+                            add_log("=" * 50)
+                            add_log(f"🏁 PARALLEL PROCESSING COMPLETE")
+                            add_log(f"   ✅ Succeeded: {len(completed_ids)}")
+                            add_log(f"   ❌ Failed: {len(failed_ids)}")
+                            if failed_ids:
+                                add_log(f"   Failed papers: {', '.join(sorted(failed_ids))}")
+                        else:
+                            add_log("Using sequential processing...")
+                            for i, match in enumerate(valid_matches):
+                                identifier = match['identifier']
+                                session = match['session']
+                                
+                                progress_bar.progress(i / len(valid_matches), text=f"Processing {identifier}...")
+                                add_log(f"Processing {identifier}...")
+                                
+                                # Use st.status for real-time node progress
+                                with st.status(f"🔄 Processing {identifier}...", expanded=True) as status:
+                                    start_time = time.time()
+                                    node_progress = st.empty()  # For showing current node
+                                    timer_display = st.empty()  # For elapsed time
+                                    
+                                    try:
+                                        thread_scraper = get_scraper()
+                                        
+                                        # Read files
+                                        node_progress.write("📂 Reading files...")
+                                        timer_display.write(f"⏱️ Elapsed: 0s")
+                                        qp_bytes = match['qp'].read()
+                                        match['qp'].seek(0)
+                                        ms_bytes = match['ms'].read()
+                                        match['ms'].seek(0)
+                                        
+                                        # Upload QP
+                                        node_progress.write("📤 Uploading question paper...")
+                                        timer_display.write(f"⏱️ Elapsed: {time.time() - start_time:.0f}s")
+                                        qp_result = upload_file_to_dify(
+                                            qp_bytes, match['qp'].name, thread_scraper,
+                                            api_key, base_url, cookies
+                                        )
+                                        
+                                        # Upload MS
+                                        node_progress.write("📤 Uploading mark scheme...")
+                                        timer_display.write(f"⏱️ Elapsed: {time.time() - start_time:.0f}s")
+                                        ms_result = upload_file_to_dify(
+                                            ms_bytes, match['ms'].name, thread_scraper,
+                                            api_key, base_url, cookies
+                                        )
+                                        
+                                        # Run workflow with progress callback
+                                        node_progress.write("🔄 Starting Dify workflow...")
+                                        
+                                        def update_node_progress(node_status, elapsed):
+                                            node_progress.write(f"🔄 {node_status}")
+                                            timer_display.write(f"⏱️ Elapsed: {elapsed:.0f}s")
+                                        
+                                        workflow_result = run_dify_workflow(
+                                            qp_result['id'], ms_result['id'], session,
+                                            thread_scraper, api_key, base_url, cookies,
+                                            progress_callback=update_node_progress
+                                        )
+                                        
+                                        elapsed = time.time() - start_time
+                                        
+                                        # Show completion with node count
+                                        metadata = workflow_result.get('_metadata', {})
+                                        nodes = metadata.get('nodes_completed', [])
+                                        node_progress.write(f"✅ Completed {len(nodes)} workflow nodes")
+                                        
+                                        result = {
+                                            'identifier': identifier,
+                                            'session': session,
+                                            'paper_code': match.get('paper_code'),
+                                            'qp_file': match['qp'].name,
+                                            'ms_file': match['ms'].name,
+                                            'result': workflow_result,
+                                            'qp_bytes': qp_bytes,
+                                            'success': True
+                                        }
+                                        status.update(label=f"✅ {identifier} completed in {elapsed:.0f}s", state="complete")
+                                        
+                                    except Exception as e:
+                                        elapsed = time.time() - start_time
+                                        result = {
+                                            'identifier': identifier,
+                                            'session': session,
+                                            'error': str(e),
+                                            'success': False
+                                        }
+                                        node_progress.write(f"❌ Error: {e}")
+                                        status.update(label=f"❌ {identifier} failed after {elapsed:.0f}s", state="error")
                                 
                                 results.append(result)
-                                completed += 1
-                                progress_bar.progress(completed / len(valid_matches), text=f"Processed {completed}/{len(valid_matches)}")
+                                progress_bar.progress((i + 1) / len(valid_matches), text=f"Processed {i+1}/{len(valid_matches)}")
                                 
                                 if result['success']:
-                                    completed_ids.add(result['identifier'])
-                                    status_text.success(f"✅ Completed: {result['identifier']}")
-                                    add_log(f"✅ {result['identifier']}: Success")
+                                    add_log(f"✅ {identifier}: Success ({elapsed:.0f}s)")
                                     qp_bytes_dict[result['identifier']] = result['qp_bytes']
                                     # Update live preview
                                     update_preview(results)
@@ -1304,138 +1424,46 @@ def main():
                                     saved_count = save_partial_results(results)
                                     add_log(f"💾 Auto-saved {saved_count} papers to {RECOVERY_FILE}")
                                 else:
-                                    failed_ids.add(result['identifier'])
-                                    status_text.error(f"❌ Failed: {result['identifier']}")
-                                    add_log(f"❌ {result['identifier']}: {result.get('error', 'Unknown error')}")
+                                    add_log(f"❌ {identifier}: {result.get('error', 'Unknown')} ({elapsed:.0f}s)")
                                 
-                                # Update parallel status display
-                                update_parallel_status()
+                                # Add delay between papers to avoid rate limiting
+                                if delay_between > 0 and i < len(valid_matches) - 1:
+                                    add_log(f"⏳ Waiting {delay_between}s before next paper...")
+                                    time.sleep(delay_between)
                         
-                        # FINAL SUMMARY for parallel processing
-                        add_log("=" * 50)
-                        add_log(f"🏁 PARALLEL PROCESSING COMPLETE")
-                        add_log(f"   ✅ Succeeded: {len(completed_ids)}")
-                        add_log(f"   ❌ Failed: {len(failed_ids)}")
-                        if failed_ids:
-                            add_log(f"   Failed papers: {', '.join(sorted(failed_ids))}")
-                    else:
-                        add_log("Using sequential processing...")
-                        for i, match in enumerate(valid_matches):
-                            identifier = match['identifier']
-                            session = match['session']
-                            
-                            progress_bar.progress(i / len(valid_matches), text=f"Processing {identifier}...")
-                            add_log(f"Processing {identifier}...")
-                            
-                            # Use st.status for real-time node progress
-                            with st.status(f"🔄 Processing {identifier}...", expanded=True) as status:
-                                start_time = time.time()
-                                node_progress = st.empty()  # For showing current node
-                                timer_display = st.empty()  # For elapsed time
-                                
-                                try:
-                                    thread_scraper = get_scraper()
-                                    
-                                    # Read files
-                                    node_progress.write("📂 Reading files...")
-                                    timer_display.write(f"⏱️ Elapsed: 0s")
-                                    qp_bytes = match['qp'].read()
-                                    match['qp'].seek(0)
-                                    ms_bytes = match['ms'].read()
-                                    match['ms'].seek(0)
-                                    
-                                    # Upload QP
-                                    node_progress.write("📤 Uploading question paper...")
-                                    timer_display.write(f"⏱️ Elapsed: {time.time() - start_time:.0f}s")
-                                    qp_result = upload_file_to_dify(
-                                        qp_bytes, match['qp'].name, thread_scraper,
-                                        api_key, base_url, cookies
-                                    )
-                                    
-                                    # Upload MS
-                                    node_progress.write("📤 Uploading mark scheme...")
-                                    timer_display.write(f"⏱️ Elapsed: {time.time() - start_time:.0f}s")
-                                    ms_result = upload_file_to_dify(
-                                        ms_bytes, match['ms'].name, thread_scraper,
-                                        api_key, base_url, cookies
-                                    )
-                                    
-                                    # Run workflow with progress callback
-                                    node_progress.write("🔄 Starting Dify workflow...")
-                                    
-                                    def update_node_progress(node_status, elapsed):
-                                        node_progress.write(f"🔄 {node_status}")
-                                        timer_display.write(f"⏱️ Elapsed: {elapsed:.0f}s")
-                                    
-                                    workflow_result = run_dify_workflow(
-                                        qp_result['id'], ms_result['id'], session,
-                                        thread_scraper, api_key, base_url, cookies,
-                                        progress_callback=update_node_progress
-                                    )
-                                    
-                                    elapsed = time.time() - start_time
-                                    
-                                    # Show completion with node count
-                                    metadata = workflow_result.get('_metadata', {})
-                                    nodes = metadata.get('nodes_completed', [])
-                                    node_progress.write(f"✅ Completed {len(nodes)} workflow nodes")
-                                    
-                                    result = {
-                                        'identifier': identifier,
-                                        'session': session,
-                                        'paper_code': match.get('paper_code'),
-                                        'qp_file': match['qp'].name,
-                                        'ms_file': match['ms'].name,
-                                        'result': workflow_result,
-                                        'qp_bytes': qp_bytes,
-                                        'success': True
-                                    }
-                                    status.update(label=f"✅ {identifier} completed in {elapsed:.0f}s", state="complete")
-                                    
-                                except Exception as e:
-                                    elapsed = time.time() - start_time
-                                    result = {
-                                        'identifier': identifier,
-                                        'session': session,
-                                        'error': str(e),
-                                        'success': False
-                                    }
-                                    node_progress.write(f"❌ Error: {e}")
-                                    status.update(label=f"❌ {identifier} failed after {elapsed:.0f}s", state="error")
-                            
-                            results.append(result)
-                            progress_bar.progress((i + 1) / len(valid_matches), text=f"Processed {i+1}/{len(valid_matches)}")
-                            
-                            if result['success']:
-                                add_log(f"✅ {identifier}: Success ({elapsed:.0f}s)")
-                                qp_bytes_dict[result['identifier']] = result['qp_bytes']
-                                # Update live preview
-                                update_preview(results)
-                                # AUTO-SAVE: Save partial results after each success
-                                saved_count = save_partial_results(results)
-                                add_log(f"💾 Auto-saved {saved_count} papers to {RECOVERY_FILE}")
-                            else:
-                                add_log(f"❌ {identifier}: {result.get('error', 'Unknown')} ({elapsed:.0f}s)")
-                            
-                            # Add delay between papers to avoid rate limiting
-                            if delay_between > 0 and i < len(valid_matches) - 1:
-                                add_log(f"⏳ Waiting {delay_between}s before next paper...")
-                                time.sleep(delay_between)
+                        # Store results
+                        st.session_state.processing_results = results
+                        st.session_state.qp_bytes_dict = qp_bytes_dict
+                        
+                        # Convert to CSV
+                        successful_results = [r for r in results if r.get('success')]
+                        if successful_results:
+                            df = convert_results_to_csv(successful_results)
+                            st.session_state.csv_data = df
+                        
+                        # Summary
+                        st.divider()
+                        success_count = sum(1 for r in results if r.get('success'))
+                        st.success(f"✅ Processing complete: {success_count}/{len(valid_matches)} papers succeeded")
                     
-                    # Store results
-                    st.session_state.processing_results = results
-                    st.session_state.qp_bytes_dict = qp_bytes_dict
-                    
-                    # Convert to CSV
-                    successful_results = [r for r in results if r.get('success')]
-                    if successful_results:
-                        df = convert_results_to_csv(successful_results)
-                        st.session_state.csv_data = df
-                    
-                    # Summary
-                    st.divider()
-                    success_count = sum(1 for r in results if r.get('success'))
-                    st.success(f"✅ Processing complete: {success_count}/{len(valid_matches)} papers succeeded")
+                    except Exception as e:
+                        # CRITICAL: Catch any unhandled error to prevent app crash
+                        st.error(f"🔥 CRITICAL ERROR: {e}")
+                        st.error("The app encountered an unexpected error. Your partial results should be auto-saved.")
+                        
+                        # Try to save whatever results we have
+                        try:
+                            if 'results' in dir() and results:
+                                saved = save_partial_results(results)
+                                st.warning(f"💾 Emergency save: {saved} papers saved to recovery file.")
+                                st.info("You can load these from the recovery section at the top of this page after refreshing.")
+                        except Exception as save_error:
+                            st.error(f"Could not save partial results: {save_error}")
+                        
+                        # Show the full traceback for debugging
+                        import traceback
+                        with st.expander("🔍 Full Error Details (for debugging)", expanded=False):
+                            st.code(traceback.format_exc())
     
     # ==========================================================================
     # TAB 2: View Results
