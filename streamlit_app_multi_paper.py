@@ -1117,7 +1117,7 @@ def main():
                                     sample_df = sample_df.copy()
                                     sample_df['question_text'] = sample_df['question_text'].astype(str).str[:100] + '...'
                                 
-                                preview_table.dataframe(sample_df[display_cols], use_container_width=True, height=200)
+                                preview_table.dataframe(sample_df[display_cols], width='stretch', height=200)
                                 
                                 # Check for potential issues (expect 20+ question parts per paper)
                                 warnings = []
@@ -1140,6 +1140,14 @@ def main():
                     cookies = st.session_state.cookies.copy() if st.session_state.cookies else {}
                     
                     import datetime
+                    
+                    # Define logging function early so it can be used everywhere
+                    log_messages = []
+                    
+                    def add_log(msg):
+                        log_messages.append(msg)
+                        with log_area:
+                            st.text("\n".join(log_messages[-10:]))  # Show last 10 messages
                     
                     # PRE-READ all file bytes BEFORE parallel processing to avoid thread-safety issues
                     add_log("📂 Pre-reading all files (thread-safe preparation)...")
@@ -1227,13 +1235,6 @@ def main():
                             }
                     
                     # Process papers
-                    log_messages = []
-                    
-                    def add_log(msg):
-                        log_messages.append(msg)
-                        with log_area:
-                            st.text("\n".join(log_messages[-10:]))  # Show last 10 messages
-                    
                     add_log(f"Starting processing of {len(valid_matches)} papers...")
                     add_log(f"Parallel: {parallel}, Workers: {max_workers}")
                     
@@ -1503,7 +1504,7 @@ def main():
             if selected_type != 'All':
                 filtered_df = filtered_df[filtered_df['type'] == selected_type]
             
-            st.dataframe(filtered_df, use_container_width=True, height=400)
+            st.dataframe(filtered_df, width='stretch', height=400)
             
             # Download buttons
             st.divider()
@@ -1629,7 +1630,7 @@ def main():
                     # Preview
                     st.dataframe(
                         df_with_links[['session', 'question_id', 'subquestion_id', 'question_pdf_link']].head(20),
-                        use_container_width=True
+                        width='stretch'
                     )
                     
                     # Download
