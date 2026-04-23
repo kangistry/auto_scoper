@@ -25,3 +25,32 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# ===========================================
+# DATA FILES - Don't commit copyrighted/large files
+# ===========================================
+
+# PDF files (exam papers, mark schemes)
+*.pdf
+*.PDF
+
+# Data folders with papers
+8464*_question_pdfs/
+BioMarkSchemes/
+biology_papers/
+"C1F Papers and Mark Schemes"/
+"C1H Papers and Mark Schemes"/
+"C2F Papers and Mark Schemes"/
+"C2H Papers and Mark Schemes"/
+Archive/
+
+# CSV data files (processed results)
+*.csv
+
+# Excel files
+*.xlsx
+
+# JSON result files
+*_result.json
+*_results.json
+workflow_result*.json
